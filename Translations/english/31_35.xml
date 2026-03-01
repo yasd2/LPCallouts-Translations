@@ -1,0 +1,212 @@
+<TRANSLATION>
+    <CALLOUTID ID="31">
+        <CONTACTID ID="1">
+            <TEXT>Hello Ma'am, are you the one that called in a disturbance?</TEXT>
+            <TEXT>Hello Officer. Yes I did. Can you hear that loud music?</TEXT>
+            <TEXT>Yes. How long have they been playing their music that loudly?</TEXT>
+            <TEXT>It's been going on for at least 4 hours now. Can you please stop it? It is coming from that house.</TEXT>
+            <TEXT>I'll do my best to have them shut it off. Thanks for letting us know about it.</TEXT>
+            <TEXT>Thank you Officer.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello everybody. Who is the owner of this property?</TEXT>
+            <TEXT>Hello Officer. This is my house... Is there a problem?</TEXT>
+            <TEXT>Hi, we have a complaint from one of your neighbours regarding the loud music. What's your name sir?</TEXT>
+            <TEXT>I'm not telling you that! We're having a party, they should expect to hear us!</TEXT>
+            <TEXT>Alright sir, well I need you to turn down the volume.</TEXT>
+            <TEXT>Fine... If you say so. Give me a second...</TEXT>
+            <TEXT>Better now?</TEXT>
+            <TEXT>Yes, thank you for your cooperation. Have a fun rest of your time.</TEXT>
+            <TEXT>Whatever party killer...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Sir, do you think its necessary for me to have to come back again?</TEXT>
+            <TEXT>Oh hey officer. Sorry, I guess one of my friends turned the volume up. I'll go turn it down.</TEXT>
+            <TEXT>Well this is my second time here. I don't care about excuses. Turn off the music.</TEXT>
+            <TEXT>Why? Haven't you had fun as a teen? Quit complaining, we're having fun!</TEXT>
+            <TEXT>I warned you already. Turn it off now.</TEXT>
+            <TEXT>No. You can't make me. Im sick of you trying to ruin my party.</TEXT>
+            <TEXT>There are two ways this will end. First, you turn off the music and continue your party.</TEXT>
+            <TEXT>Second, if you refuse to cooperate, the party ends and I will take you in for disturbing the peace. Its your choice.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Alright then... I will turn off the music.</TEXT>
+            <TEXT>Happy now?</TEXT>
+            <TEXT>Wise decision my friend. Regardless of this action, have a nice day.</TEXT>
+            <TEXT>Leave my property. The people around here suck...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>Fuckin' pig!</TEXT>
+            <TEXT>Okay bud, put your hands where I can see them. You are going to jail for disturbing the peace.</TEXT>
+            <TEXT>Wow, I can't believe this. Clearly someone doesn't know how to have fun!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="32">
+        <CONTACTID ID="1">
+            <TEXT>Excuse me sir, are you the one that called regarding the loud music?</TEXT>
+            <TEXT>Hi Officer. Yes, I was the one that called the police.</TEXT>
+            <TEXT>I'm assuming you are talking about the music that I'm hearing in background?</TEXT>
+            <TEXT>Yes. Those party-goers are always partying, and us neighbors are always suffering! Can you shut it down please?</TEXT>
+            <TEXT>Certainly. I will take to the owner and ask them to lower the volume.</TEXT>
+            <TEXT>Thank you so much officer.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hi. I'm officer {0}. Who is responsible for this party?</TEXT>
+            <TEXT>That's me. Michael De Santa. Is there a problem officer?</TEXT>
+            <TEXT>Yes Mr. De Santa. Sorry to interrupt but people in your neighborhood are complaining about the loud music.</TEXT>
+            <TEXT>Oh come on, this is a celebration party for my daughter Tracy. She finally got a job on TV.</TEXT>
+            <TEXT>Well that's nice to hear Michael, but I need you to turn down the volume.</TEXT>
+            <TEXT>Alright then, give me second...</TEXT>
+            <TEXT>Are you satisfied with it now?</TEXT>
+            <TEXT>Thank you Mr. De Santa. I appreciate your cooperation. Have a nice party.</TEXT>
+            <TEXT>It won't be as fun...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Can I talk to you for again Mr. De Santa?</TEXT>
+            <TEXT>What now?</TEXT>
+            <TEXT>Why is the music so loud again?</TEXT>
+            <TEXT>Do you really want an answer for that?</TEXT>
+            <TEXT>Basically I don't care. Turn off the music, or I will take you to jail.</TEXT>
+            <TEXT>What the fuck? Why are you acting like a pussy?</TEXT>
+            <TEXT>I asked you kindly to turn off the music, and now you have no choice.</TEXT>
+            <TEXT>Turn off the music before I take you in.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Okay okay, don't lose yourself.</TEXT>
+            <TEXT>Happy now?</TEXT>
+            <TEXT>If I have to come back again, you're going straight to the station. Goodbye Mr. De Santa.</TEXT>
+            <TEXT>Whatever dude. Go back to your group therapy...knuckle head</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>The hell I will!</TEXT>
+            <TEXT>Then I will take you down to the station for disturbing the peace. Let me see your hands.</TEXT>
+            <TEXT>This is stupid. I'm gunna call my lawyer you son of a bitch!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="33">
+        <CONTACTID ID="1">
+            <TEXT>Hello. Did you call 911 reporting loud music?</TEXT>
+            <TEXT>Hello Officer. Yes. They have been playing it for a few hours. Enough is enough!</TEXT>
+            <TEXT>I agree. Has the volume always been this loud?</TEXT>
+            <TEXT>There were a few minutes it was quiet, but its been like this for hours.</TEXT>
+            <TEXT>Okay. I'll make contact with the house owner and ask them to turn down the volume.</TEXT>
+            <TEXT>Thank you for taking this seriously.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello. Can I talk to the house owner for minute?</TEXT>
+            <TEXT>Yo dog, I'm Franklin Clinton. This is my crib, whats going on?</TEXT>
+            <TEXT>Hello Mr. Clinton, we got a complaint regarding your loud music.</TEXT>
+            <TEXT>What? This ain't too loud. People still can talk to each other...</TEXT>
+            <TEXT>Regardless, please turn down the volume.</TEXT>
+            <TEXT>Fine, if I have to...</TEXT>
+            <TEXT>Is this okay for my officer friend?</TEXT>
+            <TEXT>Yes it is. Thanks for your cooperation.</TEXT>
+            <TEXT>Thank you officer!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hey Mr. Clinton, come back over here please.</TEXT>
+            <TEXT>Hey yo. What'cha doing here again?</TEXT>
+            <TEXT>I'm back because the music is too loud again.</TEXT>
+            <TEXT>I think its the same volume as when you left. The dude complaining must have a pair of damaged ears.</TEXT>
+            <TEXT>Sir, you need to turn off the volume now.</TEXT>
+            <TEXT>What? No, I'll just turn it down. It doesn't have to be turned off!</TEXT>
+            <TEXT>Sir, please don't make this harder than it has to be.</TEXT>
+            <TEXT>Turn off the music, before I take you to jail for disturbing the peace.</TEXT>  
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Eh, if the cop says to turn it off, I guess I have to turn it off...</TEXT>
+            <TEXT>Silence has arrived. Are you happy?</TEXT>
+            <TEXT>I hope you keep it like this. Thank you.</TEXT>
+            <TEXT>Sorry for causing you the hassle, officer."</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>You know what, go suck a mighty...</TEXT>
+            <TEXT>Okay, put your hands where I can see them. You are being placed under arrest for disturbing the peace.</TEXT>
+            <TEXT>Jail ain't gunna do nothing, pig!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="34">
+        <CONTACTID ID="1">
+            <TEXT>Hi Ma'am. Did you call 911 because of a disturbing noise?</TEXT>
+            <TEXT>Hi Officer. Yes I called the cops. The party is too wild. They are throwing beer bottles and doing other bizarre things...</TEXT>
+            <TEXT>Did they throw anything out into the streets or at your houses?</TEXT>
+            <TEXT>Luckily they didn't. Its the house over there with The Lost van.</TEXT>
+            <TEXT>Seems to be a biker party. Why don't you go back inside while we handle the party.</TEXT>
+            <TEXT>Thank you.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hi everyone. Who is the owner here?</TEXT>
+            <TEXT>That would be me. What can I do for the pig in a uniform?</TEXT>
+            <TEXT>Your music is too loud. I'm going to have to ask you to turn it down.</TEXT>
+            <TEXT>Nah, I don't hear any music.</TEXT>
+            <TEXT>Do you want to cooperate, or should I take you to jail for disturbing the peace?</TEXT>
+            <TEXT>If thats how you want to be, let me go turn it down.</TEXT>
+            <TEXT>Don't think that you have won.</TEXT>
+            <TEXT>Alright bud, thanks for cooperating. Don't make me have to come out again.</TEXT>
+            <TEXT>Seeya pig in a uniform!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Sir, come over here for a minute.</TEXT>
+            <TEXT>Whats going on pig in a uniform? Want to join us?</TEXT>
+            <TEXT>No. You need to turn off the music and stop the party.</TEXT>
+            <TEXT>Nah! I don't hear any music, and I don't think any of my brothers or sisters do.</TEXT>
+            <TEXT>It'll take some time to write down all the violations I see here. I think it will be a hefty fine, unless you would like to cooperate.</TEXT>
+            <TEXT>Whats your fucking problem pig in a uniform?</TEXT>
+            <TEXT>My problem is that you feel the need to not listen.</TEXT>
+            <TEXT>Last chance. Turn off the music, or you will go to jail for disturbing the peace.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>This time I will listen.</TEXT>
+            <TEXT>Next time I won't.</TEXT>
+            <TEXT>Next time you're going to jail if you don't cooperate. Have a great day.</TEXT>
+            <TEXT>Fucking pigs in a uniform. You did not win this battle.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>You motherfucking pig in a uniform. I won't do a thing that you're saying!</TEXT>
+            <TEXT>Show me your hands. You are currently being placed under arrest for disturbing the peace.</TEXT>
+            <TEXT>That is why I hate cops.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="35">
+        <CONTACTID ID="1">
+            <TEXT>Hello Ma'am. You have called the police because of a loud party?</TEXT>
+            <TEXT>Hi Officer. Do you hear the music? It is now the third time that this bitch has a party like this.</TEXT>
+            <TEXT>No need to insult your neighbour. Did you talk to her?</TEXT>
+            <TEXT>No I won't talk to her. The house is over there. Try the door at the left, otherwise you will find them on the top terrace.</TEXT>
+            <TEXT>Ok thanks for the info. Please get back into your house. I will take care about this issue.</TEXT>
+            <TEXT>I hope she goes to jail, bye.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello everybody. I need to talk to the owner of this house.</TEXT>
+            <TEXT>Hello officer, that's me. What can i do for you?</TEXT>
+            <TEXT>There has been a report of civil disturbance because of loud music.</TEXT>
+            <TEXT>Are you sure that's my party?</TEXT>
+            <TEXT>Yes I'm sure. Please do me a favour and lower the volume to adequate noise level.</TEXT>
+            <TEXT>Well then ok, wait here.</TEXT>
+            <TEXT>This is the maximum I want to lower it. Is it ok?</TEXT>
+            <TEXT>Yes Miss, thank you and have a nice day.</TEXT>
+            <TEXT>Bye.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Miss, step over here please!</TEXT>
+            <TEXT>Ahm ok? What did I do wrong now?</TEXT>
+            <TEXT>The noise level is back to its original. Can you tell me why?</TEXT>
+            <TEXT>No it is still the same as you left. You must have something with you ears.</TEXT>
+            <TEXT>My ears are fine, but it seems like you memory is not. Turn off the music immediatly!</TEXT>
+            <TEXT>Why are you so unfriendly? I don't like that.</TEXT>
+            <TEXT>Well I don't like that you are lying to me.</TEXT>
+            <TEXT>I will say this only once. Turn off the music now or i will pull the plug and take you down to the station.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Alright, sorry I do it.</TEXT>
+            <TEXT>I don't want to have any trouble.</TEXT>
+            <TEXT>Next time think about this when you lie to the police. Goodbye.</TEXT>
+            <TEXT>What a jerk!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>You know what. NO. I think you are overreacting. The noise level is fine.</TEXT>
+            <TEXT>I have enough of this. You can explain this down at the station. Show me your hands.</TEXT>
+            <TEXT>Stupid whore downstairs. She is the one who should get arrested</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

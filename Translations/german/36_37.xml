@@ -1,0 +1,86 @@
+<TRANSLATION>
+    <CALLOUTID ID="36">
+        <CONTACTID ID="1">
+            <TEXT>Hallo Sir. Sie haben den Notruf wegen zu lauter Musik gewählt?</TEXT>
+            <TEXT>Hallo Officer, ja, ich habe die Polizei gerufen, weil sie die Musik zu laut spielen.</TEXT>
+            <TEXT>Haben Sie mit dem Besitzer gesprochen, damit er die Lautstärke verringert?</TEXT>
+            <TEXT>Nein, das habe ich nicht. Es ist das Haus dort drüben.</TEXT>
+            <TEXT>Nun, beim nächsten Mal versuchen Sie es bitte zuerst selbst. Dieses Mal werde ich mit dem Besitzer sprechen.</TEXT>
+            <TEXT>Ok, danke.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo? Kann ich bitte mit dem Eigentümer dieses Grundstücks sprechen?</TEXT>
+            <TEXT>Sicher, ich bin der neue Besitzer dieses Hauses. Was kann ich für Sie tun, Officer?</TEXT>
+            <TEXT>Wir haben eine Beschwerde bezüglich Ihrer Party erhalten. Könnten Sie bitte die Lautstärke verringern?</TEXT>
+            <TEXT>Mann, das muss dieser dämliche Idiot neben mir sein. Was hat er gesagt?</TEXT>
+            <TEXT>Ich kann Ihnen keine Details über die Beschwerde geben. Bitte drehen Sie einfach die Lautstärke leiser, okay?</TEXT>
+            <TEXT>Ja, natürlich, ich möchte keinen Ärger machen.</TEXT>
+            <TEXT>Sind Sie mit dem Lautstärkepegel zufrieden?</TEXT>
+            <TEXT>Ja Sir, danke für Ihr Verständnis. Viel Spaß noch bei der Party.</TEXT>
+            <TEXT>Auf Wiedersehen, Officer.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Sir, ich muss mit Ihnen sprechen!</TEXT>
+            <TEXT>Oh zur Hölle, nein, was ist denn jetzt das Problem?</TEXT>
+            <TEXT>Ich habe Sie höflich gebeten, die Lautstärke zu verringern. Es scheint keine Wirkung gezeigt zu haben. Jetzt müssen Sie sie ausschalten!</TEXT>
+            <TEXT>Was? Wissen Sie, wie viel eine Party wie diese kostet? Musik ist für mich essenziell. Deshalb bleibt sie an!</TEXT>
+            <TEXT>Es tut mir leid, aber Sie haben keine andere Möglichkeit mehr. Sie hatten Ihre Chance.</TEXT>
+            <TEXT>Wissen Sie eigentlich, dass ich an einem Tag mehr Geld verdiene, als Sie in einem Jahr machen?</TEXT>
+            <TEXT>Ihre finanzielle Situation ist mir egal, Sir.</TEXT>
+            <TEXT>Reden Sie nicht um den heißen Brei herum. Schalten Sie die Musik jetzt aus, oder ich werde es tun!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Wie auch immer, aber das wird Konsequenzen für Sie haben!</TEXT>
+            <TEXT>Geben Sie mir Ihren Namen und Ihre Dienstnummer, damit ich eine Beschwerde beim Revier einreichen kann.</TEXT>
+            <TEXT>Diese Informationen erhalten Sie direkt auf der Wache im Stadtzentrum. Einen schönen Tag noch, Sir.</TEXT>
+            <TEXT>Sie werden damit nicht durchkommen. Das wird Nachspiel haben.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>Meine Antwort ist einfach. NEIN. Ich werde die Musik nicht ausschalten!</TEXT>
+            <TEXT>Dann habe ich keine andere Wahl, als Sie mit auf die Wache zu nehmen. Bitte zeigen Sie mir Ihre Hände.</TEXT>
+            <TEXT>Ich kann diese Scheiße nicht glauben.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="37">
+        <CONTACTID ID="1">
+            <TEXT>Hallo Sir. Sie haben 911 angerufen. Wie kann ich Ihnen helfen?</TEXT>
+            <TEXT>Ja hallo, ich möchte, dass Sie rüber auf die andere Straßenseite gehen und die Musik ausschalten. Es ist nervtötend.</TEXT>
+            <TEXT>Ganz ruhig, Sir. Wie lange spielen sie schon in dieser Lautstärke?</TEXT>
+            <TEXT>Ich erinnere mich nicht. Gehen Sie einfach rüber und ziehen Sie den Stecker.</TEXT>
+            <TEXT>Ok Sir, bitte gehen Sie wieder hinein. Ich werde Kontakt mit dem Besitzer aufnehmen und ihn bitten, die Lautstärke zu verringern.</TEXT>
+            <TEXT>Nein, nicht verringern, sie muss aus sein! Verstehen Sie das? ...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Entschuldigung. Wer ist die verantwortliche Person für diese Party?</TEXT>
+            <TEXT>Oh, Polizei. Ja, das bin ich, Officer. Was gibt's?</TEXT>
+            <TEXT>Ihre Nachbarn beschweren sich über Ihren Lärmpegel.</TEXT>
+            <TEXT>Ach kommen Sie, diese alten Arschlöcher sollten zurück in ihre Särge kriechen!</TEXT>
+            <TEXT>Bitte beleidigen Sie niemanden, drosseln Sie einfach die Lautstärke.</TEXT>
+            <TEXT>Ich bin echt sauer. Ok, ich werde sie leiser machen.</TEXT>
+            <TEXT>Ist es jetzt ok?</TEXT>
+            <TEXT>Sicher, das ist in Ordnung. Bitte halten Sie den Lärmpegel niedrig, okay? Auf Wiedersehen.</TEXT>
+            <TEXT>Aha, wir werden ja sehen...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Sir, kommen Sie mal hierher!</TEXT>
+            <TEXT>Schon wieder Polizei? ... Oh Mann, was jetzt schon wieder?</TEXT>
+            <TEXT>Mein letzter Besuch scheint keine Wirkung gezeigt zu haben, also schalten Sie jetzt bitte die Musik aus.</TEXT>
+            <TEXT>Was? Ach kommen Sie, ich werde die Lautstärke drosseln und es so lassen, ich verspreche es.</TEXT>
+            <TEXT>Sir, Sie hatten Ihre Chance. Tut mir leid, aber dieses Mal müssen Sie sie ausschalten.</TEXT>
+            <TEXT>Was ist dein verdammtes Problem? Ich sagte, ich verspreche, sie leise zu halten.</TEXT>
+            <TEXT>Ihr Versprechen reicht nicht aus.</TEXT>
+            <TEXT>Schalten Sie sie jetzt aus oder ich erledige das für Sie, und Sie können es dann auf der Wache erklären.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Immer die gleiche Scheiße mit diesen alten Bastarden!</TEXT>
+            <TEXT>Zufrieden jetzt?</TEXT>
+            <TEXT>Ja, und lassen Sie sie aus, verstanden?</TEXT>
+            <TEXT>Zieh einfach ab, Mann.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>Ich denke nicht, dass ich das tun will. Mir gefällt es so.</TEXT>
+            <TEXT>Nun, dann unterhalten wir uns mal auf der Wache. Zeigen Sie mir Ihre Hände.</TEXT>
+            <TEXT>Das ist einfach nur Bullshit.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

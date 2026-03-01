@@ -1,0 +1,107 @@
+<TRANSLATION>
+    <CALLOUTID ID="21">
+        <CONTACTID ID="1">
+            <TEXT>Hey Officer. What happened here?</TEXT>
+            <TEXT>Hey Partner, thanks for coming out. I just got here, but it appears to be a Hit and Run.</TEXT>
+            <TEXT>Do we have a witness?</TEXT>
+            <TEXT>Try talking to the lady over there. She might know something.</TEXT>
+            <TEXT>Will do. Thanks for helping out.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey Ma'am. Did you call the ambulance?</TEXT>
+            <TEXT>Yes I did, officer!</TEXT>
+            <TEXT>Thank you for that. Can you tell me what happened?</TEXT>
+            <TEXT>~w~ ran on the curb and hit the man as he attempted to cross the road!</TEXT>
+            <TEXT>Okay. Did you see the vehicle's license plate?</TEXT>
+            <TEXT>I did... but I only remember the last 3 digits. They are ~y~</TEXT>
+            <TEXT>Okay. Thanks for your help. Give this officer a statement and you will be free to go on your way.</TEXT>
+            <TEXT>Thank you officer. Will do.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="22">
+        <CONTACTID ID="1">
+            <TEXT>Hey Officer. What happened here?</TEXT>
+            <TEXT>Hey Partner, thanks for coming out. I just got here, but it appears to be a Hit and Run.</TEXT>
+            <TEXT>Do we have a witness?</TEXT>
+            <TEXT>Try talking to the lady over there. She might know something.</TEXT>
+            <TEXT>Will do. Thanks for helping out.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey Ma'am. Did you call the ambulance?</TEXT>
+            <TEXT>Yes I did, officer!</TEXT>
+            <TEXT>Thank you for that. Can you tell me what happened?</TEXT>
+            <TEXT>~w~ ran on the curb and hit the man as he attempted to cross the road!</TEXT>
+            <TEXT>Okay. Did you see the vehicle's license plate?</TEXT>
+            <TEXT>I did... but I only remember the last 3 digits. They are ~y~</TEXT>
+            <TEXT>Okay. Thanks for your help. Give this officer a statement and you will be free to go on your way.</TEXT>
+            <TEXT>Thank you officer. Will do.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="23">
+        <CONTACTID ID="1">
+            <TEXT>Hi Chloe. First deployment today?</TEXT>
+            <TEXT>Hey {0}, nice to see you. Yes the first one today.</TEXT>
+            <TEXT>So what do we have here?</TEXT>
+            <TEXT>Seems to be a Hit and Run. Talk to the Woman over there she will update you.</TEXT>
+            <TEXT>"Okay. Ehm.. Let's go for a drink when your shift is over.</TEXT>
+            <TEXT>Sure why not... see ya later.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Ma'am. I'm officer {0} from the {1}. Can you describe what happened?</TEXT>
+            <TEXT>Hi, yes this is my boyfriend who got hit!</TEXT>
+            <TEXT>Oh, I didn't know. So why is he hurt?</TEXT>
+            <TEXT>~w~ came out of this alleyway and hit him!</TEXT>
+            <TEXT>Can you tell me the vehicle's license plate?</TEXT>
+            <TEXT>Only partly. I remember the last 3 digits. They are ~y~</TEXT>
+            <TEXT>I will run that in the Police computer and see what's popping up. I have no more questions.</TEXT>
+            <TEXT>Alright then. Bye</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="24">
+        <CONTACTID ID="1">
+            <TEXT>Hey. How can I assist?</TEXT>
+            <TEXT>Hi buddy, please help me with the accident. It's a Hit and Run.</TEXT>
+            <TEXT>Okay? How do you know that?</TEXT>
+            <TEXT>The woman is the guys wife. She told me that. But ask her yourself.</TEXT>
+            <TEXT>Will do so. Anything else?</TEXT>
+            <TEXT>Nope. That is all I know!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Miss. My name is {0} from the {1}. What happened?</TEXT>
+            <TEXT>Hello officer! Some stupid dude ran him over.</TEXT>
+            <TEXT>Can you describe the vehicle or do you know the type?</TEXT>
+            <TEXT>~w~ came around with a high rate of speed. I think he lost control, that is why he hit my husband!</TEXT>
+            <TEXT>Okay. Do you remember the vehicle's license plate?</TEXT>
+            <TEXT>I already thought about that, but I just remember the last 3 digits. They are ~y~</TEXT>
+            <TEXT>Thanks. That's more then in the most cases. Maybe we get a hit.</TEXT>
+            <TEXT>Thank you officer. Please get this bastard.</TEXT>
+            <TEXT>I don't know anything more. Sorry.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="25">
+        <CONTACTID ID="1">
+            <TEXT>Hi, you requested backup. How can i help?</TEXT>
+            <TEXT>Hey Partner, thanks for coming. I just arrived, but it looks that this accident wasn't self-inflicted.</TEXT>
+            <TEXT>Okay, Do we have a witness who maybe knows something?</TEXT>
+            <TEXT>Yes. One of the shop owners came out when i got here. Talk to him.</TEXT>
+            <TEXT>At least something. I will question him.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hi Sir. My name is {0} from the {1}. Do you want to tell me anything?</TEXT>
+            <TEXT>Yes, officer {0}. I called 911!</TEXT>
+            <TEXT>Thank you. Can you tell me what happened to the woman?</TEXT>
+            <TEXT>~w~ parked out and hit the woman in reverse and then just left the area.</TEXT>
+            <TEXT>Did you see the vehicle's license plate?</TEXT>
+            <TEXT>I was still in my shop so i don't know the complete plate. Only the last 3 digits. They are ~y~</TEXT>
+            <TEXT>Okay. Thanks for your help. My partner will maybe ask you also some questions.</TEXT>
+            <TEXT>Okay.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>  
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

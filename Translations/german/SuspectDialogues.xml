@@ -1,0 +1,154 @@
+<TRANSLATION>
+    <DIALOGID ID="1">
+        <TEXT>Hallo. Gehört Ihnen das Fahrzeug in Ihrer Einfahrt?</TEXT>
+        <TEXT>Ja, Officer, das tut es.</TEXT>
+        <TEXT>Okay. Können Sie mir sagen, wo Sie vor etwa 15 Minuten waren?</TEXT> <TEXT>Werde ich festgehalten, Officer?</TEXT>
+        <TEXT>Ich frage Sie nur, wo Sie waren. Können Sie mir das sagen, oder soll ich mit einem Durchsuchungsbeschluss wiederkommen?</TEXT>
+        <TEXT>Nun, was ist denn los? Gibt es ein Problem mit meinem Fahrzeug?</TEXT>
+        <TEXT>Ja. Es entspricht der Beschreibung eines Fahrzeugs, das an einer Fahrerflucht beteiligt war.</TEXT>
+        <TEXT>Nun, ich war den ganzen Tag zu Hause. Ihre Quelle muss da etwas missverstanden haben.</TEXT>
+        <TEXT>Kann ich mir Ihr Fahrzeug mal genauer ansehen?</TEXT>
+        <TEXT>Ugh, Sie haben mich. Ich habe die Person angefahren und bin abgehauen, ich wusste nicht, was ich tun sollte. Es tut mir so leid, bitte verhaften Sie mich nicht!</TEXT>
+        <TEXT>Okay, nun, ich muss Sie mit auf das Revier nehmen. Nehmen Sie bitte die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Scheiß drauf! Ich gehe nicht zurück in den Knast.</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="2">
+        <TEXT>Hallo. Ist das Ihr Fahrzeug in der Einfahrt?</TEXT>
+        <TEXT>Ja, ist es. Ist alles okay?</TEXT>
+        <TEXT>Können Sie mir sagen, wo Sie vor etwa 15 Minuten waren?</TEXT>
+        <TEXT>Können Sie mir sagen, was hier los ist? Brauche ich einen Anwalt?</TEXT>
+        <TEXT>Ihr Fahrzeug entspricht der Beschreibung eines Fahrzeugs, das an einer Fahrerflucht beteiligt war.</TEXT> <TEXT>Schwachsinn! Ich war den ganzen Tag zu Hause!</TEXT>
+        <TEXT>Okay. Wir können das auf dem Revier klären. Aktuell werden Sie festgehalten und müssen mit mir zum Revier kommen.</TEXT>
+        <TEXT>Nein! Das mache ich nicht!</TEXT>
+        <TEXT>Nun, unglücklicherweise haben Sie an diesem Punkt keine Wahl mehr.</TEXT>
+        <TEXT>Dämliche Bullen, dämliches Justizsystem. Fick dich ins Knie!</TEXT>
+        <TEXT>Okay. Nehmen Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Scheiß drauf! Versuch doch, mich zu fangen, du Bulle!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="3">
+        <TEXT>Ist das Ihr Fahrzeug in der Einfahrt?</TEXT>
+        <TEXT>Hallo Officer. Ja, ist es.</TEXT>
+        <TEXT>Gibt es einen Grund für den massiven Schaden am Fahrzeug?</TEXT> <TEXT>Ich hatte vor ein paar Tagen einen Unfall. Es ist gerade dabei, repariert zu werden, Officer.</TEXT>
+        <TEXT>Oh, okay. Sind Sie heute zufällig in einen Unfall geraten?</TEXT>
+        <TEXT>Nein, ich war heute in keinen Unfall verwickelt. Warum fragen Sie?</TEXT>
+        <TEXT>Dieses Fahrzeug entspricht der Beschreibung eines Fahrzeugs, das an einer Fahrerflucht beteiligt war. Und so wie Sie reden, merke ich, dass Sie nervös sind. Wollen Sie die Wahrheit sagen?</TEXT>
+        <TEXT>Ich sage die Wahrheit. Ich hatte keinen Unfall. Bitte gehen Sie jetzt. Sie sind auf meinem Grundstück nicht willkommen.</TEXT>
+        <TEXT>Die Anklage ist nicht so schwerwiegend. Wenn Sie auspacken, bekommen Sie vielleicht eine mildere Strafe. Letzte Chance: Wollen Sie die Wahrheit sagen?</TEXT>
+        <TEXT>Ugh, na gut! Die Person ist mir in den Weg gelaufen. Ich konnte nicht rechtzeitig anhalten. Es war nicht meine Schuld, Officer, es war ihre...</TEXT>
+        <TEXT>Okay. Wir können das auf dem Revier klären. Im Moment werden Sie festgehalten. Nehmen Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Ich gehe nicht zurück in den Knast! Drecksbulle!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="4">
+        <TEXT>Hallo. Haben Sie eine Minute Zeit? Ich würde Ihnen gerne ein paar Fragen stellen.</TEXT> <TEXT>Nein, tut mir leid. Ich habe es eilig!</TEXT>
+        <TEXT>Ich nehme an, Sie wissen, warum ich hier bin. Können Sie mir sagen, warum Ihr Fahrzeug vorne so stark beschädigt ist?</TEXT> <TEXT>Wie ich schon sagte, ich habe keine Zeit! Bitte gehen Sie!</TEXT>
+        <TEXT>Ich gehe nicht, bis Sie meine Frage beantwortet haben. Warum ist Ihr Fahrzeug so stark beschädigt?</TEXT>
+        <TEXT>Weil irgendein Bastard mich gerammt hat, und jetzt werden Sie mich verhaften, obwohl die es verursacht haben!</TEXT>
+        <TEXT>Nun, da Sie gerade zugegeben haben, an einer Fahrerflucht beteiligt gewesen zu sein, müssen Sie für weitere Befragungen mit zum Revier kommen.</TEXT>
+        <TEXT>Nein, ich bleibe genau hier.</TEXT>
+        <TEXT>Nein, das werden Sie nicht. Bitte zwingen Sie mich nicht, Gewalt anzuwenden. Nehmen Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Das ist nicht fair!</TEXT> <TEXT>Letzte Chance. Nehmen Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Nein, ich sagte doch, das ist nicht fair!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="5">
+        <TEXT>Tun Sie mir einen Gefallen und halten Sie die Hände so, dass ich sie sehen kann. Ist das Ihr Fahrzeug, das dort drüben parkt?</TEXT>
+        <TEXT>..Ja Officer, das ist es. Ist alles in Ordnung?</TEXT>
+        <TEXT>Können Sie mir sagen, wo Sie vor ungefähr 20 Minuten waren?</TEXT> <TEXT>Können Sie mir sagen, warum Sie sich wie ein Arschloch benehmen?</TEXT>
+        <TEXT>Okay. Möchten Sie mir sagen, wo Sie waren, oder soll ich Sie mit aufs Revier nehmen, bis unsere Ermittlungen abgeschlossen sind?</TEXT>
+        <TEXT>Ich bin nur rumgefahren! Ich habe meinen freien Tag genossen und bin gerade erst rangefahren. Was zum Teufel ist hier los?!</TEXT>
+        <TEXT>Haben Sie zufällig jemanden angefahren, während Sie unterwegs waren?</TEXT>
+        <TEXT>Was?</TEXT>
+        <TEXT>Tun Sie nicht so, als wäre nichts passiert. Letzte Chance: Haben Sie eine Person angefahren?</TEXT>
+        <TEXT>Vielleicht. Ich möchte mit meinem Anwalt sprechen.</TEXT>
+        <TEXT>Das können Sie auf dem Revier tun. Aktuell sind Sie wegen Fahrerflucht verhaftet. Halten Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Fick dich, Schlampe. Fang mich doch, wenn du kannst!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="6">
+        <TEXT>Hallo. Gehört Ihnen das Boot, das dort drüben vor Anker liegt?</TEXT>
+        <TEXT>Ja, Officer, das tut es.</TEXT>
+        <TEXT>Okay. Können Sie mir sagen, wo Sie vor etwa 15 Minuten waren?</TEXT> <TEXT>Werde ich festgehalten, Officer?</TEXT>
+        <TEXT>Ich frage Sie nur, wo Sie waren. Können Sie mir das sagen, oder soll ich mit einem Durchsuchungsbeschluss wiederkommen?</TEXT>
+        <TEXT>Nun, was ist los? Gibt es ein Problem mit meinem Boot?</TEXT> <TEXT>Ja. Es entspricht der Beschreibung eines Wasserfahrzeugs, das an einer Fahrerflucht beteiligt war.</TEXT>
+        <TEXT>Nun, ich war den ganzen Tag zu Hause. Ihre Quelle muss da etwas missverstanden haben.</TEXT>
+        <TEXT>Kann ich mir Ihr Boot mal genauer ansehen?</TEXT>
+        <TEXT>Ugh, Sie haben mich. Ich habe die Person gerammt und bin davongerast, ich wusste nicht, was ich tun sollte. Es tut mir so leid, bitte verhaften Sie mich nicht!</TEXT>
+        <TEXT>Okay, nun, ich muss Sie mit auf das Revier nehmen. Nehmen Sie bitte die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Scheiß drauf! Ich gehe nicht zurück in den Knast.</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="7">
+        <TEXT>Hallo. Ist das Ihr Boot, das dort drüben vor Anker liegt?</TEXT>
+        <TEXT>Ja, ist es. Ist alles okay?</TEXT>
+        <TEXT>Können Sie mir sagen, wo Sie vor etwa 15 Minuten waren?</TEXT>
+        <TEXT>Können Sie mir sagen, was hier los ist? Brauche ich einen Anwalt?</TEXT>
+        <TEXT>Ihr Boot entspricht der Beschreibung eines Wasserfahrzeugs, das an einer Fahrerflucht beteiligt war.</TEXT>
+        <TEXT>Schwachsinn! Ich war den ganzen Tag zu Hause!</TEXT>
+        <TEXT>Okay. Wir können das auf dem Revier klären. Aktuell werden Sie festgehalten und müssen mit mir zum Revier kommen.</TEXT>
+        <TEXT>Nein! Das mache ich nicht!</TEXT>
+        <TEXT>Nun, unglücklicherweise haben Sie an diesem Punkt keine Wahl mehr.</TEXT>
+        <TEXT>Dämliche Bullen, dämliches Justizsystem. Fick dich ins Knie!</TEXT>
+        <TEXT>Okay. Nehmen Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Scheiß drauf! Versuch doch, mich zu fangen, du Bulle!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="8">
+        <TEXT>Ist das Ihr Boot, das dort drüben vor Anker liegt?</TEXT>
+        <TEXT>Hallo Officer. Ja, ist es.</TEXT>
+        <TEXT>Gibt es einen Grund für den massiven Schaden an Ihrem Boot?</TEXT>
+        <TEXT>Ich hatte vor ein paar Tagen einen Unfall. Es ist gerade dabei, repariert zu werden, Officer.</TEXT>
+        <TEXT>Oh, okay. Sind Sie heute zufällig in einen Unfall geraten?</TEXT>
+        <TEXT>Nein, ich war heute in keinen Unfall verwickelt. Warum fragen Sie?</TEXT>
+        <TEXT>Ihr Boot entspricht der Beschreibung eines Wasserfahrzeugs, das an einer Fahrerflucht beteiligt war. Und so wie Sie reden, merke ich, dass Sie nervös sind. Wollen Sie die Wahrheit sagen?</TEXT>
+        <TEXT>Ich sage die Wahrheit. Ich hatte keinen Unfall. Bitte gehen Sie jetzt. Ich möchte keine weiteren Fragen beantworten.</TEXT>
+        <TEXT>Die Anklage ist nicht so schwerwiegend. Wenn Sie auspacken, bekommen Sie vielleicht eine mildere Strafe. Letzte Chance: Wollen Sie die Wahrheit sagen?</TEXT>
+        <TEXT>Ugh, na gut! Die Person ist mir in den Weg gekommen. Ich konnte nicht rechtzeitig anhalten. Es war nicht meine Schuld, Officer, es war ihre...</TEXT>
+        <TEXT>Okay. Wir können das auf dem Revier klären. Im Moment werden Sie festgehalten. Nehmen Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Ich gehe nicht zurück in den Knast! Drecksbulle!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="9">
+        <TEXT>Hallo. Haben Sie eine Minute Zeit? Ich würde Ihnen gerne ein paar Fragen stellen.</TEXT>
+        <TEXT>Nein, tut mir leid. Ich habe es eilig!</TEXT>
+        <TEXT>Ich nehme an, Sie wissen, warum ich hier bin. Können Sie mir sagen, warum Ihr Boot vorne so stark beschädigt ist?</TEXT>
+        <TEXT>Wie ich schon sagte, ich habe keine Zeit! Bitte gehen Sie!</TEXT>
+        <TEXT>Ich gehe nicht, bis Sie meine Frage beantwortet haben. Warum ist Ihr Boot so stark beschädigt?</TEXT>
+        <TEXT>Weil mir irgendein Bastard vor die Nase gefahren ist, und jetzt werden Sie mich verhaften, obwohl die es verursacht haben!</TEXT>
+        <TEXT>Nun, da Sie zugegeben haben, an einer Fahrerflucht beteiligt gewesen zu sein, müssen Sie für weitere Befragungen mit zum Revier kommen.</TEXT>
+        <TEXT>Nein, ich bleibe genau hier.</TEXT>
+        <TEXT>Nein, das werden Sie nicht. Bitte zwingen Sie mich nicht, Gewalt anzuwenden. Nehmen Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Das ist nicht fair!</TEXT>
+        <TEXT>Last chance. Put your hands where I can see them.</TEXT>
+        <TEXT>Nein, ich sagte doch, das ist nicht fair!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="10">
+        <TEXT>Tun Sie mir einen Gefallen und halten Sie die Hände so, dass ich sie sehen kann. Ist das Ihr Boot dort drüben?</TEXT>
+        <TEXT>..Ja Officer, das ist es. Ist alles in Ordnung?</TEXT>
+        <TEXT>Können Sie mir sagen, wo Sie vor ungefähr 20 Minuten waren?</TEXT>
+        <TEXT>Können Sie mir sagen, warum Sie sich wie ein Arschloch benehmen?</TEXT>
+        <TEXT>Okay. Möchten Sie mir sagen, wo Sie waren, oder soll ich Sie mit aufs Revier nehmen, bis unsere Ermittlungen abgeschlossen sind?</TEXT>
+        <TEXT>Ich bin nur rumgefahren! Ich habe meinen freien Tag genossen und bin gerade erst fertig mit dem Anlegen. Was zum Teufel ist hier los?!</TEXT>
+        <TEXT>Haben Sie zufällig jemanden angefahren, während Sie unterwegs waren?</TEXT>
+        <TEXT>Was?</TEXT>
+        <TEXT>Tun Sie nicht so, als wäre nichts passiert. Letzte Chance: Haben Sie eine Person angefahren?</TEXT>
+        <TEXT>Vielleicht. Ich möchte mit meinem Anwalt sprechen.</TEXT>
+        <TEXT>Das können Sie auf dem Revier tun. Aktuell sind Sie wegen Fahrerflucht verhaftet. Halten Sie die Hände dorthin, wo ich sie sehen kann.</TEXT>
+        <TEXT>Fick dich, Schlampe. Fang mich doch, wenn du kannst!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="11">
+        <TEXT>Hey Partner, sieht so aus, als hättest du das Auto gefunden, nach dem ich gesucht habe.</TEXT>
+        <TEXT>Hi, ja. Ich war auf Streife, als ich es dort gesehen habe.</TEXT>
+        <TEXT>Irgendwas, das uns zu einem Verdächtigen führen könnte?</TEXT>
+        <TEXT>Tut mir leid, nein. Auf dem Weg hierher war niemand und im Auto liegt auch nichts.</TEXT>
+        <TEXT>Verdammt. Na gut, du kannst abrücken. Ich kümmere mich um den Rest.</TEXT>
+        <TEXT>Okay danke, bis dann.</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="12">
+        <TEXT>Hey Partner, scheint, als wäre die Fahndung erfolgreich gewesen.</TEXT>
+        <TEXT>Hi, ja. Ich habe den Wagen wegen des Schadens am Vorderrad angehalten und dann die Fahndungsmeldung gesehen.</TEXT>
+        <TEXT>Ja, gut, ich übernehme ab hier, okay?</TEXT>
+        <TEXT>Sicher, ich gebe dir Rückendeckung.</TEXT>
+        <TEXT>Danke, fangen wir an.</TEXT>
+        <TEXT>Bitte steigen Sie aus dem Fahrzeug aus.</TEXT>
+        <TEXT>Nein, was habe ich falsch gemacht? Warum haben Sie mich angehalten?</TEXT>
+        <TEXT>Ihr Wagen ist schwer beschädigt. Sie können so nicht weiterfahren. Bitte aussteigen!</TEXT>
+        <TEXT>Das Fahrzeug, das Sie fahren, wurde gestohlen und war in eine Fahrerflucht verwickelt. Sie sind verhaftet. Zeigen Sie mir Ihre Hände!</TEXT>
+        <TEXT>Ich möchte mit meinem Anwalt sprechen.</TEXT>
+        <TEXT>Macht's gut, ihr Penner!</TEXT>
+    </DIALOGID>
+</TRANSLATION>

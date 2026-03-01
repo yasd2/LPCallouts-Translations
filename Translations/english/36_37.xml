@@ -1,0 +1,86 @@
+<TRANSLATION>
+    <CALLOUTID ID="36">
+        <CONTACTID ID="1">
+            <TEXT>Hello Sir. You've called 9-1-1 because of too loud music?</TEXT>
+            <TEXT>Hello Officer, yes, i called the police cause they are playing the music too loud.</TEXT>
+            <TEXT>Did you talk to the owner to turn the volume down?</TEXT>
+            <TEXT>No I did not. It is the house over there.</TEXT>
+            <TEXT>Well next time please try yourself. This time i will talk to the owner.</TEXT>
+            <TEXT>Ok, thanks.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello? Can I please talk to the owner of this property?</TEXT>
+            <TEXT>Sure, I'm the new owner of this house. What can I do for you officer?</TEXT>
+            <TEXT>We have a complaint regarding your party. Could you please lower the volume?</TEXT>
+            <TEXT>Man, must be that stupid prick next to me. What has he said ?</TEXT>
+            <TEXT>I can't give you any details about the complaint. Please just turn down the volume ok ?</TEXT>
+            <TEXT>Yeah of course, i don't want to make any trouble.</TEXT>
+            <TEXT>Satisfied with the volume level ?</TEXT>
+            <TEXT>Yes Sir, thanks for you understanding. Have a nice party.</TEXT>
+            <TEXT>Goodbye officer.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Sir, I need to talk to you!</TEXT>
+            <TEXT>"Oh hell no, what's the problem now ?</TEXT>
+            <TEXT>I kindly asked you to lower the volume. It seems like it had no effect. Now you need to turn it off!</TEXT>
+            <TEXT>What ? Do you know how much a party like this costs? Music is essential for me. Therefore it stays on!</TEXT>
+            <TEXT>I'm sorry but you don't have any other possibility. You had your chance.</TEXT>
+            <TEXT>You know that I earn more money in a day than you make in a year?</TEXT>
+            <TEXT>I don't care about your financial situation Sir.</TEXT>
+            <TEXT>Don't beat around the bush. Turn off the music now or I will do it!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Whatever, but this will have consequences for you!</TEXT>
+            <TEXT>Give me your name and badge number so that i can make a complaint at the department.</TEXT>
+            <TEXT>You can get this information directly at the department downtown. Have nice day Sir.</TEXT>
+            <TEXT>You won't get away with it. This will have repercussions.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>My answer is simple. NO. I won't turn off the music!</TEXT>
+            <TEXT>Then i have no other choice as to take you down to the station. Please show me hands.</TEXT>
+            <TEXT>I can't believe that shit.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="37">
+        <CONTACTID ID="1">
+            <TEXT>Hi Sir. You called 911. How can i help you ?</TEXT>
+            <TEXT>Yes Hello, i want you to go over the street and turn off the music. It is annoying.</TEXT>
+            <TEXT>Relax Sir. How long have they been playing at that volume?</TEXT>
+            <TEXT>I don't remember. Just go over there and pull the plug.</TEXT>
+            <TEXT>Ok Sir, please go back inside. I will make contact with the owner and ask him to lower the volume.</TEXT>
+            <TEXT>No not lowering, it has to be off! You understand ?...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Excuse me. Who is the responsible person for this party?</TEXT>
+            <TEXT>Oh police. Yeah that's me officer. What's the problem?</TEXT>
+            <TEXT>Your neighbours are complaining about your noise level.</TEXT>
+            <TEXT>Come on, these old assholes should crawl back into their coffins!</TEXT>
+            <TEXT>Please don't insult anybody, just lower the volume please.</TEXT>
+            <TEXT>I'm really pissed. Ok, I will lower it.</TEXT>
+            <TEXT>Is it ok now ?</TEXT>
+            <TEXT>Sure thats fine. Please keep noise level down ok ? Goodbye.</TEXT>
+            <TEXT>Aha, we will see...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Sir, step over here!</TEXT>
+            <TEXT>Police again ?... Oh man, what now ?</TEXT>
+            <TEXT>My last visit seems to have no effect, so now please turn off the music.</TEXT>
+            <TEXT>What? Come on, i will lower the volume and keep it there, i promise.</TEXT>
+            <TEXT>Sir you had your chance. Sorry but this time you have to turn it off.</TEXT>
+            <TEXT>Whats your fucking problem? I said i promise to keep it low.</TEXT>
+            <TEXT>Your promise is not enough.</TEXT>
+            <TEXT>Turn it off now or i will do it for you and you can explain it at the station.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Always the same shit with these old bastards!</TEXT>
+            <TEXT>Happy now ?</TEXT>
+            <TEXT>Yes and keep it off understood ?</TEXT>
+            <TEXT>Just leave man.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>I don't think i wanna do this. I like it that way.</TEXT>
+            <TEXT>Well then lets have a chat at the station. Show me your hands.</TEXT>
+            <TEXT>This is just bullshit.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

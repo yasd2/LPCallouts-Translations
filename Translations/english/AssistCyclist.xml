@@ -1,0 +1,9 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>Assistance required</CALLOUTMESSAGE>
+    <TEXT>Talk to the officer and witnesses by pressing {0} to gain information about the accident.</TEXT>
+    <TEXT>Suspect had heard your sirens and is fleeing their home.</TEXT>
+    <TEXT>A</TEXT>
+    <TEXT>Did you see the {0}'s license plate?</TEXT>
+    <TEXT>Yes I did. It was {0}</TEXT>
+    <TEXT>with licence plate</TEXT> <!--... VehicleName with licence plate LICENSEPLATE.-->
+</TRANSLATION>

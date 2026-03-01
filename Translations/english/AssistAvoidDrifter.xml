@@ -1,0 +1,7 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>Assistance required</CALLOUTMESSAGE>
+    <TEXT>Talk to the officer and witnesses by pressing {0} to gain information about the accident.</TEXT>
+    <TEXT>Suspect had heard your sirens and is fleeing their home.</TEXT>
+    <TEXT>A</TEXT> <!--The full sentence: A {vehiclemodelname...}, you only have to translate the "A" article-->
+    <TEXT>'s license plate?</TEXT> <!--Full sentence: Vehiclemodelname's license plate?-->
+</TRANSLATION>

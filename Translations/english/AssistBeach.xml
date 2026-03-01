@@ -1,0 +1,13 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>Assistance required</CALLOUTMESSAGE>
+    <TEXT>Talk to the officer by pressing {0} to gain information about the accident.</TEXT>
+    <TEXT>10-4, go ahead.</TEXT>
+    <TEXT>10-4. Can you give me the location of the caller?</TEXT>
+    <TEXT>10-4. Showing you 10-76. Respond to {0} Code 2.</TEXT>
+    <TEXT>Dispatch, possible suspect identified.</TEXT>
+    <TEXT>10-4.</TEXT>
+    <TEXT>Suspect had heard your sirens and is fleeing their home.</TEXT>
+    <TEXT>I believe it was a</TEXT> <!--full sentence: I believe it was a COLOR VEHICLENAME-->
+    <TEXT>Dispatch, heading to</TEXT> <!--Dispatch, heading to location-->
+    <TEXT>10-4.</TEXT>
+</TRANSLATION>

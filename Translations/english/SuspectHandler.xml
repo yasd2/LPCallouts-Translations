@@ -1,0 +1,26 @@
+<TRANSLATION>
+    <TEXT>Arrest the Suspect</TEXT>
+    <TEXT>Dispatch, can I get a 10-28?</TEXT>
+    <TEXT>The vehicle is going to be a {0}, license plate {1}</TEXT>
+    <TEXT>10-12</TEXT>
+    <TEXT>I have a vehicle match. The owner is ~y~</TEXT>
+    <TEXT>~w~, and lives at ~y~</TEXT>
+    <TEXT>:~w~ 10-4. Show me 10-76 Code 2.</TEXT>
+    <TEXT>10-4. Showing you 10-76. Respond to ~y~</TEXT>
+    <TEXT>~w~ Code 2.</TEXT>
+    <TEXT>:~w~ Dispatch, can I get a 10-28?</TEXT>
+    <TEXT>:~w~ The vehicle is going to be a ~y~</TEXT>
+    <TEXT>~w~, license plate ~y~</TEXT>
+    <TEXT>Be Advised! Vehicle returned as: ~r~ STOLEN</TEXT>
+    <TEXT>:~w~ 10-4. Can I get a BOLO on that Vehicle?</TEXT>
+    <TEXT>10-4. Informing all Units.</TEXT>
+    <TEXT>:~w~ I will search the surrounding area.</TEXT>
+    <TEXT>Search the surrounding area for the suspect vehicle</TEXT>
+    <TEXT>:~w~ Dispatch, I need a 10-28 on a partial plate.</TEXT>
+    <TEXT>10-4, go ahead.</TEXT>
+    <TEXT>:~w~ The vehicle is going to be a ~y~</TEXT>
+    <TEXT>~w~, license plate contains ~y~</TEXT>
+    <TEXT>10-12, running...</TEXT>
+    <TEXT>"I have 3 possible matches from the system. ~n~ ~g~1. {1},~n~ ~p~2. {2},~n~ ~y~3. {3}</TEXT> <!--{1,2,3} are different possible streetnames-->
+    <TEXT>Look at the map and locate the areas. ~n~Press 'NumPad1' to check~g~ {1}~w~,~n~Press 'NumPad2' to check~p~ {2}~w~,~n~Press 'NumPad3' to check ~y~ {3}</TEXT>
+</TRANSLATION>

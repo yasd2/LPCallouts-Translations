@@ -1,0 +1,107 @@
+<TRANSLATION>
+    <CALLOUTID ID="26">
+        <CONTACTID ID="1">
+            <TEXT>Hello Officer, what can i do for you?</TEXT>
+            <TEXT>Hi, thanks for the response. It appears to be a Hit and Run.</TEXT>
+            <TEXT>How do you know this?</TEXT>
+            <TEXT>I briefly talked to the victim. But there is maybe witness. Talk to the Woman in front the Liquor store.</TEXT>
+            <TEXT>Sure. I will try to find out more about the accident.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Miss. I'm officer {0} from the {1}. Do you know anything about the accident?</TEXT>
+            <TEXT>Yes, officer I do. I'm the owner of this store, I ran out as I saw a car ran over this guy!</TEXT>
+            <TEXT>Can you tell me how this happened?</TEXT>
+            <TEXT>~w~ was driving down Joshua road when it suddenly came on the sidewalk and hit the guy!</TEXT>
+            <TEXT>Well did you maybe see the vehicle's license plate?</TEXT>
+            <TEXT>It all went very fast, so I only remember the last 3 digits. They are ~y~</TEXT>
+            <TEXT>That is more then enough. It will definitely help to find out the driver. You can leave now.</TEXT>
+            <TEXT>Thank you officer.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="27">
+        <CONTACTID ID="1">
+            <TEXT>Hey, how i can assist?</TEXT>
+            <TEXT>Oh hi {0}. I thought you are on vacation?</TEXT>
+            <TEXT>Well, someone got sick so i canceled it. What happened here?</TEXT>
+            <TEXT>Sad to hear. The Visitor here got hit by car. The cook of this place can tell you more.</TEXT>
+            <TEXT>Okay. I will ask him.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Sir. My name is {0} from the {1}. Can you tell me what happened?</TEXT>
+            <TEXT>Sure, officer {0}. I saw the accident and called 9-1-1.</TEXT>
+            <TEXT>Thanks. So what happened to your visitor?</TEXT>
+            <TEXT>~w~ just ran him over. The car came out this parking place.</TEXT>
+            <TEXT>Do you have surveillance cameras to maybe get the license plate?</TEXT>
+            <TEXT>Yes, but they are not working. But I remember the last 3 digits of the car. It was ~y~</TEXT>
+            <TEXT>Please fix your cameras. I would make my job easier, but at least we have 3 numbers. That's all thanks</TEXT>
+            <TEXT>I will do so officer.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="28">
+        <CONTACTID ID="1">
+            <TEXT>Hello. Whats going on?</TEXT>
+            <TEXT>Hi. I just arrived a minute ago, so i can't tell.</TEXT>
+            <TEXT>Okay. Have you spoken to anybody?</TEXT>
+            <TEXT>I just wanted to do that. But now you are here. So can you take over?</TEXT>
+            <TEXT>Sure i will do so. Maybe make some notes about the scene.</TEXT>
+            <TEXT>I'm writing down some notes about the scene!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Sir. I'm from the {0}. Did you see how this man got hurt?</TEXT>
+            <TEXT>Hello officer! Yes i did. I called 9-1-1 form the phone booth.</TEXT>
+            <TEXT>Okay. Then please describe how this happened</TEXT>
+            <TEXT>~w~ came from the petrol pump. The guy crossed the exit and the car ran over him. It didn't stop. I immediately left the place</TEXT>
+            <TEXT>Can you remember the vehicle's license plate?</TEXT>
+            <TEXT>Damn no. Maybe the last 3 digits. They could be ~y~</TEXT>
+            <TEXT>Okay. I will try to run this in our system. Maybe we get a hit. Thanks for your cooperation.</TEXT>
+            <TEXT>No problem, anytime.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="29">
+        <CONTACTID ID="1">
+            <TEXT>Hey Ranger. What can i do for you?</TEXT>
+            <TEXT>Hello officer, thanks for responding. I was coming back to the station when i found them here.</TEXT>
+            <TEXT>Do you know what happened?</TEXT>
+            <TEXT>To be honest, i didn't ask. Its your jurisdiction and i was busy getting EMS here and providing first aid.</TEXT>
+            <TEXT>Fair enough. I will ask the man some questions.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey Sir. My name is {0}. Can you tell what happened?</TEXT>
+            <TEXT>Hi officer. I'm glad that the ranger came bye and called the EMS.</TEXT>
+            <TEXT>Okay. Please focus on my questions. What happened?</TEXT>
+            <TEXT>~w~ was driving crazy down here. We wanted to go for a hike and then it suddenly appeared and hit my girl!</TEXT>
+            <TEXT>Did you see the vehicle's license plate?</TEXT>
+            <TEXT>I tried to. But in only saw the last 3 digits. It was ~y~</TEXT>
+            <TEXT>Thanks for that. For now thats enough. Maybe {0} will contact you later.</TEXT>
+            <TEXT>Okay. Thank you officer.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="30">
+        <CONTACTID ID="1">
+            <TEXT>Hey buddy. What happened here?</TEXT>
+            <TEXT>Hi. Appears to be a Hit and Run. Paramedics told me that.</TEXT>
+            <TEXT>Do we have a witness?</TEXT>
+            <TEXT>Yeah, its the gas station owner. He told the paramedics that i was a Hit and Run.</TEXT>
+            <TEXT>Okay then i will ask him.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey Sir. Are you the one that called the police.</TEXT>
+            <TEXT>No officer, it was one of my customers. But he already left.</TEXT>
+            <TEXT>Thats not good. Did you maybe saw what happened?</TEXT>
+            <TEXT>~w~ left the gas station and hit the man. I didn't see it, but i was told!</TEXT>
+            <TEXT>Hmm. Did the customer see a license plate?</TEXT>
+            <TEXT>No. But I did see the last 3 digits. They are ~y~</TEXT>
+            <TEXT>Okay that's good. Thanks for your help. Please give this officer a statement for the record.</TEXT>
+            <TEXT>Will do.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

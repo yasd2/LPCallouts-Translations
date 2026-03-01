@@ -1,0 +1,154 @@
+<TRANSLATION>
+    <DIALOGID ID="1">
+        <TEXT>Hello. Do you own the vehicle in your driveway?</TEXT>
+        <TEXT>Yes, officer, I do.</TEXT>
+        <TEXT>Okay. Can you tell me where you were about 15 minutes ago?</TEXT> <TEXT>Am I being detained, officer?</TEXT>
+        <TEXT>I'm only asking you where you were. Can you tell me that, or should I come back with a warrant?</TEXT>
+        <TEXT>Well, what's happening? Is there a problem with my vehicle?</TEXT>
+        <TEXT>Yes. It matches the description of a vehicle involved in a Hit and Run.</TEXT>
+        <TEXT>Well, I was home all day. Your source must have a misunderstanding or something.</TEXT>
+        <TEXT>Can I take a closer look at your vehicle?</TEXT>
+        <TEXT>Ugh, you got me. I hit the person and drove off, I didn't know what to do. I'm so sorry, don't arrest me please!</TEXT>
+        <TEXT>Okay, well I have to take you down to the station. Put your hands where I can see them, please.</TEXT>
+        <TEXT>Fuck this! I ain't going back to jail.</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="2">
+        <TEXT>Hey there. Is that your vehicle in the driveway?</TEXT>
+        <TEXT>Yes, it is. Is everything okay?</TEXT>
+        <TEXT>Can you tell me where you were about 15 minutes ago?</TEXT>
+        <TEXT>Can you tell me what is going on? Do I need a lawyer?</TEXT>
+        <TEXT>Your vehicle matches the description of a vehicle involved in a Hit and Run.</TEXT> <TEXT>Bullshit! I was home all day!</TEXT>
+        <TEXT>Okay. We can sort this out at the station. Currently, you are being detained and will have to come down to the station with me.</TEXT>
+        <TEXT>No! I'm not doing that!</TEXT>
+        <TEXT>Well unfortunately, at this point, you have no choice.</TEXT>
+        <TEXT>Stupid cops, stupid justice system. Go screw yourself!</TEXT>
+        <TEXT>Okay. Go ahead and put your hands where I can see them.</TEXT>
+        <TEXT>Screw this! Try to catch me pig!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="3">
+        <TEXT>Is that your vehicle in the driveway?</TEXT>
+        <TEXT>Hello Officer. Yes, it is.</TEXT>
+        <TEXT>Any reason for so much vehicle damage?</TEXT> <TEXT>I got in an accident a few days ago. It's in the process of being fixed, officer.</TEXT>
+        <TEXT>Oh, okay. Did you happen to get in an accident today?</TEXT>
+        <TEXT>No, I wasn't involved in an accident today. Why do you ask?</TEXT>
+        <TEXT>This vehicle matches the description of a vehicle involved in a hit and run. And by the way you're talking, I can tell you are nervous. Want to come clean?</TEXT>
+        <TEXT>I am clean. I didn't get in an accident. Please leave now. You aren't welcomed at my home.</TEXT>
+        <TEXT>The charge isn't that severe. If you come clean, you might get a lesser sentence. Last chance, do you want to come clean?</TEXT>
+        <TEXT>Ugh, fine! The person got in my way. I couldn't stop in time. It wasn't my fault, officer, it was theirs...</TEXT>
+        <TEXT>Okay. We can sort it out at the station. Right now you are being detained. Put your hands where I can see them.</TEXT>
+        <TEXT>I'm not going back to jail! Stupid pig!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="4">
+        <TEXT>Hello. Do you have a minute? I would like to ask you some questions.</TEXT> <TEXT>No, sorry. I'm in a hurry!</TEXT>
+        <TEXT>I am assuming you know why I am here. Can you tell me why you have so much front end damage on your vehicle?</TEXT> <TEXT>As I said, I don't have time! Please leave!</TEXT>
+        <TEXT>I am not leaving until you answer my question. Why is there so much damage to your vehicle?</TEXT>
+        <TEXT>Because some bastard hit me, and now you are going to arrest me, when they caused it!</TEXT>
+        <TEXT>Well, due to you admitting to me you were just involved in a hit and run, you will need to come down to the station for further questioning.</TEXT>
+        <TEXT>No, I am staying right here.</TEXT>
+        <TEXT>No, you aren't. Please, don't make me have to use force. Put your hands where I can see them.</TEXT>
+        <TEXT>This isn't fair!</TEXT> <TEXT>Last chance. Put your hands where I can see them.</TEXT>
+        <TEXT>No, this isn't fair I said!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="5">
+        <TEXT>Do me a favor and keep your hands where I can see them. Is that your vehicle parked over there?</TEXT>
+        <TEXT>..Yes officer, it is. Is everything alright?</TEXT>
+        <TEXT>Can you tell me where you were approximately 20 minutes ago?</TEXT> <TEXT>Can you tell me why you're acting like a dick?</TEXT>
+        <TEXT>Okay. Would you like to tell me where you were, or should I take you down to the station until our investigation is over?</TEXT>
+        <TEXT>I was cruising around! I was enjoying my day off and just got done pulling in. What the hell is going on?!</TEXT>
+        <TEXT>Did you happen to hit someone while you were out?</TEXT>
+        <TEXT>What?</TEXT>
+        <TEXT>Don't act like nothing has happened. Last chance, did you hit a person?</TEXT>
+        <TEXT>Maybe. I would like to talk to my lawyer.</TEXT>
+        <TEXT>You can, down at the station. Right now, you are under arrest for a Hit and Run. Keep your hands where I can see them.</TEXT>
+        <TEXT>Fuck you, bitch. Catch me if you can!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="6">
+        <TEXT>Hello. Do you own the boat anchored over there?</TEXT>
+        <TEXT>Yes, officer, I do.</TEXT>
+        <TEXT>Okay. Can you tell me where you were about 15 minutes ago?</TEXT> <TEXT>Am I being detained, officer?</TEXT>
+        <TEXT>I'm only asking you where you were. Can you tell me that, or should I come back with a warrant?</TEXT>
+        <TEXT>Well, what's happening? Is there a problem with my boat?</TEXT> <TEXT>Yes. It matches the description of a watercraft involved in a Hit and Run.</TEXT>
+        <TEXT>Well, I was home all day. Your source must have a misunderstanding or something.</TEXT>
+        <TEXT>Can I take a closer look at your boat?</TEXT>
+        <TEXT>Ugh, you got me. I hit the person and sped off, I didn't know what to do. I'm so sorry, don't arrest me please!</TEXT>
+        <TEXT>Okay, well I have to take you down to the station. Put your hands where I can see them, please.</TEXT>
+        <TEXT>Fuck this! I ain't going back to jail.</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="7">
+        <TEXT>Hey there. Is that your boat anchored over there?</TEXT>
+        <TEXT>Yes, it is. Is everything okay?</TEXT>
+        <TEXT>Can you tell me where you were about 15 minutes ago?</TEXT>
+        <TEXT>Can you tell me what is going on? Do I need a lawyer?</TEXT>
+        <TEXT>Your boat matches the description of a watercraft involved in a Hit and Run.</TEXT>
+        <TEXT>Bullshit! I was home all day!</TEXT>
+        <TEXT>Okay. We can sort this out at the station. Currently, you are being detained and will have to come down to the station with me.</TEXT>
+        <TEXT>No! I am not doing that!</TEXT>
+        <TEXT>Well unfortunately, at this point, you have no choice.</TEXT>
+        <TEXT>Stupid cops, stupid justice system. Go screw yourself!</TEXT>
+        <TEXT>Okay. Go ahead and put your hands where I can see them.</TEXT>
+        <TEXT>Screw this! Try to catch me, pig!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="8">
+        <TEXT>Is that your boat anchored over there?</TEXT>
+        <TEXT>Hello Officer. Yes, it is.</TEXT>
+        <TEXT>Is there any reason for so much damage to your boat?</TEXT>
+        <TEXT>I got in an accident a few days ago. It's in the process of being fixed, officer.</TEXT>
+        <TEXT>Oh, okay. Did you happen to get in an accident today?</TEXT>
+        <TEXT>No, I wasn't involved in an accident today. Why do you ask?</TEXT>
+        <TEXT>Your boat matches the description of a watercraft involved in a hit and run. And by the way you're talking, I can tell you are nervous. Want to come clean?</TEXT>
+        <TEXT>I am clean. I didn't get in an accident. Please leave now. I don't want to answer any more questions.</TEXT>
+        <TEXT>The charge isn't that severe. If you come clean, you might get a lesser sentence. Last chance, do you want to come clean?</TEXT>
+        <TEXT>Ugh, fine! The person got in my way. I couldn't stop in time. It wasn't my fault, officer, it was theirs...</TEXT>
+        <TEXT>Okay. We can sort it out at the station. Right now you are being detained. Put your hands where I can see them.</TEXT>
+        <TEXT>I'm not going back to jail! Stupid pig!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="9">
+        <TEXT>Hello. Do you have a minute? I would like to ask you some questions.</TEXT>
+        <TEXT>No, sorry. I'm in a hurry!</TEXT>
+        <TEXT>I am assuming you know why I am here. Can you tell me why you have so much front-end damage on your boat?</TEXT>
+        <TEXT>As I said, I don't have time! Please leave!</TEXT>
+        <TEXT>I am not leaving until you answer my question. Why is there so much damage to your boat?</TEXT>
+        <TEXT>Because some bastard got in front of me, and now you are going to arrest me when they caused it!</TEXT>
+        <TEXT>Well, since you admitted to being involved in a hit and run, you will need to come down to the station for further questioning.</TEXT>
+        <TEXT>No, I am staying right here.</TEXT>
+        <TEXT>No, you aren't. Please, don't make me use force. Put your hands where I can see them.</TEXT>
+        <TEXT>This isn't fair!</TEXT>
+        <TEXT>Last chance. Put your hands where I can see them.</TEXT>
+        <TEXT>No, I said this isn't fair!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="10">
+        <TEXT>Do me a favor and keep your hands where I can see them. Is that your boat over there?</TEXT>
+        <TEXT>..Yes officer, it is. Is everything alright?</TEXT>
+        <TEXT>Can you tell me where you were approximately 20 minutes ago?</TEXT>
+        <TEXT>Can you tell me why you're acting like a dick?</TEXT>
+        <TEXT>Okay. Would you like to tell me where you were, or should I take you down to the station until our investigation is over?</TEXT>
+        <TEXT>I was cruising around! I was enjoying my day off and just finished docking. What the hell is going on?!</TEXT>
+        <TEXT>Did you happen to hit someone while you were out?</TEXT>
+        <TEXT>What?</TEXT>
+        <TEXT>Don't act like nothing happened. Last chance: did you hit a person?</TEXT>
+        <TEXT>Maybe. I would like to talk to my lawyer.</TEXT>
+        <TEXT>You can, down at the station. Right now, you are under arrest for a Hit and Run. Keep your hands where I can see them.</TEXT>
+        <TEXT>Fuck you, bitch. Catch me if you can!</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="11">
+        <TEXT>Hey partner, looks like you found the car I was looking for.</TEXT>
+        <TEXT>Hi, yeah. I was doing my patrol round when I saw it there.</TEXT>
+        <TEXT>Anything that could lead us to a suspect?</TEXT>
+        <TEXT>Sorry, no. There was nobody on the way up here and nothing in the car.</TEXT>
+        <TEXT>Damn. Well, you can leave. I will take care of the rest.</TEXT>
+        <TEXT>Okay thanks, see ya.</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="12">
+        <TEXT>Hey Partner, seems the BOLO was successful.</TEXT>
+        <TEXT>Hi, yes. I stopped the car because of the damage to the front wheel and then saw the APB.</TEXT>
+        <TEXT>Yeah, well, I will take over from here, okay?</TEXT>
+        <TEXT>Sure, I will back you up.</TEXT>
+        <TEXT>Thanks, let's go.</TEXT>
+        <TEXT>Please step out of the vehicle.</TEXT> 
+        <TEXT>No, what did I do wrong? Why did you stop me?</TEXT> 
+        <TEXT>Your car is seriously damaged. You can't continue. Please step out!</TEXT> 
+        <TEXT>The vehicle you are driving has been stolen and was involved in a Hit and Run. You are under arrest. Show me your hands!</TEXT> 
+        <TEXT>I would like to talk to my lawyer.</TEXT> 
+        <TEXT>See ya, bitches!</TEXT> 
+    </DIALOGID>
+</TRANSLATION>

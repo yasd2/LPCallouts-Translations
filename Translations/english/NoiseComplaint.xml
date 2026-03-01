@@ -1,0 +1,14 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>Disturbance</CALLOUTMESSAGE>
+    <TEXT>Caller is waiting at</TEXT> <!--Caller is waiting at STREET-->
+    <TEXT>Location {0}. It should be the party from before.</TEXT> <!--{0}=STREETNAME-->
+    <TEXT>10-4. I will take care about this.</TEXT>
+    <TEXT>10-4.</TEXT>
+    <TEXT>Talk to the caller by pressing {0} to gain information.</TEXT>
+    <TEXT>Step into the marker and press {0} to ring the doorbell.</TEXT>
+    <TEXT>No one has heard the doorbell. Check the backyard of this property!</TEXT>
+    <TEXT>Go to the backyard and step into the marker. Press {0} to talk.</TEXT>
+    <TEXT>10-4. Proceed with Patrol.</TEXT>
+    <TEXT>Leave the area.</TEXT>
+    <TEXT>Arrest the owner and turn off the music by steping into the marker and press {0}.</TEXT>
+</TRANSLATION>

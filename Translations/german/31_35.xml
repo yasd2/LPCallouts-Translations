@@ -1,0 +1,212 @@
+<TRANSLATION>
+    <CALLOUTID ID="31">
+        <CONTACTID ID="1">
+            <TEXT>Hallo Ma'am, haben Sie die Ruhestörung gemeldet?</TEXT>
+            <TEXT>Hallo Officer. Ja, das habe ich. Können Sie diese laute Musik hören?</TEXT>
+            <TEXT>Ja. Wie lange spielen die schon so laut Musik?</TEXT>
+            <TEXT>Das geht jetzt schon seit mindestens 4 Stunden so. Können Sie das bitte abstellen? Es kommt aus diesem Haus dort.</TEXT>
+            <TEXT>Ich werde mein Bestes tun, damit sie sie ausschalten. Danke, dass Sie uns Bescheid gegeben haben.</TEXT>
+            <TEXT>Vielen Dank, Officer.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo zusammen. Wer ist der Eigentümer dieses Grundstücks?</TEXT>
+            <TEXT>Hallo Officer. Das ist mein Haus... Gibt es ein Problem?</TEXT>
+            <TEXT>Hallo, wir haben eine Beschwerde von einem Ihrer Nachbarn wegen der lauten Musik. Wie ist Ihr Name, Sir?</TEXT>
+            <TEXT>Das sage ich Ihnen nicht! Wir feiern eine Party, da müssen die damit rechnen, uns zu hören!</TEXT>
+            <TEXT>Alles klar, Sir, nun, ich muss Sie bitten, die Lautstärke zu verringern.</TEXT>
+            <TEXT>Schön... wenn Sie meinen. Geben Sie mir eine Sekunde...</TEXT>
+            <TEXT>Besser so?</TEXT>
+            <TEXT>Ja, danke für Ihre Kooperation. Viel Spaß noch bei der restlichen Feier.</TEXT>
+            <TEXT>Was auch immer, Spielverderber...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Sir, glauben Sie, dass es notwendig ist, dass ich noch einmal wiederkommen muss?</TEXT>
+            <TEXT>Oh hey Officer. Tut mir leid, ich schätze, einer meiner Freunde hat die Musik wieder laut gemacht. Ich werde sie leiser machen.</TEXT>
+            <TEXT>Nun, dies ist mein zweites Mal hier. Ausreden sind mir egal. Schalten Sie die Musik aus.</TEXT>
+            <TEXT>Warum? Hattest du als Teenager keinen Spaß? Hör auf zu meckern, wir amüsieren uns!</TEXT>
+            <TEXT>Ich habe Sie bereits gewarnt. Schalten Sie sie jetzt aus.</TEXT>
+            <TEXT>Nein. Das können Sie mich nicht zwingen. Ich habe es satt, dass Sie versuchen, meine Party zu ruinieren.</TEXT>
+            <TEXT>Es gibt zwei Möglichkeiten, wie das hier endet. Erstens: Sie schalten die Musik aus und setzen Ihre Party fort.</TEXT>
+            <TEXT>Zweitens: Wenn Sie sich weigern zu kooperieren, endet die Party und ich nehme Sie wegen Ruhestörung mit. Es ist Ihre Entscheidung.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Na gut dann... ich werde die Musik ausschalten.</TEXT>
+            <TEXT>Zufrieden jetzt?</TEXT>
+            <TEXT>Kluge Entscheidung, mein Freund. Unabhängig davon, noch einen schönen Tag.</TEXT>
+            <TEXT>Verlassen Sie mein Grundstück. Die Leute hier in der Gegend sind zum Kotzen...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>Verdammtes Bullenschwein!</TEXT>
+            <TEXT>Okay Bürschchen, nimm die Hände hoch, wo ich sie sehen kann. Du gehst wegen Ruhestörung in den Knast.</TEXT>
+            <TEXT>Wahnsinn, ich kann das nicht glauben. Da weiß eindeutig jemand nicht, wie man Spaß hat!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="32">
+        <CONTACTID ID="1">
+            <TEXT>Entschuldigen Sie, Sir, sind Sie derjenige, der wegen der lauten Musik angerufen hat?</TEXT>
+            <TEXT>Hallo Officer. Ja, ich war derjenige, der die Polizei gerufen hat.</TEXT>
+            <TEXT>Ich nehme an, Sie sprechen von der Musik, die ich im Hintergrund höre?</TEXT>
+            <TEXT>Ja. Diese Partygänger feiern ständig, und wir Nachbarn müssen immer leiden! Können Sie das bitte beenden?</TEXT>
+            <TEXT>Sicherlich. Ich werde mit dem Besitzer sprechen und ihn bitten, die Musik leiser zu machen.</TEXT>
+            <TEXT>Vielen Dank, Officer.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo. Ich bin Officer {0}. Wer ist für diese Party verantwortlich?</TEXT>
+            <TEXT>Das bin ich. Michael De Santa. Gibt es ein Problem, Officer?</TEXT>
+            <TEXT>Ja, Mr. De Santa. Tut mir leid zu stören, aber die Leute in Ihrer Nachbarschaft beschweren sich über die laute Musik.</TEXT>
+            <TEXT>Ach kommen Sie, das ist eine Feier für meine Tochter Tracy. Sie hat endlich einen Job beim Fernsehen bekommen.</TEXT>
+            <TEXT>Nun, das freut mich zu hören, Michael, aber ich muss Sie dennoch bitten, die Lautstärke zu verringern.</TEXT>
+            <TEXT>Na gut, geben Sie mir eine Sekunde...</TEXT>
+            <TEXT>Sind Sie nun damit zufrieden?</TEXT>
+            <TEXT>Vielen Dank, Mr. De Santa. Ich schätze Ihre Kooperation. Viel Spaß noch bei der Party.</TEXT>
+            <TEXT>Es wird nicht mehr so viel Spaß machen...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Kann ich noch einmal kurz mit Ihnen sprechen, Mr. De Santa?</TEXT>
+            <TEXT>Was denn jetzt noch?</TEXT>
+            <TEXT>Warum ist die Musik schon wieder so laut?</TEXT>
+            <TEXT>Wollen Sie darauf wirklich eine Antwort?</TEXT>
+            <TEXT>Im Grunde ist es mir egal. Schalten Sie die Musik aus, oder ich bringe Sie ins Gefängnis.</TEXT>
+            <TEXT>Was zum Teufel? Warum führst du dich auf wie eine Pussy?</TEXT>
+            <TEXT>Ich habe Sie höflich gebeten, die Musik auszuschalten, jetzt haben Sie keine Wahl mehr.</TEXT>
+            <TEXT>Schalten Sie die Musik aus, bevor ich Sie festnehme.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Okay okay, verlieren Sie nicht die Fassung.</TEXT>
+            <TEXT>Zufrieden jetzt?</TEXT>
+            <TEXT>Wenn ich noch einmal wiederkommen muss, geht es direkt auf die Wache. Auf Wiedersehen, Mr. De Santa.</TEXT>
+            <TEXT>Was auch immer, Alter. Geh zurück zu deiner Gruppentherapie... du Hohlkopf.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>Einen Scheiß werde ich!</TEXT>
+            <TEXT>Dann bringe ich Sie wegen Ruhestörung auf die Wache. Zeigen Sie mir Ihre Hände.</TEXT>
+            <TEXT>Das ist lächerlich. Ich werde meinen Anwalt anrufen, du Sohn einer Hündin!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="33">
+        <CONTACTID ID="1">
+            <TEXT>Hallo. Haben Sie den Notruf wegen lauter Musik gewählt?</TEXT>
+            <TEXT>Hallo Officer. Ja. Sie spielen sie schon seit ein paar Stunden. Genug ist genug!</TEXT>
+            <TEXT>Da stimme ich zu. War die Musik schon immer so laut?</TEXT>
+            <TEXT>Es gab ein paar Minuten, in denen es ruhig war, aber so geht es schon seit Stunden.</TEXT>
+            <TEXT>Okay. Ich werde Kontakt zum Hausbesitzer aufnehmen und ihn bitten, die Lautstärke zu drosseln.</TEXT>
+            <TEXT>Danke, dass Sie das ernst nehmen.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo. Kann ich kurz mit dem Hausbesitzer sprechen?</TEXT>
+            <TEXT>Yo Dog, ich bin Franklin Clinton. Das ist meine Bude, was geht ab?</TEXT>
+            <TEXT>Hallo Mr. Clinton, wir haben eine Beschwerde wegen Ihrer lauten Musik erhalten.</TEXT>
+            <TEXT>Was? Das ist nicht zu laut. Die Leute können sich immer noch unterhalten...</TEXT>
+            <TEXT>Unabhängig davon, bitte drosseln Sie die Lautstärke.</TEXT>
+            <TEXT>Schön, wenn ich muss...</TEXT>
+            <TEXT>Ist das so okay für meinen Officer-Freund?</TEXT>
+            <TEXT>Ja, ist es. Danke für Ihre Kooperation.</TEXT>
+            <TEXT>Danke, Officer!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hey Mr. Clinton, kommen Sie bitte noch mal her.</TEXT>
+            <TEXT>Hey yo. Was machst du schon wieder hier?</TEXT>
+            <TEXT>Ich bin zurück, weil die Musik wieder zu laut ist.</TEXT>
+            <TEXT>Ich denke, es ist die gleiche Lautstärke wie vorhin. Der Typ, der sich beschwert, muss kaputte Ohren haben.</TEXT>
+            <TEXT>Sir, Sie müssen die Musik jetzt komplett ausschalten.</TEXT>
+            <TEXT>Was? Nein, ich werde sie nur leiser machen. Sie muss nicht ganz aus!</TEXT>
+            <TEXT>Sir, bitte machen Sie es nicht komplizierter, als es sein muss.</TEXT>
+            <TEXT>Schalten Sie die Musik aus, bevor ich Sie wegen Ruhestörung in den Knast bringe.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Eh, wenn der Cop sagt, ich soll's ausmachen, schätze ich, ich muss es ausmachen...</TEXT>
+            <TEXT>Es herrscht Stille. Bist du jetzt glücklich?</TEXT>
+            <TEXT>Ich hoffe, Sie lassen es so. Vielen Dank.</TEXT>
+            <TEXT>Tut mir leid für den Stress, Officer.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>Weißt du was, leck mich doch am...</TEXT>
+            <TEXT>Okay, Hände dorthin, wo ich sie sehen kann. Sie sind wegen Ruhestörung festgenommen.</TEXT>
+            <TEXT>Der Knast wird gar nichts bringen, Bulle!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="34">
+        <CONTACTID ID="1">
+            <TEXT>Hallo Ma'am. Haben Sie den Notruf wegen einer Lärmbelästigung gerufen?</TEXT>
+            <TEXT>Hallo Officer. Ja, ich habe die Cops gerufen. Die Party ist zu wild. Sie werfen mit Bierflaschen und machen andere bizarre Dinge...</TEXT>
+            <TEXT>Haben sie etwas auf die Straße oder gegen Ihre Häuser geworfen?</TEXT>
+            <TEXT>Zum Glück nicht. Es ist das Haus dort drüben mit dem "The Lost"-Van davor.</TEXT>
+            <TEXT>Scheint eine Biker-Party zu sein. Gehen Sie am besten wieder rein, während wir uns um die Party kümmern.</TEXT>
+            <TEXT>Vielen Dank.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo zusammen. Wer ist hier der Besitzer?</TEXT>
+            <TEXT>Das wäre dann wohl ich. Was kann ich für das Schwein in Uniform tun?</TEXT>
+            <TEXT>Ihre Musik ist zu laut. Ich muss Sie bitten, sie leiser zu machen.</TEXT>
+            <TEXT>Nö, ich höre keine Musik.</TEXT>
+            <TEXT>Wollen Sie kooperieren, oder soll ich Sie wegen Ruhestörung festnehmen?</TEXT>
+            <TEXT>Wenn du es so willst, dann lass mich gehen und sie leiser machen.</TEXT>
+            <TEXT>Glaub bloß nicht, dass du gewonnen hast.</TEXT>
+            <TEXT>Alles klar, Kumpel, danke für die Kooperation. Lassen Sie mich nicht noch einmal herkommen müssen.</TEXT>
+            <TEXT>Man sieht sich, Schweinchen in Uniform!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Sir, kommen Sie mal für eine Minute her.</TEXT>
+            <TEXT>Was ist los, Schweinchen in Uniform? Willst du mitmachen?</TEXT>
+            <TEXT>Nein. Sie müssen die Musik ausschalten und die Party beenden.</TEXT>
+            <TEXT>Nö! Ich höre keine Musik, und ich glaube, keiner meiner Brüder oder Schwestern hört welche.</TEXT>
+            <TEXT>Es wird einige Zeit dauern, all die Verstöße aufzuschreiben, die ich hier sehe. Ich denke, das wird ein saftiges Bußgeld, es sei denn, Sie möchten kooperieren.</TEXT>
+            <TEXT>Was ist dein verdammtes Problem, Schwein in Uniform?</TEXT>
+            <TEXT>Mein Problem ist, dass Sie das Bedürfnis haben, nicht zuzuhören.</TEXT>
+            <TEXT>Letzte Chance. Schalten Sie die Musik aus, oder Sie gehen wegen Ruhestörung in den Knast.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Diesmal werde ich hören.</TEXT>
+            <TEXT>Nächstes Mal nicht.</TEXT>
+            <TEXT>Nächstes Mal wandern Sie in den Knast, wenn Sie nicht kooperieren. Einen schönen Tag noch.</TEXT>
+            <TEXT>Verdammte Bullenschweine in Uniform. Ihr habt diesen Kampf nicht gewonnen.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>Du gottverdammtes Schwein in Uniform. Ich werde kein Stück von dem tun, was du sagst!</TEXT>
+            <TEXT>Zeigen Sie mir Ihre Hände. Sie sind hiermit wegen Ruhestörung festgenommen.</TEXT>
+            <TEXT>Das ist der Grund, warum ich Cops hasse.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="35">
+        <CONTACTID ID="1">
+            <TEXT>Hallo Ma'am. Sie haben die Polizei wegen einer lauten Party gerufen?</TEXT>
+            <TEXT>Hallo Officer. Hören Sie die Musik? Es ist jetzt das dritte Mal, dass diese Schlampe so eine Party feiert.</TEXT>
+            <TEXT>Kein Grund, Ihre Nachbarin zu beleidigen. Haben Sie mit ihr gesprochen?</TEXT>
+            <TEXT>Nein, ich werde nicht mit ihr reden. Das Haus ist dort drüben. Versuchen Sie es an der Tür links, ansonsten finden Sie sie auf der oberen Terrasse.</TEXT>
+            <TEXT>Ok, danke für die Info. Bitte gehen Sie zurück in Ihr Haus. Ich werde mich um die Angelegenheit kümmern.</TEXT>
+            <TEXT>Ich hoffe, sie geht in den Knast, tschüss.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo zusammen. Ich muss mit dem Besitzer dieses Hauses sprechen.</TEXT>
+            <TEXT>Hallo Officer, das bin ich. Was kann ich für Sie tun?</TEXT>
+            <TEXT>Es wurde eine Ruhestörung wegen lauter Musik gemeldet.</TEXT>
+            <TEXT>Sind Sie sicher, dass das meine Party ist?</TEXT>
+            <TEXT>Ja, ich bin mir sicher. Bitte tun Sie mir einen Gefallen und senken Sie die Lautstärke auf ein angemessenes Maß.</TEXT>
+            <TEXT>Nun gut, warten Sie hier.</TEXT>
+            <TEXT>Das ist das Maximum, das ich leiser machen will. Ist das okay?</TEXT>
+            <TEXT>Ja Miss, danke und einen schönen Tag noch.</TEXT>
+            <TEXT>Tschüss.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Miss, kommen Sie bitte mal hierher!</TEXT>
+            <TEXT>Ahm ok? Was habe ich jetzt schon wieder falsch gemacht?</TEXT>
+            <TEXT>Der Lärmpegel ist wieder wie am Anfang. Können Sie mir sagen, warum?</TEXT>
+            <TEXT>Nein, es ist immer noch so wie beim Verlassen. Sie müssen wohl was an den Ohren haben.</TEXT>
+            <TEXT>Mit meinen Ohren ist alles in Ordnung, aber es scheint, als wäre es Ihr Gedächtnis nicht. Schalten Sie die Musik sofort aus!</TEXT>
+            <TEXT>Warum sind Sie so unfreundlich? Das gefällt mir nicht.</TEXT>
+            <TEXT>Nun, mir gefällt es nicht, dass Sie mich anlügen.</TEXT>
+            <TEXT>Ich sage das nur einmal. Schalten Sie die Musik jetzt aus, oder ich ziehe den Stecker und nehme Sie mit auf die Wache.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>In Ordnung, tut mir leid, ich mache es.</TEXT>
+            <TEXT>Ich will keinen Ärger haben.</TEXT>
+            <TEXT>Denken Sie das nächste Mal daran, bevor Sie die Polizei anlügen. Auf Wiedersehen.</TEXT>
+            <TEXT>Was für ein Idiot!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>Wissen Sie was. NEIN. Ich finde, Sie überreagieren. Der Lärmpegel ist völlig okay.</TEXT>
+            <TEXT>Ich habe genug davon. Sie können das unten auf der Wache erklären. Zeigen Sie mir Ihre Hände.</TEXT>
+            <TEXT>Diese blöde Hure von unten. Sie ist diejenige, die verhaftet werden sollte.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

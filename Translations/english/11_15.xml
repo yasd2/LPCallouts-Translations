@@ -1,0 +1,169 @@
+<TRANSLATION>
+    <CALLOUTID ID="11">
+        <CONTACTID ID="1">
+            <TEXT>Hey Frank, long time no see. What happend here?</TEXT>
+            <TEXT>Hey {0}, Seems like a Hit and Run.</TEXT>
+            <TEXT>Is anyone injured?</TEXT>
+            <TEXT>I'm afraid so. The driver of the truck rolled his vehicle and got injured. Paramedics are taking care about him in the ambulance. He will be sent to the hospital.</TEXT>
+            <TEXT>It's been a while since I saw an accident like this. Do we know the cause?</TEXT>
+            <TEXT>The worker here told me that a vehicle went into the truck's lane and made him swerve to avoid the oncoming car, however you could talk to him.</TEXT>
+            <TEXT>Sure, I'll see what he tells me.</TEXT>
+            <TEXT>That is all I can tell you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Sir, my partner told me you know what happened.</TEXT>
+            <TEXT>Yes, Officer. A stupid asshole overtook me and the truck swerved and ended up in the woods. I immediately called 911.</TEXT>
+            <TEXT>Thank you for that. Do you remember anything about the vehicle or driver?</TEXT>
+            <TEXT>Yes actually, I own the same vehicle. It was a ~y~</TEXT>
+            <TEXT>Okay. Did you see the license plate?</TEXT>
+            <TEXT>I think it was ~y~</TEXT>
+            <TEXT>Thanks for your help. Give this officer a detailed statement and you will be free to leave.</TEXT>
+            <TEXT>Okay Officer. Thanks.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="12">
+        <CONTACTID ID="1">
+            <TEXT>Hi Partner. Wow. That's a deep fall! Let me guess: Drunk Driver.</TEXT>
+            <TEXT>Hey {0}, Nope. Actually it is a Hit and Run.</TEXT>
+            <TEXT>Really. On this road? What happened?</TEXT>
+            <TEXT>The driver of the Log truck rolled his vehicle and got injured by evading a speeding car. He will be sent to the hospital.</TEXT>
+            <TEXT>Do we know anything about this car?</TEXT>
+            <TEXT>His co-driver told me that this vehicle nearly lost control, however you could talk to him.</TEXT>
+            <TEXT>Yep. I will take over here okay?</TEXT>
+            <TEXT>Sure thanks. It's yours.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey. Can you repeat for me that what you told my partner?</TEXT>
+            <TEXT>Yes, Officer. A stupid asshole came down the hill with an insane speed. My buddy had to go off the road not to hit him.</TEXT>
+            <TEXT>Can you remember that car?</TEXT>
+            <TEXT>Yeah, I do. It was a ~y~ </TEXT>
+            <TEXT>Okay. Did you see the license plate?</TEXT>
+            <TEXT>Yes i also remember this. It was ~y~</TEXT>
+            <TEXT>Thanks for your help. Please stay here until the recovery crane has arrived.</TEXT>
+            <TEXT>Okay Officer. Thanks.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="13">
+        <CONTACTID ID="1">
+            <TEXT>Hi, what the hell happened here?</TEXT>
+            <TEXT>Hey Officer {0}, thanks for the fast response. According to the first infos I have, it seems to be a Hit and Run</TEXT>
+            <TEXT>Did you already talk to victims and witnesses?</TEXT>
+            <TEXT>No sorry, i was helping securing the scene and keep the traffic flow.</TEXT>
+            <TEXT>Okay, then i will talk to the involved people to gain information about a possible suspect.</TEXT>
+            <TEXT>Thanks, meanwhile i will take care about the traffic, see ya later.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hi, my name is {0} from the {1}. Can you tell me what happened?</TEXT>
+            <TEXT>Oh my god, i hope she will be ok, they just have taken her to the hospital.</TEXT>
+            <TEXT>Calm down, everything will be fine. I need you to tell me what happened. Can you do that for me?</TEXT>
+            <TEXT>I think so, but it all happened so fast... it wasn't my fault.. i needed to pull away...</TEXT>
+            <TEXT>From what did you pull away. Did a car cut you? Please be more precise.</TEXT>
+            <TEXT>Yes, it switched to my lane without noticing me. I think it was a </TEXT>
+            <TEXT>Are you sure about this?</TEXT>
+            <TEXT>No I'm not.. please ask the others.. maybe the can tell you more.</TEXT>
+            <TEXT>Okay, thanks again. Just keep calm, she will be ok</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello, {0}. Are you okay? Can i ask you some questions?</TEXT>
+            <TEXT>Hi, yeah sure, go ahead</TEXT>
+            <TEXT>The guy that flipped the car told me that he was cut by a car which switched the lane, is this correct?</TEXT>
+            <TEXT>Yes. I had to brake hard to stop my car. But i touched the barriers anyway. Now look at my car</TEXT>
+            <TEXT>Sorry for that. Can you remember a licence plate or a the car type or maybe the color?</TEXT>
+            <TEXT>Not really, I was focusing not to crash.</TEXT>
+            <TEXT>Thanks for your time, if you need anything then contact {0}.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hey there, I'm officer {0}. It seems that your car is fine. Why are you here?</TEXT>
+            <TEXT>Hi, i was the one that called 9-1-1. And i decided to stay cause i have wrote down the car that caused this mess.</TEXT>
+            <TEXT>Perfect. So you can tell me the licence plate of the</TEXT>
+            <TEXT>Yes i can tell you, but it wasn't a </TEXT>
+            <TEXT>Ok, then what car was it?</TEXT>
+            <TEXT>It was a </TEXT>
+            <TEXT>Thanks for helping out, it will help to identify this reckless driver. You can leave now</TEXT>
+            <TEXT>Okay. Bye</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="14">
+        <CONTACTID ID="1">
+            <TEXT>Hey Partner. This crash looks serious. Do you know what happened?</TEXT>
+            <TEXT>Hi {0}, Yeah, it's a miracle that there is not more damage. Looks like a Hit and Run, but I'm not sure</TEXT>
+            <TEXT>How do you know. Have you already talked to involved people?</TEXT>
+            <TEXT>Unfortunately not. I took care about getting EMS and the fire team here.</TEXT>
+            <TEXT>Okay, then I will start questioning to see if we get a cause or maybe a suspect.</TEXT>
+            <TEXT>Meanwhile I will contact dispatch and give them an update about the status here.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello, I'm officer {0} from the {1}. Are you able to answer some questions?</TEXT>
+            <TEXT>Oh hi, ehm... yes maybe... they just took my wife to the hospital with the helicopter. They said that she has internal chest injuries.</TEXT>
+            <TEXT>Damn, sad to hear that. But she is in god hands. Can you tell me what happened?</TEXT>
+            <TEXT>I was driving on the second lane at suddenly the guy on the first one pulled over.I reacted and flipped the car.</TEXT>
+            <TEXT>Do you remember a car type or license plate of this vehicle?</TEXT>
+            <TEXT>I'm really not sure. Maybe it was a </TEXT>
+            <TEXT>Did the person set the indicator, or did he just pull to your side?</TEXT>
+            <TEXT>No. He just pulled to my lane without any notice</TEXT>
+            <TEXT>Thanks for your info. Maybe {0} will contact you again.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hi, {0}. Are you the second involved person of this crash?</TEXT>
+            <TEXT>Hi yes, I was driving behind the car that flipped.</TEXT>
+            <TEXT>So can you describe the situation that caused this accident?</TEXT>
+            <TEXT>Sure. A vehicle pulled into the guys car with any notice.. One thing led to another and BAAM.</TEXT>
+            <TEXT>Do you remember a licence plate or a the car type or maybe the color?</TEXT>
+            <TEXT>No sorry.</TEXT>
+            <TEXT>Thanks for your time, if you need anything then contact {0}.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hello, my name is officer {0}. Can you tell me what you doing here?</TEXT>
+            <TEXT>Hello officer. I saw exactly what happened from the other side.</TEXT>
+            <TEXT>Okay. The victims sad that a vehicle pulled on the other lane and caused the crash. It was a </TEXT>
+            <TEXT>Then they must be wrong. It was definitely not a </TEXT>
+            <TEXT>Interesting. So then please update me.</TEXT>
+            <TEXT>Yes sure. I memorized it. It was a </TEXT>
+            <TEXT>Thanks for your help. You can leave now</TEXT>
+            <TEXT>Bye</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="15">
+        <CONTACTID ID="1">
+            <TEXT>Wow. It has been a while since a crash happened here. What's going on?</TEXT>
+            <TEXT>Hey {0}. You're right. No issue here a long time.</TEXT>
+            <TEXT>Did you already make contact with the involved people?</TEXT>
+            <TEXT>Nope. You're the higher ranked cop here. Please take care of it.</TEXT>
+            <TEXT>Always the same excuse. This is getting old. Well okay, I will do it.</TEXT>
+            <TEXT>Thank you very much. I will keep traffic off your back</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey, my name is {0} from the {1}. Are you okay?</TEXT>
+            <TEXT>Yes I'm fine, just some bruising. But my daughter is injured. EMS is now talking her to the hospital</TEXT>
+            <TEXT>Sorry to hear that. Is it possible for you to answer some questions regarding the crash?</TEXT>
+            <TEXT>Well I hope I remember something. It's all a bit blurred from the impact. I will try.</TEXT>
+            <TEXT>How did this happen? Was any other vehicle involved in this accident?</TEXT>
+            <TEXT>Yes, another car switched to my lane and I had to brake hard. But it wasn't enough. I think it was a </TEXT>
+            <TEXT>Please take a time and think about your answer.</TEXT>
+            <TEXT>Well sorry. I can't tell if my answer is correct.. please question the others.. maybe they know.</TEXT>
+            <TEXT>Okay, thanks anyway.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello, {0}. Can I talk to you for a second?</TEXT>
+            <TEXT>Hi, sure, go ahead</TEXT>
+            <TEXT>The guy that flipped his car told me that the crash was caused by a third car, is this correct?</TEXT>
+            <TEXT>Yep. As you can see, I tried to stop but failed.</TEXT>
+            <TEXT>Can you remember a licence plate or a the car type or maybe the color?</TEXT>
+            <TEXT>No sorry. My eyes where focused on car in front of me... sorry</TEXT>
+            <TEXT>Okay, if you need anything then contact {0}.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hey there, I'm officer {0}. Are you the 911 caller?</TEXT>
+            <TEXT>Yes I called the police. I was driving a little bit behind those two when the accident happened</TEXT>
+            <TEXT>There seems to be a third car which was causing the accident. Did you see the licence plate of the </TEXT>
+            <TEXT>Yes, but the car wasn't a </TEXT>
+            <TEXT>Then the others must be wrong. Which type was it?</TEXT>
+            <TEXT>It was a </TEXT>
+            <TEXT>Thanks for your help, appreciate it. You can leave now</TEXT>
+            <TEXT>Okay. Goodbye</TEXT>
+            <TEXT></TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

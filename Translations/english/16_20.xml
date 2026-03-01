@@ -1,0 +1,154 @@
+<TRANSLATION>
+    <CALLOUTID ID="16">
+        <CONTACTID ID="1">
+            <TEXT>Hi, How can I assist?</TEXT>
+            <TEXT>Hello {0}, did dispatch inform you?</TEXT>
+            <TEXT>No, just send me here. So what happened here</TEXT>
+            <TEXT>It's a Hit and Run. But I just shortly talked to the witnesses. Bring yourself up-to-date by talking to the involved ones.</TEXT>
+            <TEXT>Okay, I will do so.</TEXT>
+            <TEXT>I will make sure that we don't get a traffic jam here.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hi, I'm office {0} from the {1}. Can you tell me what happened?</TEXT>
+            <TEXT>Shit... my head hurts.. where is my girlfriend..?</TEXT>
+            <TEXT>She left in the helicopter. She needs to get to the hospital as quickly as possible.</TEXT>
+            <TEXT>Fuck, were is that fucking bastard..</TEXT>
+            <TEXT>What bastard, Please tell me what happened.</TEXT>
+            <TEXT>A car pushed my off the road. I think it was a</TEXT>
+            <TEXT>I will get out a BOLO for that car model. Give me a second.</TEXT>
+            <TEXT>No stop... I don't know. Maybe it was a different one.Does anyone of the others know?</TEXT>
+            <TEXT>I will ask them. For now please stay here. Paramedics will take a look at you</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello, {0}. Do you have any injuries?</TEXT>
+            <TEXT>Just some small bruisings. Nothing really mentionable.</TEXT>
+            <TEXT>The other involved person told me that he was forced of the road by another car. Is that true?</TEXT>
+            <TEXT>Yes. I was directly behind him, maybe a little bit to near... ah whatever.</TEXT>
+            <TEXT>For now I don't care about that. Can you remember a licence plate or a the car type or maybe the color?</TEXT>
+            <TEXT>Sorry. No.</TEXT>
+            <TEXT>Okay thanks, {0} will contact you later.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hi, my name is {0} from the {1}. Are you okay?</TEXT>
+            <TEXT>Hello officer, yes I'm okay and luckily I don't have any damage cause I could stop in time.</TEXT>
+            <TEXT>The other two told me that someone forced them off the road. Car type is a</TEXT>
+            <TEXT>That's true. I was driving behind them. But the car wasn't a</TEXT>
+            <TEXT>Well... please tell mr then.</TEXT>
+            <TEXT>It was a</TEXT>
+            <TEXT>Thank for your help. You can leave now</TEXT>
+            <TEXT>Okay. Bye</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="17">
+        <CONTACTID ID="1">
+            <TEXT>Hi. How can I help?</TEXT>
+            <TEXT>Hi Officer. We actually don't know what happened right now.</TEXT>
+            <TEXT>Okay... Strange. Did anyone see anything?</TEXT>
+            <TEXT>No. The lifeguards found him about 10 minutes ago, just washed up here.</TEXT>
+            <TEXT>Okay. I'll question some people here and see if they know anything.</TEXT>
+            <TEXT>That is all I can tell you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey, did you see what happened?</TEXT>
+            <TEXT>Nope. I saw a crowd forming, and I wanted to check out what was going on.</TEXT>
+            <TEXT>Huh. Okay then...</TEXT>
+            <TEXT>Sorry.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hey there. Do you know what happened?</TEXT>
+            <TEXT>Unfortunately, I have no clue. I was just walking and saw him laying there. I tried asking if he was okay, but he didn't answer, so I called 911.</TEXT>
+            <TEXT>Okay then. Why don't you and your buddies clear the scene. We'll take it from here.</TEXT>
+            <TEXT>Okay... Damn, hope he makes it.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hello. You are the one that called 911, correct?</TEXT>
+            <TEXT>Yes officer. Sorry for calling so late, I'm from Europe and not used to the emergency system in America.</TEXT>
+            <TEXT>It's okay. Can you tell me what you saw?</TEXT>
+            <TEXT>~w~ speedboat that hit the surfer.They didn't bother stopping. They hit him and kept on going!</TEXT>
+            <TEXT>Do you know the direction the boat was heading?</TEXT>
+            <TEXT>I believe the boat was heading to </TEXT>
+            <TEXT>Okay. Thank you for your information. Is there anything else you can tell us?</TEXT>
+            <TEXT>No... unfortunately that's it. Sorry!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>A tourist has reported a crime which is maybe connected to your injured surfer.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="18">
+        <CONTACTID ID="1">
+            <TEXT>Hi, everything under control here?</TEXT>
+            <TEXT>Hi Officer. We are busy keeping the crowd away from the scene</TEXT>
+            <TEXT>What happened here?</TEXT>
+            <TEXT>The civilians found him 10 minutes ago and called in the lifeguards. I don't have more for you.</TEXT>
+            <TEXT>Okay. Thanks for the info. I'll try to find out if somebody knows anything.</TEXT>
+            <TEXT>That is all I know!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello. My name is {0}. I'm from the {1}. Do you know what happened?</TEXT>
+            <TEXT>No sorry. I just wanted to know what was going on here.</TEXT>
+            <TEXT>Okay. Please stay away from the scene...</TEXT>
+            <TEXT>Okay.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hey there, {0}. Can you tell me what happened here?</TEXT>
+            <TEXT>Yes. We were training here at the beach when I noticed the body in the sand. We tried to talk to him but he didn't answer, so I called 911.</TEXT>
+            <TEXT>Anything else?</TEXT>
+            <TEXT>Nope. Sorry.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hello. Are you the worker that called 911?</TEXT>
+            <TEXT>Yeah officer. That's me.</TEXT>
+            <TEXT>Good. Can you describe what you have seen?</TEXT>
+            <TEXT>~w~ speedboat that hit the surfer. I think they didn't see him but they hit him and kept on going!</TEXT>
+            <TEXT>Do you have any idea where the boat went?</TEXT>
+            <TEXT>You're lucky man. Yesterday I saw the exact same boat in the city. It was in</TEXT>
+            <TEXT>Thank you. That will make our jobs a lot easier.</TEXT>
+            <TEXT>Nice to know that I could help you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>A dock worker has reported a hit and run matching your scene location.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="19">
+        <CONTACTID ID="1">
+            <TEXT>Hey Officer. What happened here?</TEXT>
+            <TEXT>Hey Partner, thanks for coming out. I just got here, but it appears to be a Hit and Run.</TEXT>
+            <TEXT>Do we have a witness?</TEXT>
+            <TEXT>Try talking to the lady over there. She might know something.</TEXT>
+            <TEXT>Will do. Thanks for helping out.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey Ma'am. Did you call the ambulance?</TEXT>
+            <TEXT>Yes I did, officer!</TEXT>
+            <TEXT>Thank you for that. Can you tell me what happened?</TEXT>
+            <TEXT>~w~ ran on the curb and hit the man as he attempted to cross the road!</TEXT>
+            <TEXT>Okay. Did you see the vehicle's license plate?</TEXT>
+            <TEXT>I did... but I only remember the last 3 digits. They are ~y~</TEXT>
+            <TEXT>Okay. Thanks for your help. Give this officer a statement and you will be free to go on your way.</TEXT>
+            <TEXT>Thank you officer. Will do.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="20">
+        <CONTACTID ID="1">
+            <TEXT>Hey Officer. What happened here?</TEXT>
+            <TEXT>Hey Partner, thanks for coming out. I just got here, but it appears to be a Hit and Run.</TEXT>
+            <TEXT>Do we have a witness?</TEXT>
+            <TEXT>Try talking to the lady over there. She might know something.</TEXT>
+            <TEXT>Will do. Thanks for helping out.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey Ma'am. Did you call the ambulance?</TEXT>
+            <TEXT>Yes I did, officer!</TEXT>
+            <TEXT>Thank you for that. Can you tell me what happened?</TEXT>
+            <TEXT>~w~ ran on the curb and hit the man as he attempted to cross the road!</TEXT>
+            <TEXT>Okay. Did you see the vehicle's license plate?</TEXT>
+            <TEXT>I did... but I only remember the last 3 digits. They are ~y~</TEXT>
+            <TEXT>Okay. Thanks for your help. Give this officer a statement and you will be free to go on your way.</TEXT>
+            <TEXT>Thank you officer. Will do.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

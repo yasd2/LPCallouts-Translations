@@ -1,0 +1,26 @@
+<TRANSLATION>
+    <TEXT>Verhaften Sie den Verdächtigen</TEXT>
+    <TEXT>Leitstelle, kann ich eine 10-28 (Halterabfrage) bekommen?</TEXT>
+    <TEXT>Das Fahrzeug ist ein {0}, Kennzeichen {1}</TEXT>
+    <TEXT>10-12</TEXT>
+    <TEXT>Ich habe eine Fahrzeugübereinstimmung. Der Halter ist ~y~</TEXT>
+    <TEXT>~w~, und wohnt in ~y~</TEXT>
+    <TEXT>:~w~ 10-4. Status 10-76 (Anfahrt), Code 2.</TEXT>
+    <TEXT>10-4. Sie sind 10-76. Begeben Sie sich nach ~y~</TEXT>
+    <TEXT>~w~ Code 2.</TEXT>
+    <TEXT>:~w~ Leitstelle, kann ich eine 10-28 bekommen?</TEXT>
+    <TEXT>:~w~ Das Fahrzeug ist ein ~y~</TEXT>
+    <TEXT>~w~, Kennzeichen ~y~</TEXT>
+    <TEXT>Achtung! Fahrzeug-Status: ~r~ GESTOHLEN</TEXT>
+    <TEXT>:~w~ 10-4. Kann ich eine Fahndung (BOLO) für das Fahrzeug rausgeben?</TEXT>
+    <TEXT>10-4. Informiere alle Einheiten.</TEXT>
+    <TEXT>:~w~ Ich werde die Umgebung absuchen.</TEXT>
+    <TEXT>Suchen Sie die Umgebung nach dem verdächtigen Fahrzeug ab</TEXT>
+    <TEXT>:~w~ Leitstelle, ich brauche eine 10-28 zu einem Teilkennzeichen.</TEXT>
+    <TEXT>10-4, kommen Sie.</TEXT>
+    <TEXT>:~w~ Das Fahrzeug ist ein ~y~</TEXT>
+    <TEXT>~w~, Kennzeichen enthält ~y~</TEXT>
+    <TEXT>10-12, Abfrage läuft...</TEXT>
+    <TEXT>"Ich habe 3 mögliche Treffer im System. ~n~ ~g~1. {1},~n~ ~p~2. {2},~n~ ~y~3. {3}</TEXT> 
+    <TEXT>Schauen Sie auf die Karte und lokalisieren Sie die Gebiete. ~n~Drücken Sie 'NumPad1' für~g~ {1}~w~,~n~Drücken Sie 'NumPad2' für~p~ {2}~w~,~n~Drücken Sie 'NumPad3' für ~y~ {3}</TEXT>
+</TRANSLATION>

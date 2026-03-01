@@ -1,0 +1,169 @@
+<TRANSLATION>
+    <CALLOUTID ID="11">
+        <CONTACTID ID="1">
+            <TEXT>Hey Frank, lange nicht gesehen. Was ist hier passiert?</TEXT>
+            <TEXT>Hey {0}, sieht nach einer Fahrerflucht aus.</TEXT>
+            <TEXT>Ist jemand verletzt?</TEXT>
+            <TEXT>Ich fürchte ja. Der Fahrer des Lasters hat sich überschlagen und wurde verletzt. Die Sanitäter kümmern sich im Krankenwagen um ihn. Er wird ins Krankenhaus gebracht.</TEXT>
+            <TEXT>Es ist eine Weile her, seit ich so einen Unfall gesehen habe. Kennen wir die Ursache?</TEXT>
+            <TEXT>Der Arbeiter hier sagte mir, dass ein Fahrzeug auf die Spur des Lasters geraten ist und ihn zum Ausweichen gezwungen hat, aber du könntest mal mit ihm sprechen.</TEXT>
+            <TEXT>Sicher, ich schaue mal, was er mir erzählt.</TEXT>
+            <TEXT>Das ist alles, was ich dir sagen kann!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo Sir, mein Partner sagte mir, Sie wissen, was passiert ist.</TEXT>
+            <TEXT>Ja, Officer. Ein dämliches Arschloch hat mich überholt, woraufhin der Laster auswich und im Wald landete. Ich habe sofort den Notruf gewählt.</TEXT>
+            <TEXT>Vielen Dank dafür. Erinnern Sie sich an irgendetwas bezüglich des Fahrzeugs oder des Fahrers?</TEXT>
+            <TEXT>Ja, tatsächlich, ich besitze das gleiche Auto. Es war ein ~y~</TEXT>
+            <TEXT>Okay. Haben Sie das Kennzeichen gesehen?</TEXT>
+            <TEXT>Ich glaube, es war ~y~</TEXT>
+            <TEXT>Danke für Ihre Hilfe. Geben Sie diesem Officer eine detaillierte Aussage zu Protokoll, dann können Sie gehen.</TEXT>
+            <TEXT>Okay Officer. Danke.</TEXT>
+            <TEXT>Tut mir leid, aber das ist alles, was ich Ihnen sagen kann.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="12">
+        <CONTACTID ID="1">
+            <TEXT>Hi Partner. Wow. Das ist ein tiefer Sturz! Lass mich raten: Trunkenheit am Steuer.</TEXT>
+            <TEXT>Hey {0}, nein. Tatsächlich ist es eine Fahrerflucht.</TEXT>
+            <TEXT>Wirklich? Auf dieser Straße? Was ist passiert?</TEXT>
+            <TEXT>Der Fahrer des Holzlasters hat sich überschlagen und wurde verletzt, als er einem Raser auswich. Er wird ins Krankenhaus gebracht.</TEXT>
+            <TEXT>Wissen wir etwas über dieses Auto?</TEXT>
+            <TEXT>Sein Beifahrer sagte mir, dass dieses Fahrzeug fast die Kontrolle verloren hätte, aber du könntest mal mit ihm sprechen.</TEXT>
+            <TEXT>Jep. Ich übernehme hier, okay?</TEXT>
+            <TEXT>Sicher, danke. Gehört dir.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey. Können Sie mir das wiederholen, was Sie meinem Partner erzählt haben?</TEXT>
+            <TEXT>Ja, Officer. Ein dämliches Arschloch kam den Hügel mit wahnsinniger Geschwindigkeit runtergebrettert. Mein Kumpel musste von der Straße abkommen, um ihn nicht zu rammen.</TEXT>
+            <TEXT>Können Sie sich an das Auto erinnern?</TEXT>
+            <TEXT>Ja, kann ich. Es war ein ~y~ </TEXT>
+            <TEXT>Okay. Haben Sie das Kennzeichen gesehen?</TEXT>
+            <TEXT>Ja, daran erinnere ich mich auch. Es war ~y~</TEXT>
+            <TEXT>Danke für Ihre Hilfe. Bitte bleiben Sie hier, bis der Abschleppkran eingetroffen ist.</TEXT>
+            <TEXT>Okay Officer. Danke.</TEXT>
+            <TEXT>Tut mir leid, aber das ist alles, was ich Ihnen sagen kann.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="13">
+        <CONTACTID ID="1">
+            <TEXT>Hi, was zur Hölle ist hier passiert?</TEXT>
+            <TEXT>Hey Officer {0}, danke für die schnelle Reaktion. Nach den ersten Infos, die ich habe, scheint es eine Fahrerflucht zu sein.</TEXT>
+            <TEXT>Hast du schon mit Opfern und Zeugen gesprochen?</TEXT>
+            <TEXT>Nein, tut mir leid, ich habe geholfen, die Unfallstelle zu sichern und den Verkehr am Laufen zu halten.</TEXT>
+            <TEXT>Okay, dann werde ich mit den beteiligten Personen sprechen, um Informationen über einen möglichen Verdächtigen zu erhalten.</TEXT>
+            <TEXT>Danke, währenddessen kümmere ich mich um den Verkehr, bis später.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hi, mein Name ist {0} von der {1}. Können Sie mir sagen, was passiert ist?</TEXT>
+            <TEXT>Oh mein Gott, ich hoffe, es wird ihr gut gehen, sie haben sie gerade ins Krankenhaus gebracht.</TEXT>
+            <TEXT>Beruhigen Sie sich, alles wird gut. Ich brauche Ihre Aussage, was passiert ist. Können Sie das für mich tun?</TEXT>
+            <TEXT>Ich denke schon, aber es ging alles so schnell... es war nicht meine Schuld.. ich musste weglenken...</TEXT>
+            <TEXT>Wovor sind Sie ausgewichen? Hat Sie ein Auto geschnitten? Bitte seien Sie präziser.</TEXT>
+            <TEXT>Ja, es ist auf meine Spur gewechselt, ohne mich zu bemerken. Ich glaube, es war ein </TEXT>
+            <TEXT>Sind Sie sicher?</TEXT>
+            <TEXT>Nein, bin ich nicht.. bitte fragen Sie die anderen.. vielleicht können die Ihnen mehr sagen.</TEXT>
+            <TEXT>Okay, danke nochmal. Bleiben Sie ruhig, es wird ihr gut gehen.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hallo, {0}. Ist alles okay? Kann ich Ihnen ein paar Fragen stellen?</TEXT>
+            <TEXT>Hi, ja klar, schießen Sie los.</TEXT>
+            <TEXT>Der Typ, der den Wagen überschlagen hat, sagte mir, er sei von einem Auto geschnitten worden, das die Spur gewechselt hat. Ist das korrekt?</TEXT>
+            <TEXT>Ja. Ich musste hart bremsen, um mein Auto zu stoppen. Aber ich habe trotzdem die Leitplanken berührt. Schauen Sie sich mal mein Auto an.</TEXT>
+            <TEXT>Das tut mir leid. Können Sie sich an ein Kennzeichen, den Fahrzeugtyp oder vielleicht die Farbe erinnern?</TEXT>
+            <TEXT>Nicht wirklich, ich war darauf konzentriert, nicht zu crashen.</TEXT>
+            <TEXT>Danke für Ihre Zeit, wenn Sie etwas brauchen, kontaktieren Sie {0}.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hallo, ich bin Officer {0}. Es scheint, dass Ihr Auto in Ordnung ist. Warum sind Sie hier?</TEXT>
+            <TEXT>Hi, ich war derjenige, der den Notruf gewählt hat. Und ich habe mich entschieden zu bleiben, weil ich mir das Auto notiert habe, das dieses Chaos verursacht hat.</TEXT>
+            <TEXT>Perfekt. Sie können mir also das Kennzeichen des</TEXT>
+            <TEXT>Ja, kann ich, aber es war kein </TEXT>
+            <TEXT>Ok, was für ein Auto war es dann?</TEXT>
+            <TEXT>Es war ein </TEXT>
+            <TEXT>Danke für die Hilfe, das wird helfen, diesen rücksichtslosen Fahrer zu identifizieren. Sie können jetzt gehen.</TEXT>
+            <TEXT>Okay. Tschüss.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="14">
+        <CONTACTID ID="1">
+            <TEXT>Hey Partner. Dieser Crash sieht ernst aus. Weißt du, was passiert ist?</TEXT>
+            <TEXT>Hi {0}, ja, es ist ein Wunder, dass nicht mehr passiert ist. Sieht nach Fahrerflucht aus, aber ich bin nicht sicher.</TEXT>
+            <TEXT>Woher weißt du das? Hast du schon mit den Beteiligten gesprochen?</TEXT>
+            <TEXT>Leider nein. Ich habe mich darum gekümmert, den Rettungsdienst und die Feuerwehr hierher zu holen.</TEXT>
+            <TEXT>Okay, dann fange ich mit der Befragung an, um zu sehen, ob wir eine Ursache oder vielleicht einen Verdächtigen finden.</TEXT>
+            <TEXT>Währenddessen kontaktiere ich die Leitstelle und gebe ihnen ein Update zum Status hier vor Ort.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo, ich bin Officer {0} von der {1}. Sind Sie in der Lage, ein paar Fragen zu beantworten?</TEXT>
+            <TEXT>Oh hi, ehm... ja vielleicht... sie haben meine Frau gerade mit dem Hubschrauber ins Krankenhaus gebracht. Sie sagten, sie hat innere Brustverletzungen.</TEXT>
+            <TEXT>Verdammt, das tut mir leid zu hören. Aber sie ist in guten Händen. Können Sie mir sagen, was passiert ist?</TEXT>
+            <TEXT>Ich fuhr auf der zweiten Spur, als plötzlich der Typ auf der ersten rüberzog. Ich habe reagiert und den Wagen überschlagen.</TEXT>
+            <TEXT>Erinnern Sie sich an einen Fahrzeugtyp oder das Kennzeichen dieses Fahrzeugs?</TEXT>
+            <TEXT>Ich bin mir wirklich nicht sicher. Vielleicht war es ein </TEXT>
+            <TEXT>Hat die Person geblinkt oder ist sie einfach auf Ihre Seite gezogen?</TEXT>
+            <TEXT>Nein. Er ist einfach ohne Vorwarnung auf meine Spur gezogen.</TEXT>
+            <TEXT>Danke für die Info. Vielleicht wird {0} Sie noch einmal kontaktieren.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hi, {0}. Sind Sie die zweite beteiligte Person dieses Unfalls?</TEXT>
+            <TEXT>Hi ja, ich fuhr hinter dem Wagen, der sich überschlagen hat.</TEXT>
+            <TEXT>Können Sie also die Situation beschreiben, die diesen Unfall verursacht hat?</TEXT>
+            <TEXT>Sicher. Ein Fahrzeug ist ohne Vorwarnung in den Wagen des Typen reingezogen.. eins führte zum anderen und BUMM.</TEXT>
+            <TEXT>Können Sie sich an ein Kennzeichen, den Fahrzeugtyp oder vielleicht die Farbe erinnern?</TEXT>
+            <TEXT>Nein, tut mir leid.</TEXT>
+            <TEXT>Danke für Ihre Zeit, wenn Sie etwas brauchen, kontaktieren Sie {0}.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hallo, mein Name ist Officer {0}. Können Sie mir sagen, was Sie hier machen?</TEXT>
+            <TEXT>Hallo Officer. Ich habe von der anderen Seite aus genau gesehen, was passiert ist.</TEXT>
+            <TEXT>Okay. Die Opfer sagten, dass ein Fahrzeug auf die andere Spur gezogen ist und den Crash verursacht hat. Es war ein </TEXT>
+            <TEXT>Dann müssen sie sich irren. Es war definitiv kein </TEXT>
+            <TEXT>Interessant. Dann bringen Sie mich bitte auf den neuesten Stand.</TEXT>
+            <TEXT>Ja sicher. Ich habe es mir gemerkt. Es war ein </TEXT>
+            <TEXT>Danke für Ihre Hilfe. Sie können jetzt gehen.</TEXT>
+            <TEXT>Tschüss.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="15">
+        <CONTACTID ID="1">
+            <TEXT>Wow. Es ist eine Weile her, seit hier ein Unfall passiert ist. Was ist los?</TEXT>
+            <TEXT>Hey {0}. Du hast recht. Hier war lange Zeit nichts los.</TEXT>
+            <TEXT>Hast du schon Kontakt zu den Beteiligten aufgenommen?</TEXT>
+            <TEXT>Nö. Du bist hier der ranghöhere Polizist. Bitte kümmere dich darum.</TEXT>
+            <TEXT>Immer die gleiche Ausrede. Das wird langsam alt. Na gut, ich mache es.</TEXT>
+            <TEXT>Vielen Dank. Ich halte dir den Verkehr vom Leib.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey, mein Name ist {0} von der {1}. Ist alles okay bei Ihnen?</TEXT>
+            <TEXT>Ja, mir geht's gut, nur ein paar Prellungen. Aber meine Tochter ist verletzt. Der Rettungsdienst spricht gerade mit ihr, um sie ins Krankenhaus zu bringen.</TEXT>
+            <TEXT>Das tut mir leid zu hören. Ist es Ihnen möglich, ein paar Fragen zum Unfall zu beantworten?</TEXT>
+            <TEXT>Nun, ich hoffe, ich erinnere mich an was. Durch den Aufprall ist alles ein bisschen verschwommen. Ich werde es versuchen.</TEXT>
+            <TEXT>Wie ist das passiert? War ein anderes Fahrzeug in diesen Unfall verwickelt?</TEXT>
+            <TEXT>Ja, ein anderes Auto ist auf meine Spur gewechselt und ich musste hart bremsen. Aber es hat nicht gereicht. Ich glaube, es war ein </TEXT>
+            <TEXT>Bitte nehmen Sie sich Zeit und denken Sie über Ihre Antwort nach.</TEXT>
+            <TEXT>Tut mir leid. Ich kann nicht sagen, ob meine Antwort korrekt ist.. bitte fragen Sie die anderen.. vielleicht wissen die es.</TEXT>
+            <TEXT>Okay, trotzdem danke.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hallo, {0}. Kann ich kurz mit Ihnen sprechen?</TEXT>
+            <TEXT>Hi, sicher, schießen Sie los.</TEXT>
+            <TEXT>Der Typ, der seinen Wagen überschlagen hat, sagte mir, dass der Unfall durch ein drittes Auto verursacht wurde. Ist das korrekt?</TEXT>
+            <TEXT>Jep. Wie Sie sehen können, habe ich versucht zu stoppen, aber es ist mir nicht gelungen.</TEXT>
+            <TEXT>Können Sie sich an ein Kennzeichen, den Fahrzeugtyp oder vielleicht die Farbe erinnern?</TEXT>
+            <TEXT>Nein, tut mir leid. Meine Augen waren auf das Auto vor mir fixiert... tut mir leid.</TEXT>
+            <TEXT>Okay, wenn Sie etwas brauchen, kontaktieren Sie {0}.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Hallo, ich bin Officer {0}. Sind Sie der Anrufer des Notrufs?</TEXT>
+            <TEXT>Ja, ich habe die Polizei gerufen. Ich fuhr ein Stück hinter den beiden, als der Unfall passierte.</TEXT>
+            <TEXT>Es scheint ein drittes Auto gegeben zu haben, das den Unfall verursacht hat. Haben Sie das Kennzeichen des </TEXT>
+            <TEXT>Ja, aber das Auto war kein </TEXT>
+            <TEXT>Dann müssen die anderen sich irren. Welcher Typ war es?</TEXT>
+            <TEXT>Es war ein </TEXT>
+            <TEXT>Danke für Ihre Hilfe, das weiß ich zu schätzen. Sie können jetzt gehen.</TEXT>
+            <TEXT>Okay. Auf Wiedersehen.</TEXT>
+            <TEXT></TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

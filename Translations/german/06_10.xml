@@ -1,0 +1,139 @@
+<TRANSLATION>
+    <CALLOUTID ID="6">
+        <CONTACTID ID="1">
+            <TEXT>Hallo Ranger, Sie haben Verstärkung angefordert. Wie kann ich helfen?</TEXT>
+            <TEXT>Hi. Danke, dass Sie hier oben hergekommen sind. Die Bauarbeiter haben den Notruf gewählt, als sie diesen Fahrer auf der Straße fanden.</TEXT>
+            <TEXT>Okay. Eigentlich sollten hier oben keine Autos sein. Wissen wir, was es verursacht hat?</TEXT>
+            <TEXT>Laut ihnen war es ein Auto. Fragen Sie am besten selbst nach.</TEXT>
+            <TEXT>Hier oben? Was zum Teufel macht ein Auto hier oben? Ich werde mit den Arbeitern sprechen und sehen, ob sie mir mehr dazu sagen können.</TEXT>
+            <TEXT>Das ist alles, was ich für dich habe!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo Leute. Mein Name ist {0} vom {1}. Bitte beschreiben Sie, was passiert ist.</TEXT>
+            <TEXT>Hallo Officer. Wird der Biker wieder gesund? Es sieht ziemlich übel für ihn aus, oder?</TEXT>
+            <TEXT>Die Sanitäter versuchen ihn zu stabilisieren. Wir müssen abwarten. Bitte konzentrieren Sie sich auf den Unfall. Was ist passiert?</TEXT>
+            <TEXT>Ah ja, entschuldigung. Wir führen hier Straßenarbeiten durch, weil der Regen Teile dieses Pfades weggespült hat. Wir haben ihn bewusstlos gefunden.</TEXT>
+            <TEXT>Wissen Sie etwas, das seinen Sturz verursacht haben könnte?</TEXT>
+            <TEXT>Hier ist oft ein Typ mit seinem Wagen beim Offroading unterwegs. Aber über das Auto kann ich Ihnen nichts Genaues sagen.</TEXT>
+            <TEXT>Versuchen Sie es mal bei meinem Kollegen hier. Er weiß vielleicht etwas, das ich nicht weiß.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hallo. Ihr Kollege sagte, Sie wüssten vielleicht etwas über ein mögliches Fahrzeug?</TEXT>
+            <TEXT>Ja, Officer. Ich habe den Unfall zwar nicht gesehen, aber als ich mit meinem Truck hier hochkam, fuhr gerade ein Wagen nach unten.</TEXT>
+            <TEXT>Können Sie mir etwas über den Fahrer sagen? Oder über das Auto?</TEXT>
+            <TEXT>~w~ kam den Hügel hinuntergerast. Es sah aus, als wäre er vor etwas geflohen. Dann haben wir das Opfer gefunden.</TEXT>
+            <TEXT>PLATZHALTER</TEXT>
+            <TEXT>PLATZHALTER</TEXT>
+            <TEXT>Danke für Ihre Informationen. Ihre Hilfe ist extrem nützlich für diese Ermittlungen.</TEXT>
+            <TEXT>Kein Problem! Gut, dass wir hier oben waren. Hoffentlich schafft er es.</TEXT>
+            <TEXT>Tut mir leid, aber das ist alles, was ich Ihnen sagen kann.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="7">
+        <CONTACTID ID="1">
+            <TEXT>Hallo Officer, haben Sie Verstärkung angefordert?</TEXT>
+            <TEXT>Ja, habe ich. Wir haben eine Fahrerflucht. Bisher steht das Opfer unter Schock und ich konnte noch nicht mit ihm sprechen. Können Sie versuchen, mit dem Opfer zu reden, während ich den Sanitätern helfe?</TEXT>
+            <TEXT>Ja, kein Problem. Hoffentlich kann er uns etwas sagen.</TEXT>
+            <TEXT>Wird gemacht. Viel Glück, Officer!</TEXT>
+            <TEXT>Das ist alles, was ich für dich habe!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo Sir, ich bin Polizeibeamter. Können Sie mir sagen, woran Sie sich bezüglich des Unfalls erinnern? Auto, Fahrer, irgendetwas?</TEXT>
+            <TEXT>Uuhh, ich fühl mich nicht gut... ich glaube, dass... oh... ich kann Ihnen gar nichts sagen.</TEXT>
+            <TEXT>Es scheint, als hätte er eine ziemlich schwere Gehirnerschütterung erlitten.</TEXT>
+            <TEXT>Hm, er könnte unter kurzzeitigem Gedächtnisverlust leiden. Sir, sind Sie sicher, dass Sie sich an gar nichts erinnern können? Schon die kleinste Kleinigkeit kann helfen.</TEXT>
+            <TEXT>Ich glaube... ich glaube, ich werde ohnmächtig...</TEXT>
+            <TEXT>Officer, er ist gerade weggetreten. Die Dame dort drüben hat den Notruf abgesetzt. Versuchen Sie, mit ihr zu sprechen!</TEXT>
+            <TEXT>Das ist alles, was ich für dich habe.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hallo Ma'am. Ich bin vom {0}. Haben Sie gesehen, was hier passiert ist?</TEXT>
+            <TEXT>Hallo Officer. Ja, habe ich. Ein Auto hat die Kurve mit hoher Geschwindigkeit geschnitten und den armen Mann erwischt. Wird er wieder gesund?</TEXT>
+            <TEXT>Er sollte es schaffen. Haben Sie eine Beschreibung des Fahrzeugs oder des Fahrers?</TEXT>
+            <TEXT>. Verdammt, diese Person muss verzweifelt sein.</TEXT>
+            <TEXT>Haben Sie gesehen das Kennzeichen von dem ~y~</TEXT>
+            <TEXT>Ich denke schon. Ich glaube, es war ein ~y~</TEXT>
+            <TEXT>Danke für Ihre Hilfe. Ihre Informationen sind extrem nützlich für diese Ermittlungen.</TEXT>
+            <TEXT>Gern geschehen!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="8">
+        <CONTACTID ID="1">
+            <TEXT>Hey Partner, hast du Verstärkung angefordert? Wie kann ich helfen?</TEXT>
+            <TEXT>Hi Kumpel, danke für die schnelle Reaktion. Wir haben eine Fahrerflucht. Ich konnte noch nicht mit dem Opfer sprechen. Kannst du versuchen, mit ihr zu reden, während ich die Unfallstelle absichere?</TEXT>
+            <TEXT>Ja, sicher. Hoffentlich erinnert sie sich an etwas.</TEXT>
+            <TEXT>Ich bezweifle es, sie wirkt nach dem Aufprall ziemlich mitgenommen.</TEXT>
+            <TEXT>Das ist alles, was ich dir sagen kann!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo Ma'am, ich bin Polizeibeamter. Erinnern Sie sich an irgendetwas bezüglich des Unfalls? Ein Auto, der Fahrer, irgendetwas?</TEXT>
+            <TEXT>Ehmm.. tut mir leid, Officer.. ich ... ich weiß nicht.. wo bin ich?</TEXT>
+            <TEXT>Sie leidet unter einer schweren Gehirnerschütterung, weil der Airbag nicht ausgelöst hat.</TEXT>
+            <TEXT>Sie muss mit dem Kopf sehr hart auf das Armaturenbrett aufgeschlagen sein. Miss, sind Sie sicher, dass Sie sich an gar nichts erinnern können?</TEXT>
+            <TEXT>Wie spät ist es? Was ist passiert? Wo bin ich?</TEXT>
+            <TEXT>Officer, bitte hören Sie auf mit den Fragen. Versuchen Sie, mit dem Wachmann dort drüben zu sprechen. Er hat den Notruf gewählt.</TEXT>
+            <TEXT>Das ist alles, was ich für dich habe.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hallo Sir. Ich bin Officer {0} vom {1}. Wissen Sie, was passiert ist?</TEXT>
+            <TEXT>Hallo Officer. Ja, ich habe den Unfall gesehen. Ich war auf dem Weg zu den Laboren, als ein Auto auf die Gegenfahrbahn kam. Wie geht es der Frau?</TEXT>
+            <TEXT>Sie leidet unter Gedächtnisverlust. Haben Sie eine Beschreibung des Fahrzeugs oder des Fahrers?</TEXT>
+            <TEXT>. Der Wagen kam hier oft vorbei... immer mit hoher Geschwindigkeit.</TEXT>
+            <TEXT>Erinnern Sie sich an das Kennzeichen von dem ~y~</TEXT>
+            <TEXT>Jep. Ich habe es mir aufgeschrieben. Es war ein ~y~</TEXT>
+            <TEXT>Danke für Ihre Hilfe. Ihre Informationen sind extrem nützlich für diese Ermittlungen.</TEXT>
+            <TEXT>Wussten Sie, dass ich eigentlich immer Polizist werden wollte... wie auch immer, helfe gerne!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="9">
+        <CONTACTID ID="1">
+            <TEXT>Hi, du hast Verstärkung angefordert. Was kann ich für dich tun?</TEXT>
+            <TEXT>Hi Kumpel. Tu mir einen Gefallen und sprich mit dem Opfer und dem Zeugen. Ich war damit beschäftigt, die Unfallstelle zu sichern und den Rettungsdienst zu rufen.</TEXT>
+            <TEXT>Sicher, kein Problem. Das Opfer sieht desorientiert aus. Hoffentlich erinnert er sich an etwas.</TEXT>
+            <TEXT>Ja, er ist ziemlich hart in die Absperrung gekracht. Du wirst schon sehen.</TEXT>
+            <TEXT>Das ist alles, was ich dir sagen kann!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hallo Sir, ich bin Polizeibeamter vom {0}. Können Sie sich an irgendetwas erinnern?</TEXT>
+            <TEXT>Was? .. Wie spät ist es?.. Wer sind Sie?</TEXT>
+            <TEXT>Der Aufprall muss heftig gewesen sein. Sobald er stabil ist, bringen wir ihn ins Krankenhaus.</TEXT>
+            <TEXT>Sir, können Sie mir irgendetwas sagen...? Wissen Sie, wer am Steuer saß, oder die Farbe des Wagens?</TEXT>
+            <TEXT>Wer...? Was...?</TEXT>
+            <TEXT>Glauben Sie mir, das macht keinen Sinn. Er hat definitiv eine Gehirnerschütterung. Versuchen Sie, Informationen von dem Zeugen dort zu bekommen.</TEXT>
+            <TEXT>Das ist alles, was ich für dich habe.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hallo Sir. Ich bin Officer {0} vom {1}. Wissen Sie, was passiert ist?</TEXT>
+            <TEXT>Hallo. Ja, deshalb habe ich angehalten und den Notruf gewählt.</TEXT>
+            <TEXT>Können Sie erklären, was passiert ist?</TEXT>
+            <TEXT>Der Fahrer war mit hoher Geschwindigkeit auf der falschen Straßenseite unterwegs.</TEXT>
+            <TEXT>Erinnern Sie sich an das Kennzeichen von dem ~y~</TEXT>
+            <TEXT>Das tue ich. Es war ein ~y~</TEXT>
+            <TEXT>Danke für Ihre Zeit und dass Sie angehalten haben. Heutzutage zeigt nicht mehr jeder so viel Respekt.</TEXT>
+            <TEXT>Es bedeutet mir viel, das von einem Polizisten zu hören!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="10">
+        <CONTACTID ID="1">
+            <TEXT>Hey Marcus, schön dich zu sehen. Was haben wir hier?</TEXT>
+            <TEXT>Hey {0}, es scheint eine Fahrerflucht zu sein.</TEXT>
+            <TEXT>Gibt es Verletzte?</TEXT>
+            <TEXT>Ja. Der Lkw-Fahrer hat seinen Truck überschlagen und wurde verletzt. Er wird gerade im Krankenwagen versorgt und wird höchstwahrscheinlich die Nacht im Krankenhaus verbringen.</TEXT>
+            <TEXT>Verdammt. Wissen wir, was es verursacht hat?</TEXT>
+            <TEXT>Der Handwerker hier sagte mir, dass jemand den Lkw mit hoher Geschwindigkeit überholt hat, aber frag ihn am besten selbst.</TEXT>
+            <TEXT>Alles klar.</TEXT>
+            <TEXT>Das ist alles, was ich für dich habe!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey Sir. Können Sie mir genau sagen, was Sie gesehen haben?</TEXT>
+            <TEXT>Ja, kann ich. Irgendein Idiot hat den Lkw in der Kurve überholt, als ich gerade entgegenkam. Der Lkw wich aus und überschlug sich, während ich hier nur in den Zaun gekracht bin.</TEXT>
+            <TEXT>Oh Mann. Es sieht nicht so aus, als hätten Sie allzu großen Schaden... Können Sie mir etwas über das Fahrzeug und den Fahrer sagen?</TEXT>
+            <TEXT>Ich kenne mich mit Autos nicht so aus, aber das Fahrzeug schien zu sein ein ~y~</TEXT>
+            <TEXT>Okay. Was ist mit dem Kennzeichen? Haben Sie das gesehen?</TEXT>
+            <TEXT>Ich glaube, es war das ~y~</TEXT>
+            <TEXT>Okay. Danke für Ihre Hilfe. Geben Sie diesem Officer noch eine Aussage zu Protokoll, dann können Sie gehen.</TEXT>
+            <TEXT>Okay Officer. Danke.</TEXT>
+            <TEXT>Tut mir leid, aber das ist alles, was ich Ihnen sagen kann.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

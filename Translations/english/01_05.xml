@@ -1,0 +1,125 @@
+<TRANSLATION>
+    <CALLOUTID ID="1">
+        <CONTACTID ID="1">
+            <TEXT>Hey Partner. What happened here?</TEXT>
+            <TEXT>Hey Officer, thanks for responding. A guy flipped his car. He said that another driver drifted around the corner, hit his vehicle, and ended up flipping it.</TEXT>
+            <TEXT>Ouch. Do you have any information on a possible suspect or the suspect's vehicle?</TEXT>
+            <TEXT>I can't tell you. I had to get EMS and the tow service here. Try talking to the ~y~Victim~w~ over by my vehicle. He could probably tell you what you need to know.</TEXT>
+            <TEXT>Okay. Thanks for the information.</TEXT>
+            <TEXT>That is all I can tell you.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey bud. I'm from the {0}. Are you okay?</TEXT>
+            <TEXT>Yes officer. Luckily I didn't get hurt! That fucking drifter...</TEXT>
+            <TEXT>Okay. Can you tell me what happened? Do you know what type of vehicle it was?</TEXT>
+            <TEXT> ~w~ drifted around the corner and was in the middle of the road. As I was coming around, he hit me, made my vehicle flip, and sped off.</TEXT>
+            <TEXT>Did you see the ~y~</TEXT>
+            <TEXT>You bet I did! It was ~y~</TEXT>
+            <TEXT>Thanks for your help. It is extremely useful in this investigation.</TEXT>
+            <TEXT>It's a good thing that I remembered the plate! Get this son of a bitch...</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="2">
+        <CONTACTID ID="1">
+            <TEXT>Hey. You requested backup. How can I help?</TEXT>
+            <TEXT>Hi {0}, this crash seems to be a Hit and Run. There are tire skids in the middle of the road.</TEXT>
+            <TEXT>So another vehicle caused the crash?</TEXT>
+            <TEXT>According to the victim, it seems so. Best is that you ask him yourself. He probably can give you more information.</TEXT>
+            <TEXT>OK. I will talk to him.</TEXT>
+            <TEXT>That is all I can tell you</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>"Hi, I'm {0} from the {1}. Is everything fine?</TEXT>
+            <TEXT>Hello officer. Yes I'm fine but pretty pissed.</TEXT>
+            <TEXT>I can imagine that. Can you tell me what happened?</TEXT>
+            <TEXT>~w~ drifted around the corner and was in the middle of the road when I was coming around. I took a hit and lost control of my car and crashed.</TEXT>
+            <TEXT>Did you see the ~y~</TEXT>
+            <TEXT>Luckily, I did. It was ~y~</TEXT>
+            <TEXT>Perfect. Thanks. With your help we can easily identify this person.</TEXT>
+            <TEXT>I deserve justice for that. Hope this guy goes to prison</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="3">
+        <CONTACTID ID="1">
+            <TEXT>Hi. What happened to the taxi driver?</TEXT>
+            <TEXT>Hey, nice to see you. Well, the guy does not really want to talk to the police. So I don't have much.</TEXT>
+            <TEXT>Hm. Does he have an active warrant? Tell me what you have</TEXT>
+            <TEXT>I already checked that, he is clean. Seems to be a Hit and Run. But try talking to him yourself. It was really hard get something out of him.</TEXT>
+            <TEXT>Okay. Thanks for the information.</TEXT>
+            <TEXT>That is all I can tell you.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Sir, I'm from the {0}. Is everything okay</TEXT>
+            <TEXT>Hey, yes I'm fine.</TEXT>
+            <TEXT>Sir, is it possible for you to describe what happened?</TEXT>
+            <TEXT>~w~ hit me.</TEXT>
+            <TEXT>Did you see the ~y~</TEXT>
+            <TEXT>I shouldn't tell you... I hate cops... they suck. But... it was ~y~</TEXT>
+            <TEXT>Thank you. Why do you hate the police</TEXT>
+            <TEXT>That is none of your business. Get this asshole and leave me alone.</TEXT>
+            <TEXT>Leave me alone.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="4">
+        <CONTACTID ID="1">
+            <TEXT>Hey Officer. What happened here?</TEXT>
+            <TEXT>Hello Officer. Thanks for responding. The only thing I know is that we have a hit and run between a motorist and a bicyclist.</TEXT>
+            <TEXT>Okay. Do you have any information on a possible vehicle or suspect?</TEXT>
+            <TEXT>No, I was focussing on getting Paramedics here and trying to save the victim. Can you try talking to the ~y~witnesses~w~ and I'll control the scene?</TEXT>
+            <TEXT>Sure.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello sir, are you okay?</TEXT>
+            <TEXT>Hello Officer. Yes, I'm fine. That poor guy, I hope he's okay!</TEXT>
+            <TEXT>Did you see how this accident happened?</TEXT>
+            <TEXT>No, unfortunately. I was the second person to arrive. The woman over there was the first person on scene.</TEXT>
+            <TEXT>Okay, thanks for your help.</TEXT>
+            <TEXT>Glad to help, officer.</TEXT>
+            <TEXT>Sorry, but I don't know anything else.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello. Are you the one who called 911?</TEXT>
+            <TEXT>Yes officer. I saw the accident and decided to pull over and call for an ambulance!</TEXT>
+            <TEXT>Can you tell me what happened?</TEXT>
+            <TEXT>~w~ went speeding around this turn and hit the cyclist, and didn't even stop! They kept on going!</TEXT>
+            <TEXT>PLACEHOLDER</TEXT>
+            <TEXT>PLACEHOLDER</TEXT>
+            <TEXT>Thanks for your information. Your help is extremely useful in this investigation.</TEXT>
+            <TEXT>No problem! Glad to help the police any day of the week.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="5">
+        <CONTACTID ID="1">
+            <TEXT>Hey Partner. What happened here?</TEXT>
+            <TEXT>Hi. Thanks for responding. Seems to be a Hit and Run.</TEXT>
+            <TEXT>Okay. Do you have any information on a possible vehicle or suspect?</TEXT>
+            <TEXT>I can't tell you. Paramedics were already performing CPR when we arrived. Talk to this person here. Maybe he knows more</TEXT>
+            <TEXT>Thanks, I will so.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello sir, are you okay?</TEXT>
+            <TEXT>Hello Officer. Yes, I'm fine. Is the biker okay?</TEXT>
+            <TEXT>I don't have any information about his condition. Did you see how this accident happened?</TEXT>
+            <TEXT>Yes, that's the reason why I had to pull into the grass. A car overtook me on the bridge.</TEXT>
+            <TEXT>Do you have a description on a license plate number of the car?</TEXT>
+            <TEXT>Sorry, everything went so fast, I can't remember either the car or a plate.</TEXT>
+            <TEXT>Try talking to the woman. She stopped and called for the EMS, maybe she knows more.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello. Are you the one who called 911?</TEXT>
+            <TEXT>Yes officer. I saw the accident and decided to pull over and call for an ambulance!</TEXT>
+            <TEXT>Can you tell me what happened?</TEXT>
+            <TEXT>~w~ overtook the car on the bridge! The biker had to swerve to avoid hitting this idiot and went off.</TEXT>
+            <TEXT>PLACEHOLDER</TEXT>
+            <TEXT>PLACEHOLDER</TEXT>
+            <TEXT>Thanks for your information. Your help is extremely useful in this investigation.</TEXT>
+            <TEXT>No problem! Glad to help the police any day of the week.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

@@ -1,0 +1,139 @@
+<TRANSLATION>
+    <CALLOUTID ID="6">
+        <CONTACTID ID="1">
+            <TEXT>Hello Ranger, you called for backup. How can I help</TEXT>
+            <TEXT>Hi. Thanks for responding up here. The construction workers called 911 when they found this driver on the road.</TEXT>
+            <TEXT>Okay. Cars aren't supposed to be on this road, so do we know what caused it?</TEXT>
+            <TEXT>According to them, a car did cause it. Ask for yourself.</TEXT>
+            <TEXT>Up here? What the hell is a car doing up here? I will talk to the workers, see if they can tell me anything else about it.</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Guys. My name is {0} from the {1}. Please describe what happened.</TEXT>
+            <TEXT>Hi Officer. Will the biker be okay?. It looks bad for him, doesn't it?</TEXT>
+            <TEXT>Paramedics try to stabilize him. We need to see. Please focus on the accident. What happened?</TEXT>
+            <TEXT>Ah yes sorry. We are performing roadwork here, 'cause the rain washed away parts of this trail. We found him unconscious.</TEXT>
+            <TEXT>Do you know anything that could cause his crash?</TEXT>
+            <TEXT>There is one guy who is frequently up here with his car off-roading. But I can't tell you anything about the car.</TEXT>
+            <TEXT>Try talking to my buddy here. He might know something I don't.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello. Your buddy said you might know something about a possible vehicle?</TEXT>
+            <TEXT>Yes officer. I didn't see the accident, but when I came up here with my truck, a car was going down.</TEXT>
+            <TEXT>Can you tell me something about the driver? Car?</TEXT>
+            <TEXT>~w~ came rushing down the hill. It looked like he was fleeing from something. Then we found the victim.</TEXT>
+            <TEXT>PLACEHOLDER</TEXT>
+            <TEXT>PLACEHOLDER</TEXT>
+            <TEXT>Thanks for your information. Your help is extremely useful in this investigation.</TEXT>
+            <TEXT>No problem! Glad that we were up here. Hope the guy makes it.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="7">
+        <CONTACTID ID="1">
+            <TEXT>Hello Officer, did you request backup?</TEXT>
+            <TEXT>Yes, I did. We have a hit and run. Until now, the victim was in shock, and I haven't been able to talk to him. Can you attempt to speak to the victim while I assist the paramedics?</TEXT>
+            <TEXT>Yeah, no problem. Hopefully he can tell us something.</TEXT>
+            <TEXT>Will do. Good luck, officer!</TEXT>
+            <TEXT>That is all I have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hello Sir, I'm a police officer. Can you tell me anything you remember about the accident? Car, person driving, anything?</TEXT>
+            <TEXT>Uuhh, I don't feel good... I think that... oh... I can't tell you anything.</TEXT>
+            <TEXT>He appears to be suffering from a pretty serious concussion.</TEXT>
+            <TEXT>Huh, he could be suffering from short term memory loss. Sir, are you sure you can't remember anything? Just the slightest thing can help.</TEXT>
+            <TEXT>I think.. I think I'm gunna pass out..</TEXT>
+            <TEXT>Officer, he just blacked out. The lady over there made the 911 call. Try talking to her!</TEXT>
+            <TEXT>That is all I have for you.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello Ma'am. I'm from the {0}. Did you see what happened here?</TEXT>
+            <TEXT>Hi Officer. Yes, I did. A car cut the corner at a high rate of speed and hit the poor man. Is he going to be okay?</TEXT>
+            <TEXT>He should be. Do you have a description of the vehicle or the driver?</TEXT>
+            <TEXT>. Dang, that person must be desperate.</TEXT>
+            <TEXT>Did you see the license plate of the</TEXT>
+            <TEXT>I believe so. I think it was</TEXT>
+            <TEXT>Thanks for your help. Your information is extremely useful in this investigation.</TEXT>
+            <TEXT>Glad to help!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="8">
+        <CONTACTID ID="1">
+            <TEXT>Hey Partner, did you request backup? How can I help?</TEXT>
+            <TEXT>Hi bud, thanks for the fast response. We have a hit and run. I haven't been able to talk to the victim. Can you attempt to speak to her while I secure the scene?</TEXT>
+            <TEXT>Yeah, sure. Hopefully she remembers something.</TEXT>
+            <TEXT>I don't think so, she seems to be pretty messed up after the crash.</TEXT>
+            <TEXT>That is all I can tell you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hi Ma'am, I'm a police officer. Do you remember anything about the accident? A car, person driving, anything?</TEXT>
+            <TEXT>Ehmm.. sorry officer.. I ... I don't know.. where am I?</TEXT>
+            <TEXT>She is suffering from a pretty serious concussion caused by an airbag failing to open.</TEXT>
+            <TEXT>She must have hit her head very hard on the dashboard. Miss, are you sure you can't remember anything?</TEXT>
+            <TEXT>What time is it? What happend? Where am I ?</TEXT>
+            <TEXT>Officer, please stop questioning. Try talking to the security guard over there. He called 911.</TEXT>
+            <TEXT>That is all I have for you.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello Sir. I'm officer {0} of the {1}. Do you know what happened?</TEXT>
+            <TEXT>Hi Officer. Yes, I saw the accident. I was driving to the labs when a car came into the other lane. How is the woman doing?</TEXT>
+            <TEXT>She is facing memory loss. Do you have a description of the vehicle or the driver?</TEXT>
+            <TEXT>. The car came here often.. always at a high rate of speed.</TEXT>
+            <TEXT>Do you remember the license plate of the</TEXT>
+            <TEXT>Yep. I wrote it down. It was</TEXT>
+            <TEXT>Thanks for your help. Your information is extremely useful in this investigation.</TEXT>
+            <TEXT>Did you know that I always wanted to be a cop... anyway, glad to help!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="9">
+        <CONTACTID ID="1">
+            <TEXT>Hi, you called in backup. What can I do for you?</TEXT>
+            <TEXT>Hi buddy. Do me a favor and talk to the victim and witness. I was busy getting the scene safe and calling in EMS</TEXT>
+            <TEXT>Sure, no problem. The victim looks disoriented. Hope he remembers something</TEXT>
+            <TEXT>Yeah, he hit the barrier pretty hard. You'll see.</TEXT>
+            <TEXT>That is all I can tell you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hi Sir, I'm a police officer from the {0}. Can you remember anything?</TEXT>
+            <TEXT>What? .. What time is it?.. Who are you?</TEXT>
+            <TEXT>The crash must be hard. As soon as he is stable we will take him to hospital.</TEXT>
+            <TEXT>Sir, can you tell me anything...? Can you tell me who was driving, or a color of the car?</TEXT>
+            <TEXT>Who...? What...?</TEXT>
+            <TEXT>Believe me. That makes no sense. He definitely has a concussion. Try to get info from the witness there.</TEXT>
+            <TEXT>That is all I have for you.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Hello Sir. I'm officer {0} of the {1}. Do you know what happened?</TEXT>
+            <TEXT>Hello. Yes, that is why I stopped and called 9-1-1?</TEXT>
+            <TEXT>Can you explain what happened?</TEXT>
+            <TEXT>The driver was on the wrong side of the road with a high rate of speed.</TEXT>
+            <TEXT>Do you remember the license plate of the</TEXT>
+            <TEXT>I do. It was</TEXT>
+            <TEXT>Thanks for your time and for stopping. Not everybody shows respect these days.</TEXT>
+            <TEXT>I appreciate hearing this from a police officer!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="10">
+        <CONTACTID ID="1">
+            <TEXT>Hey Marcus, nice to see ya. What do we have here?</TEXT>
+            <TEXT>Hey {0}, it appears to be a Hit and Run.</TEXT>
+            <TEXT>Are there any injuries?</TEXT>
+            <TEXT>Yes. The truck driver ended up rolling his truck and got injured. He's currently getting help in the ambulance, and will most likely spend the night in the hospital.</TEXT>
+            <TEXT>Damn. Do you know what caused it?</TEXT>
+            <TEXT>The craftsman here told me that a guy overtook the truck at a high rate of speed, but feel free to ask him for yourself.</TEXT>
+            <TEXT>Okie Dokie.</TEXT>
+            <TEXT>That is all i have for you!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Hey Sir. Can you tell me exactly what you saw?</TEXT>
+            <TEXT>Yes, I can. Some idiot overtook the truck in the turn and I was also coming around. The truck swerved and ended up flipping, while I just hit the fence here.</TEXT>
+            <TEXT>Oh boy. Doesn't appear you have too much damage... Can you tell me anything about the vehicle and driver?</TEXT>
+            <TEXT>I'm not into cars, but the vehicle appeared to be a ~y~</TEXT>
+            <TEXT>Okay. What about the license plate? Did you see that?</TEXT>
+            <TEXT>I believe it was ~y~</TEXT>
+            <TEXT>Okay. Thanks for your help. Give this officer a statement and you will be free to leave.</TEXT>
+            <TEXT>Okay Officer. Thanks.</TEXT>
+            <TEXT>Sorry, but that's all I can tell you.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>
