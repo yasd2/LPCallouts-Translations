@@ -1,2 +1,16 @@
 # LPCallouts-Translations
 All translations for LPCallouts Remastered!
+
+All Xml files for every language
+This is the LPCallouts translation repository
+
+It's a public archive, so everyone can contribute to it.
+To contribute a translation:
+
+If you are on the LPCallouts-Translation page [https://github.com/yasd2/LPCallouts-Translations], click on 'Fork' on the top right to create a local copy to your account.
+
+Then chose the files you want to edit. Next click on 'Commit', this only saves the progess locally in your fork.
+
+If you want to upload it, go again on the main MCCallouts-Translation page [https://github.com/yasd2/LPCallouts-Translations] and on the top click on 'Contribute' -> 'Open pull request'.
+
+I will get a notification then and I can finally allow it to upload.
