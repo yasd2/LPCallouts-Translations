@@ -1,0 +1,86 @@
+<TRANSLATION>
+    <CALLOUTID ID="36">
+        <CONTACTID ID="1">
+            <TEXT>先生你好。你因为音乐太吵打了911？</TEXT>
+            <TEXT>你好警官，是的，我报警是因为他们音乐放得太吵了。</TEXT>
+            <TEXT>你和主人谈过把音量调低吗？</TEXT>
+            <TEXT>我没有。就是那边那栋房子。</TEXT>
+            <TEXT>嗯，下次请先自己试试。这次我去和主人谈。</TEXT>
+            <TEXT>好的，谢谢。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>你好？我能和这处房产的主人谈谈吗？</TEXT>
+            <TEXT>当然，我是这所房子的新主人。有什么事吗，警官？</TEXT>
+            <TEXT>我们接到关于你们派对的投诉。你能把音量调低点吗？</TEXT>
+            <TEXT>天，一定是我旁边那个讨厌鬼。他说什么了？</TEXT>
+            <TEXT>我不能透露投诉的细节。请把音量调低，好吗？</TEXT>
+            <TEXT>好的，当然，我不想惹任何麻烦。</TEXT>
+            <TEXT>对这个音量满意吗？</TEXT>
+            <TEXT>是的，先生，谢谢你的理解。祝你们派对愉快。</TEXT>
+            <TEXT>再见，警官。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>先生，我需要和你谈谈！</TEXT>
+            <TEXT>哦，不会吧，又有什么问题？</TEXT>
+            <TEXT>我客气地请你把音量调低。看来没什么效果。现在你得把它关掉！</TEXT>
+            <TEXT>什么？你知道这样的派对要花多少钱吗？音乐对我来说是必不可少的。所以它得继续开着！</TEXT>
+            <TEXT>很抱歉，但你别无选择。你本来有机会的。</TEXT>
+            <TEXT>你知道我一天赚的钱比你一年赚的还多吗？</TEXT>
+            <TEXT>我不在乎你的财务状况，先生。</TEXT>
+            <TEXT>别拐弯抹角了。现在关掉音乐，否则我来关！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>随便吧，但这会给你带来后果的！</TEXT>
+            <TEXT>告诉我你的名字和警徽编号，我要去警局投诉你。</TEXT>
+            <TEXT>你可以直接去市中心的警局获取这些信息。祝你有愉快的一天，先生。</TEXT>
+            <TEXT>你别想就这么算了。这会带来后果的。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>我的回答很简单。不。我不会关掉音乐！</TEXT>
+            <TEXT>那我别无选择，只能把你带到警局去了。请让我看到你的手。</TEXT>
+            <TEXT>我真不敢相信这破事。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="37">
+        <CONTACTID ID="1">
+            <TEXT>嗨，先生。你打了911。我能帮你什么？</TEXT>
+            <TEXT>是的，你好，我想让你去街对面把音乐关掉。太吵人了。</TEXT>
+            <TEXT>放松点，先生。他们以那个音量放多久了？</TEXT>
+            <TEXT>我不记得了。就去那边把插头拔了。</TEXT>
+            <TEXT>好的先生，请回屋里去。我会联系主人，请他调低音量。</TEXT>
+            <TEXT>不，不是调低，必须关掉！你明白吗？...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>打扰一下。谁是这次派对的负责人？</TEXT>
+            <TEXT>哦，警察。是的，是我，警官。有什么问题？</TEXT>
+            <TEXT>你的邻居在投诉你们的噪音水平。</TEXT>
+            <TEXT>得了吧，这些老混蛋应该爬回他们的棺材里去！</TEXT>
+            <TEXT>请不要侮辱任何人，请把音量调低。</TEXT>
+            <TEXT>我真的很生气。好吧，我调低。</TEXT>
+            <TEXT>现在行了吗？</TEXT>
+            <TEXT>当然，可以了。请保持低音量，好吗？再见。</TEXT>
+            <TEXT>啊哈，我们走着瞧...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>先生，过来一下！</TEXT>
+            <TEXT>又是警察？... 哦，天，又怎么了？</TEXT>
+            <TEXT>我上次来似乎没起作用，所以现在请把音乐关掉。</TEXT>
+            <TEXT>什么？得了吧，我会调低音量并保持住，我保证。</TEXT>
+            <TEXT>先生，你本来有机会的。抱歉，但这次你必须关掉它。</TEXT>
+            <TEXT>你他妈的到底有什么问题？我说了我保证保持低音量。</TEXT>
+            <TEXT>你的保证不够。</TEXT>
+            <TEXT>现在关掉，否则我替你关，然后你去警局解释。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>跟这些老混蛋总是同样的事！</TEXT>
+            <TEXT>现在满意了吗？</TEXT>
+            <TEXT>是的，保持关掉，明白吗？</TEXT>
+            <TEXT>走吧，别烦了。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>我觉得我不想这么做。我喜欢这样。</TEXT>
+            <TEXT>那好，我们去警局聊聊吧。让我看看你的手。</TEXT>
+            <TEXT>这简直是胡扯。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

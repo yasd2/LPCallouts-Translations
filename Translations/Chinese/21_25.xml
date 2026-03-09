@@ -1,0 +1,107 @@
+<TRANSLATION>
+    <CALLOUTID ID="21">
+        <CONTACTID ID="1">
+            <TEXT>嘿，警官。这里发生了什么？</TEXT>
+            <TEXT>嘿，搭档，谢谢你能来。我刚到，但看起来是肇事逃逸。</TEXT>
+            <TEXT>我们有目击者吗？</TEXT>
+            <TEXT>试着跟那边的那位女士谈谈。她可能知道些什么。</TEXT>
+            <TEXT>我这就去。谢谢帮忙。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嘿，女士。是你叫的救护车吗？</TEXT>
+            <TEXT>是的，是我叫的，警官！</TEXT>
+            <TEXT>谢谢你这么做。你能告诉我发生了什么吗？</TEXT>
+            <TEXT>有辆车~w~冲上了路缘，撞到了那个正试图过马路的男人！</TEXT>
+            <TEXT>好的。你看到那辆车的车牌了吗？</TEXT>
+            <TEXT>我看到了... 但我只记得最后3位数字。是~y~</TEXT>
+            <TEXT>好的。谢谢你的帮助。给这位警官做个笔录你就可以继续上路了。</TEXT>
+            <TEXT>谢谢警官。我会的。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="22">
+        <CONTACTID ID="1">
+            <TEXT>嘿，警官。这里发生了什么？</TEXT>
+            <TEXT>嘿，搭档，谢谢你能来。我刚到，但看起来是肇事逃逸。</TEXT>
+            <TEXT>我们有目击者吗？</TEXT>
+            <TEXT>试着跟那边的那位女士谈谈。她可能知道些什么。</TEXT>
+            <TEXT>我这就去。谢谢帮忙。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嘿，女士。是你叫的救护车吗？</TEXT>
+            <TEXT>是的，是我叫的，警官！</TEXT>
+            <TEXT>谢谢你这么做。你能告诉我发生了什么吗？</TEXT>
+            <TEXT>有辆车~w~冲上了路缘，撞到了那个正试图过马路的男人！</TEXT>
+            <TEXT>好的。你看到那辆车的车牌了吗？</TEXT>
+            <TEXT>我看到了... 但我只记得最后3位数字。是~y~</TEXT>
+            <TEXT>好的。谢谢你的帮助。给这位警官做个笔录你就可以继续上路了。</TEXT>
+            <TEXT>谢谢警官。我会的。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="23">
+        <CONTACTID ID="1">
+            <TEXT>嗨，克洛伊。今天第一次出警？</TEXT>
+            <TEXT>嘿，{0}，很高兴见到你。是的，今天第一个。</TEXT>
+            <TEXT>那么这里是什么情况？</TEXT>
+            <TEXT>看起来是肇事逃逸。和那边的女士谈谈，她会告诉你最新情况。</TEXT>
+            <TEXT>好的。嗯.. 你下班后我们去喝一杯吧。</TEXT>
+            <TEXT>当然好啊... 回头见。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>女士你好。我是{1}的{0}警官。你能描述一下发生了什么吗？</TEXT>
+            <TEXT>嗨，好的，这是我男朋友，他被撞了！</TEXT>
+            <TEXT>哦，我不知道。那他为什么受伤了？</TEXT>
+            <TEXT>有辆车~w~从这条小巷里冲出来撞了他！</TEXT>
+            <TEXT>你能告诉我那辆车的车牌吗？</TEXT>
+            <TEXT>只能记住一部分。我记得最后3位数字。是~y~</TEXT>
+            <TEXT>我会在警用电脑里查询一下，看看有什么结果。我没有别的问题了。</TEXT>
+            <TEXT>那好吧。再见。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="24">
+        <CONTACTID ID="1">
+            <TEXT>嘿。我能怎么帮忙？</TEXT>
+            <TEXT>嗨，伙计，请帮我处理一下这起事故。是肇事逃逸。</TEXT>
+            <TEXT>好的？你怎么知道的？</TEXT>
+            <TEXT>那位女士是那个男人的妻子。她告诉我的。但你自己去问问她吧。</TEXT>
+            <TEXT>我这就去。还有别的吗？</TEXT>
+            <TEXT>没了。我就知道这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>小姐你好。我是{1}的{0}。发生了什么？</TEXT>
+            <TEXT>你好警官！某个愚蠢的家伙撞了他。</TEXT>
+            <TEXT>你能描述一下那辆车或者知道车型吗？</TEXT>
+            <TEXT>有辆车~w~高速开过来。我想他失控了，所以撞到了我丈夫！</TEXT>
+            <TEXT>好的。你还记得那辆车的车牌吗？</TEXT>
+            <TEXT>我已经想过了，但我只记得最后3位数字。是~y~</TEXT>
+            <TEXT>谢谢。这比大多数情况要好。也许我们能查到线索。</TEXT>
+            <TEXT>谢谢警官。请抓住这个混蛋。</TEXT>
+            <TEXT>我不知道更多了。抱歉。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="25">
+        <CONTACTID ID="1">
+            <TEXT>嗨，你请求了支援。我能怎么帮忙？</TEXT>
+            <TEXT>嘿，搭档，谢谢你能来。我刚到，但看起来这起事故不是自己造成的。</TEXT>
+            <TEXT>好的，我们有目击者吗，也许知道些什么？</TEXT>
+            <TEXT>是的。我到这里的时候，其中一位店主出来了。跟他谈谈。</TEXT>
+            <TEXT>总算有点线索。我去问他。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>先生你好。我是{1}的{0}。你想告诉我些什么吗？</TEXT>
+            <TEXT>是的，{0}警官。我打了911！</TEXT>
+            <TEXT>谢谢你。你能告诉我那位女士发生了什么吗？</TEXT>
+            <TEXT>有辆车~w~倒车出来，撞到了那位女士，然后就逃离了现场。</TEXT>
+            <TEXT>你看到那辆车的车牌了吗？</TEXT>
+            <TEXT>我当时还在我的店里，所以不知道完整的车牌。只知道最后3位数字。是~y~</TEXT>
+            <TEXT>好的。谢谢你的帮助。我的搭档可能也会问你一些问题。</TEXT>
+            <TEXT>好的。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>  
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

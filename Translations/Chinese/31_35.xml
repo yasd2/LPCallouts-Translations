@@ -1,0 +1,212 @@
+<TRANSLATION>
+    <CALLOUTID ID="31">
+        <CONTACTID ID="1">
+            <TEXT>女士你好，是你报的扰民吗？</TEXT>
+            <TEXT>你好警官。是的，是我。你能听到那大声的音乐吗？</TEXT>
+            <TEXT>能听到。他们放这么大声有多久了？</TEXT>
+            <TEXT>至少持续了4个小时。你能让它停下来吗？是从那栋房子传来的。</TEXT>
+            <TEXT>我会尽力让他们关掉。谢谢您通知我们。</TEXT>
+            <TEXT>谢谢你，警官。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>大家好。谁是这处房产的主人？</TEXT>
+            <TEXT>你好警官。这是我的房子... 有什么问题吗？</TEXT>
+            <TEXT>嗨，我们接到你邻居的投诉，说音乐太吵。先生，你叫什么名字？</TEXT>
+            <TEXT>我不告诉你！我们在开派对，他们应该预料到会听到我们的声音！</TEXT>
+            <TEXT>好的先生，嗯，我需要你把音量调低。</TEXT>
+            <TEXT>好吧... 既然你这么说。稍等一下...</TEXT>
+            <TEXT>现在好点了吗？</TEXT>
+            <TEXT>是的，谢谢你的合作。祝你们接下来的时间玩得开心。</TEXT>
+            <TEXT>随便吧，派对终结者...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>先生，你觉得有必要让我再来一次吗？</TEXT>
+            <TEXT>哦，嘿，警官。抱歉，我想是我的一个朋友把音量调高了。我去调低。</TEXT>
+            <TEXT>嗯，这是我第二次来了。我不在乎借口。把音乐关掉。</TEXT>
+            <TEXT>为什么？你年轻的时候没玩过吗？别抱怨了，我们正玩得开心呢！</TEXT>
+            <TEXT>我已经警告过你了。现在关掉。</TEXT>
+            <TEXT>不。你管不了我。我受够了你想破坏我的派对。</TEXT>
+            <TEXT>这事有两种结束方式。第一，你关掉音乐，继续你们的派对。</TEXT>
+            <TEXT>第二，如果你拒绝合作，派对结束，我会以扰乱治安罪逮捕你。你自己选。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>那好吧... 我把音乐关掉。</TEXT>
+            <TEXT>现在满意了吗？</TEXT>
+            <TEXT>明智的决定，朋友。不管怎样，祝你有愉快的一天。</TEXT>
+            <TEXT>离开我的房子。这附近的人真差劲...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>他妈的猪！</TEXT>
+            <TEXT>好的，伙计，把手放在我能看到的地方。你将因扰乱治安入狱。</TEXT>
+            <TEXT>哇，我真不敢相信。显然有人不知道怎么玩得开心！</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="32">
+        <CONTACTID ID="1">
+            <TEXT>打扰一下，先生，是你报的关于大声音乐的事吗？</TEXT>
+            <TEXT>你好警官。是的，是我报的警。</TEXT>
+            <TEXT>我猜你指的是我背景里听到的音乐？</TEXT>
+            <TEXT>是的。那些派对狂总是在开派对，我们这些邻居总是遭殃！能请你让它停下来吗？</TEXT>
+            <TEXT>当然。我会和主人谈谈，让他们把音量调低。</TEXT>
+            <TEXT>非常感谢你，警官。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嗨。我是{0}警官。谁负责这个派对？</TEXT>
+            <TEXT>是我。迈克尔·迪圣塔。有问题吗，警官？</TEXT>
+            <TEXT>是的，迪圣塔先生。抱歉打扰，但你的邻居们投诉音乐太吵了。</TEXT>
+            <TEXT>哦，得了吧，这是为我女儿特雷西办的庆祝派对。她终于在电视台找到工作了。</TEXT>
+            <TEXT>嗯，这很好听，迈克尔，但我需要你把音量调低。</TEXT>
+            <TEXT>那好吧，稍等一下...</TEXT>
+            <TEXT>现在你满意了吗？</TEXT>
+            <TEXT>谢谢你，迪圣塔先生。感谢你的合作。祝你们派对愉快。</TEXT>
+            <TEXT>不会那么好玩了...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>我能再和你谈谈吗，迪圣塔先生？</TEXT>
+            <TEXT>又怎么了？</TEXT>
+            <TEXT>为什么音乐又这么大声了？</TEXT>
+            <TEXT>你真想听答案吗？</TEXT>
+            <TEXT>基本上我不在乎。关掉音乐，否则我就把你送进监狱。</TEXT>
+            <TEXT>搞什么？你为什么表现得像个娘们？</TEXT>
+            <TEXT>我好心让你关掉音乐，现在你别无选择。</TEXT>
+            <TEXT>在我抓你进去之前关掉音乐。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>好了好了，别激动。</TEXT>
+            <TEXT>现在满意了吗？</TEXT>
+            <TEXT>如果我得再来一次，你就直接去警局。再见，迪圣塔先生。</TEXT>
+            <TEXT>随便吧， dude。回去参加你的集体治疗吧... 笨蛋。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>我才不关！</TEXT>
+            <TEXT>那我就以扰乱治安罪把你带到警局。让我看到你的手。</TEXT>
+            <TEXT>这太蠢了。我要给我的律师打电话，你个狗娘养的！</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="33">
+        <CONTACTID ID="1">
+            <TEXT>你好。是你打911举报音乐太吵吗？</TEXT>
+            <TEXT>你好警官。是的。他们已经放了好几个小时了。受够了！</TEXT>
+            <TEXT>我同意。音量一直都这么大吗？</TEXT>
+            <TEXT>有几分钟安静过，但像这样已经几个小时了。</TEXT>
+            <TEXT>好的。我会联系房主，请他们把音量调低。</TEXT>
+            <TEXT>谢谢你认真对待这件事。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>你好。我能和房主谈一分钟吗？</TEXT>
+            <TEXT>哟，哥们，我是富兰克林·克林顿。这是我的地盘，怎么了？</TEXT>
+            <TEXT>你好，克林顿先生，我们接到投诉说你的音乐太吵。</TEXT>
+            <TEXT>什么？这不算太吵。大家还能互相交谈...</TEXT>
+            <TEXT>不管怎样，请把音量调低。</TEXT>
+            <TEXT>好吧，如果我必须的话...</TEXT>
+            <TEXT>这样行了吗，我的警官朋友？</TEXT>
+            <TEXT>是的，行了。谢谢你的合作。</TEXT>
+            <TEXT>谢谢你，警官！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>嘿，克林顿先生，请过来一下。</TEXT>
+            <TEXT>嘿，哟。你怎么又来了？</TEXT>
+            <TEXT>我回来是因为音乐又太吵了。</TEXT>
+            <TEXT>我觉得和你离开时音量一样。那个抱怨的家伙耳朵一定有问题。</TEXT>
+            <TEXT>先生，你现在需要把音乐关掉。</TEXT>
+            <TEXT>什么？不，我调低一点就行。没必要关掉！</TEXT>
+            <TEXT>先生，请别让事情变得难办。</TEXT>
+            <TEXT>在我以扰乱治安罪逮捕你之前，把音乐关掉。</TEXT>  
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>呃，如果警察说关掉，我想我得关掉...</TEXT>
+            <TEXT>安静了。你满意了吗？</TEXT>
+            <TEXT>我希望你保持这样。谢谢。</TEXT>
+            <TEXT>抱歉给你添麻烦了，警官。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>你知道吗，去你妈的...</TEXT>
+            <TEXT>好的，把手放在我能看到的地方。你因扰乱治安被逮捕了。</TEXT>
+            <TEXT>监狱能把我怎么样，猪！</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="34">
+        <CONTACTID ID="1">
+            <TEXT>嗨，女士。是你因为噪音扰民打911吗？</TEXT>
+            <TEXT>嗨，警官。是的，我报了警。派对太疯狂了。他们在扔啤酒瓶，还做些其他奇怪的事情...</TEXT>
+            <TEXT>他们有往街上或你们的房子扔东西吗？</TEXT>
+            <TEXT>幸好没有。就是那边那栋房子，外面停着“迷失”帮的货车。</TEXT>
+            <TEXT>看起来是个摩托车党派对。我们处理派对的时候，你为什么不回屋里去？</TEXT>
+            <TEXT>谢谢。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嗨，各位。这里的主人是谁？</TEXT>
+            <TEXT>是我。我能为穿制服的猪做点什么？</TEXT>
+            <TEXT>你的音乐太吵了。我得请你把它调低。</TEXT>
+            <TEXT>不，我没听到音乐。</TEXT>
+            <TEXT>你是想合作，还是想让我以扰乱治安罪把你送进监狱？</TEXT>
+            <TEXT>如果你要这样，那我去调低。</TEXT>
+            <TEXT>别以为你赢了。</TEXT>
+            <TEXT>好了，伙计，谢谢合作。别让我再出来一次。</TEXT>
+            <TEXT>再见，穿制服的猪！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>先生，过来一下。</TEXT>
+            <TEXT>怎么了，穿制服的猪？想加入我们吗？</TEXT>
+            <TEXT>不。你得把音乐关掉，停止派对。</TEXT>
+            <TEXT>不！我没听到音乐，我想我的兄弟姐妹们也没听到。</TEXT>
+            <TEXT>把这里所有违规行为都记下来需要点时间。我想会是一笔不小的罚款，除非你愿意合作。</TEXT>
+            <TEXT>你到底有什么毛病，穿制服的猪？</TEXT>
+            <TEXT>我的问题是你觉得没必要听劝。</TEXT>
+            <TEXT>最后一次机会。关掉音乐，否则你就因扰乱治安入狱。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>这次我听你的。</TEXT>
+            <TEXT>下次我不会听了。</TEXT>
+            <TEXT>下次你不合作就直接进监狱。祝你有愉快的一天。</TEXT>
+            <TEXT>该死的穿制服猪。你们没赢得这场战斗。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>你他妈穿制服的猪。你说的我一件也不会照做！</TEXT>
+            <TEXT>让我看看你的手。你现在因扰乱治安被逮捕了。</TEXT>
+            <TEXT>这就是我恨警察的原因。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="35">
+        <CONTACTID ID="1">
+            <TEXT>女士你好。你因为派对太吵报警了？</TEXT>
+            <TEXT>嗨，警官。你听到音乐了吗？这已经是那个婊子第三次这样开派对了。</TEXT>
+            <TEXT>没必要侮辱你的邻居。你和她谈过吗？</TEXT>
+            <TEXT>不，我不会和她谈。房子就在那边。试试左边的门，否则你可以在顶层露台找到他们。</TEXT>
+            <TEXT>好的，谢谢你的信息。请回到你的房子里。我会处理这个问题。</TEXT>
+            <TEXT>我希望她进监狱，再见。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>大家好。我需要和这所房子的主人谈谈。</TEXT>
+            <TEXT>你好警官，是我。有什么能帮你的？</TEXT>
+            <TEXT>有人举报因大声音乐造成民事骚乱。</TEXT>
+            <TEXT>你确定是我的派对吗？</TEXT>
+            <TEXT>是的，我确定。请帮个忙，把音量降到合适的水平。</TEXT>
+            <TEXT>嗯，那好吧，在这儿等着。</TEXT>
+            <TEXT>这是我愿意调低的最大限度了。可以吗？</TEXT>
+            <TEXT>是的，小姐，谢谢你，祝你有愉快的一天。</TEXT>
+            <TEXT>再见。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>小姐，请过来一下！</TEXT>
+            <TEXT>嗯，好的？我现在做错什么了？</TEXT>
+            <TEXT>噪音水平又回到原来的样子。你能告诉我为什么吗？</TEXT>
+            <TEXT>不，还是你离开时的样子。你的耳朵一定有问题。</TEXT>
+            <TEXT>我的耳朵没问题，但看来你的记忆力有问题。立刻关掉音乐！</TEXT>
+            <TEXT>你为什么这么不友好？我不喜欢这样。</TEXT>
+            <TEXT>嗯，我不喜欢你对我撒谎。</TEXT>
+            <TEXT>我只说一次。现在关掉音乐，否则我就拔掉插头，把你带到警局。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>好吧，抱歉，我关掉。</TEXT>
+            <TEXT>我不想惹麻烦。</TEXT>
+            <TEXT>下次你对警察撒谎的时候想想这个。再见。</TEXT>
+            <TEXT>真是个混蛋！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>你知道吗。不。我觉得你反应过度了。噪音水平没问题。</TEXT>
+            <TEXT>我受够了。你可以去警局解释。让我看看你的手。</TEXT>
+            <TEXT>楼下那个愚蠢的婊子。她才应该被逮捕。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

@@ -1,0 +1,13 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>需要协助</CALLOUTMESSAGE>
+    <TEXT>按{0}与警官交谈，获取事故信息。</TEXT>
+    <TEXT>收到，请讲。</TEXT>
+    <TEXT>收到。能给我报案人的位置吗？</TEXT>
+    <TEXT>收到。显示你10-76（肇事逃逸）。以代码2（常规响应）响应{0}。</TEXT>
+    <TEXT>调度中心，已锁定可能的嫌疑人。</TEXT>
+    <TEXT>收到。</TEXT>
+    <TEXT>嫌疑人听到了你的警笛声，正逃离其住所。</TEXT>
+    <TEXT>我相信那是一辆</TEXT> <!--完整句子：我相信那是一辆 颜色 车型-->
+    <TEXT>调度中心，正在前往</TEXT> <!--调度中心，正在前往地点-->
+    <TEXT>收到。</TEXT>
+</TRANSLATION>

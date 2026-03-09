@@ -1,0 +1,125 @@
+<TRANSLATION>
+    <CALLOUTID ID="1">
+        <CONTACTID ID="1">
+            <TEXT>嘿，搭档。这里发生了什么？</TEXT>
+            <TEXT>嘿，警官，感谢你的响应。有个家伙把他的车撞翻了。他说另一个司机漂移过弯，撞了他的车，然后他的车就翻了。</TEXT>
+            <TEXT>哦豁。你有没有关于可能的嫌疑车辆或嫌疑人的信息？</TEXT>
+            <TEXT>我无法告诉你。我得去处理急救人员和拖车服务。试着跟我车旁边的那位~y~受害者~w~谈谈。他可能能告诉你需要的信息。</TEXT>
+            <TEXT>好的。谢谢你的信息。</TEXT>
+            <TEXT>我只能告诉你这些。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嘿，伙计。我是{0}的。你还好吗？</TEXT>
+            <TEXT>是的，警官。幸好我没受伤！那个该死的漂移车手...</TEXT>
+            <TEXT>好的。你能告诉我发生了什么吗？你知道是什么类型的车吗？</TEXT>
+            <TEXT>有辆车~w~漂移过弯，占到了路中间。我开过来的时候，他撞了我，把我的车撞翻了，然后他就加速逃跑了。</TEXT>
+            <TEXT>你看到那辆~y~</TEXT>
+            <TEXT>我当然看到了！那是一辆~y~</TEXT>
+            <TEXT>感谢你的帮助。这对我们的调查极其有用。</TEXT>
+            <TEXT>还好我记得车牌！抓住这个狗娘养的...</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="2">
+        <CONTACTID ID="1">
+            <TEXT>嘿。你请求了支援。我能帮什么忙？</TEXT>
+            <TEXT>嗨，{0}，这起事故看起来像是肇事逃逸。路中间有轮胎打滑的痕迹。</TEXT>
+            <TEXT>所以是另一辆车造成了这次事故？</TEXT>
+            <TEXT>据受害者说是这样。最好你自己去问问他。他可能会给你更多信息。</TEXT>
+            <TEXT>好的。我去跟他谈谈。</TEXT>
+            <TEXT>我只能告诉你这些。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嗨，我是{1}的{0}。一切还好吗？</TEXT>
+            <TEXT>你好警官。是的我没事，但是非常生气。</TEXT>
+            <TEXT>我能想象得到。你能告诉我发生了什么吗？</TEXT>
+            <TEXT>有辆车~w~漂移过弯，我开过来的时候它占到了路中间。我被撞了，然后失去了对车的控制，就撞车了。</TEXT>
+            <TEXT>你看到那辆~y~</TEXT>
+            <TEXT>幸运的是，我看到了。那是一辆~y~</TEXT>
+            <TEXT>太好了。谢谢。有你的帮助我们能轻松锁定这个人。</TEXT>
+            <TEXT>我应该得到公正。希望这家伙进监狱。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="3">
+        <CONTACTID ID="1">
+            <TEXT>嗨。那个出租车司机怎么了？</TEXT>
+            <TEXT>嘿，很高兴见到你。嗯，那家伙不太想跟警察说话。所以我了解的不多。</TEXT>
+            <TEXT>嗯。他有未执行的逮捕令吗？告诉我你知道什么。</TEXT>
+            <TEXT>我已经查过了，他是清白的。看起来是肇事逃逸。但你可以试着亲自跟他谈谈。我很难从他嘴里问出什么。</TEXT>
+            <TEXT>好的。谢谢你的信息。</TEXT>
+            <TEXT>我只能告诉你这些。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>先生你好，我是{0}的。一切都好吗？</TEXT>
+            <TEXT>嘿，是的，我没事。</TEXT>
+            <TEXT>先生，你能描述一下发生了什么吗？</TEXT>
+            <TEXT>有辆车~w~撞了我。</TEXT>
+            <TEXT>你看到那辆~y~</TEXT>
+            <TEXT>我不应该告诉你... 我讨厌警察... 他们很烂。但是... 那是一辆~y~</TEXT>
+            <TEXT>谢谢。你为什么讨厌警察？</TEXT>
+            <TEXT>这不关你的事。抓住这个混蛋然后别烦我。</TEXT>
+            <TEXT>别烦我。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="4">
+        <CONTACTID ID="1">
+            <TEXT>嘿，警官。这里发生了什么？</TEXT>
+            <TEXT>你好警官。感谢你的响应。我唯一知道的是，发生了一起机动车和自行车骑手之间的肇事逃逸。</TEXT>
+            <TEXT>好的。你有关于可能的车辆或嫌疑人的信息吗？</TEXT>
+            <TEXT>没有，我当时专注于让医护人员过来，并试图救助受害者。你能试着跟那位~y~目击者~w~谈谈吗？我来控制现场。</TEXT>
+            <TEXT>当然可以。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>先生你好，你还好吗？</TEXT>
+            <TEXT>你好警官。是的，我没事。那个可怜的家伙，我希望他没事！</TEXT>
+            <TEXT>你看到这起事故是怎么发生的吗？</TEXT>
+            <TEXT>没有，很不幸。我是第二个到的人。那边的女士是第一个到达现场的。</TEXT>
+            <TEXT>好的，谢谢你的帮助。</TEXT>
+            <TEXT>很高兴能帮忙，警官。</TEXT>
+            <TEXT>抱歉，别的我不知道了。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>你好。是你打的911吗？</TEXT>
+            <TEXT>是的警官。我看到了事故，决定靠边停车叫救护车！</TEXT>
+            <TEXT>你能告诉我发生了什么吗？</TEXT>
+            <TEXT>有辆车~w~在这个转弯处超速行驶，撞到了那个骑自行车的人，而且根本没停！他们继续开走了！</TEXT>
+            <TEXT>占位符</TEXT>
+            <TEXT>占位符</TEXT>
+            <TEXT>谢谢你的信息。你的帮助对这次调查极其有用。</TEXT>
+            <TEXT>没问题！随时乐意协助警方。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="5">
+        <CONTACTID ID="1">
+            <TEXT>嘿，搭档。这里发生了什么？</TEXT>
+            <TEXT>嗨。感谢你的响应。看起来是肇事逃逸。</TEXT>
+            <TEXT>好的。你有关于可能的车辆或嫌疑人的信息吗？</TEXT>
+            <TEXT>我无法告诉你。我们到达时医护人员已经在进行心肺复苏了。跟这个人谈谈。也许他知道更多。</TEXT>
+            <TEXT>谢谢，我会的。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>先生你好，你还好吗？</TEXT>
+            <TEXT>你好警官。是的，我没事。那个骑摩托车的人还好吗？</TEXT>
+            <TEXT>我没有关于他状况的任何信息。你看到这起事故是怎么发生的吗？</TEXT>
+            <TEXT>是的，那就是为什么我不得不把车开进草地。有辆车在桥上超过了我。</TEXT>
+            <TEXT>你能描述一下那辆车的车牌号吗？</TEXT>
+            <TEXT>抱歉，一切发生得太快了，我既记不清那辆车也记不清车牌。</TEXT>
+            <TEXT>试着跟那位女士谈谈。她停下车叫了急救服务，也许她知道更多。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>你好。是你打的911吗？</TEXT>
+            <TEXT>是的警官。我看到了事故，决定靠边停车叫救护车！</TEXT>
+            <TEXT>你能告诉我发生了什么吗？</TEXT>
+            <TEXT>有辆车~w~在桥上超了那辆车！那个骑摩托车的人为了躲开这个白痴不得不急转弯，然后就冲出去了。</TEXT>
+            <TEXT>占位符</TEXT>
+            <TEXT>占位符</TEXT>
+            <TEXT>谢谢你的信息。你的帮助对这次调查极其有用。</TEXT>
+            <TEXT>没问题！随时乐意协助警方。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

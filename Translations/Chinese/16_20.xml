@@ -1,0 +1,154 @@
+<TRANSLATION>
+    <CALLOUTID ID="16">
+        <CONTACTID ID="1">
+            <TEXT>嗨，我能怎么帮忙？</TEXT>
+            <TEXT>你好，{0}，调度员通知你了吗？</TEXT>
+            <TEXT>没有，只是派我来这里。所以这里发生了什么？</TEXT>
+            <TEXT>是一起肇事逃逸。但我只是和目击者简单聊了一下。你和相关人员谈谈，了解一下最新情况吧。</TEXT>
+            <TEXT>好的，我这就去。</TEXT>
+            <TEXT>我会确保这里不出现交通堵塞。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嗨，我是{1}的{0}警官。你能告诉我发生了什么吗？</TEXT>
+            <TEXT>该死... 我头好痛.. 我女朋友在哪..？</TEXT>
+            <TEXT>她坐直升机走了。她需要尽快被送到医院。</TEXT>
+            <TEXT>操，那个该死的混蛋在哪..</TEXT>
+            <TEXT>什么混蛋？请告诉我发生了什么。</TEXT>
+            <TEXT>有辆车把我逼下了路。我想那是一辆</TEXT>
+            <TEXT>我会发出那个车型的全境通告。稍等一下。</TEXT>
+            <TEXT>不，等等... 我不知道。也许是不一样的车。其他人知道吗？</TEXT>
+            <TEXT>我会去问他们的。现在请待在这里。医护人员会来检查你的情况。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>你好，{0}。你受伤了吗？</TEXT>
+            <TEXT>只是些小瘀伤。没什么特别值得一提的。</TEXT>
+            <TEXT>另一位涉事者告诉我，他是被另一辆车逼下路的。是真的吗？</TEXT>
+            <TEXT>是的。我当时就在他正后方，可能有点太近了... 唉，算了。</TEXT>
+            <TEXT>现在我不关心那个。你能记得车牌、车型或者颜色吗？</TEXT>
+            <TEXT>抱歉。不记得。</TEXT>
+            <TEXT>好的谢谢，{0}稍后会联系你。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>嗨，我是{1}的{0}。你还好吗？</TEXT>
+            <TEXT>你好警官，是的我没事，幸运的是我的车也没损坏，因为我及时停下了。</TEXT>
+            <TEXT>另外两个人告诉我有人把他们逼下了路。车型是</TEXT>
+            <TEXT>没错。我当时跟在他们后面。但那辆车不是</TEXT>
+            <TEXT>嗯... 那请告诉我吧。</TEXT>
+            <TEXT>那是一辆</TEXT>
+            <TEXT>谢谢你的帮助。你现在可以离开了。</TEXT>
+            <TEXT>好的。再见。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="17">
+        <CONTACTID ID="1">
+            <TEXT>嗨。我能怎么帮忙？</TEXT>
+            <TEXT>嗨，警官。我们现在其实也不知道发生了什么。</TEXT>
+            <TEXT>好吧... 奇怪。有人看到什么了吗？</TEXT>
+            <TEXT>没有。救生员大约10分钟前发现了他，他就是被冲到这里来的。</TEXT>
+            <TEXT>好的。我会问问这里的一些人，看他们是否知道什么。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嘿，你看到发生了什么吗？</TEXT>
+            <TEXT>没有。我看到围了一群人，就想过来看看怎么回事。</TEXT>
+            <TEXT>嗯。那好吧...</TEXT>
+            <TEXT>抱歉。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>嘿，你好。你知道发生了什么吗？</TEXT>
+            <TEXT>不幸的是，我完全不知道。我只是路过，看到他躺在那儿。我试着问他是否还好，但他没回答，所以我打了911。</TEXT>
+            <TEXT>好的。那你和你的朋友们为什么不离开现场呢。这里由我们处理。</TEXT>
+            <TEXT>好吧... 天哪，希望他能挺过来。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>你好。是你打的911，对吗？</TEXT>
+            <TEXT>是的警官。抱歉打晚了，我是欧洲人，不习惯美国的紧急系统。</TEXT>
+            <TEXT>没关系。你能告诉我你看到了什么吗？</TEXT>
+            <TEXT>有艘~w~摩托艇撞了那个冲浪的人。他们根本就没停下来。撞了他之后继续开走了！</TEXT>
+            <TEXT>你知道那艘船开往哪个方向吗？</TEXT>
+            <TEXT>我相信那艘船是开往</TEXT>
+            <TEXT>好的。谢谢你的信息。你还有什么能告诉我们的吗？</TEXT>
+            <TEXT>没有了... 不幸的是就这些。抱歉！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>一位游客报告了一起犯罪，可能与你这里受伤的冲浪者有关。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="18">
+        <CONTACTID ID="1">
+            <TEXT>嗨，这里一切都控制住了吗？</TEXT>
+            <TEXT>嗨，警官。我们正忙着让人群远离现场。</TEXT>
+            <TEXT>这里发生了什么？</TEXT>
+            <TEXT>民众10分钟前发现了他，并叫来了救生员。我没有更多信息给你了。</TEXT>
+            <TEXT>好的。谢谢你的信息。我会试着找出是否有人知道什么。</TEXT>
+            <TEXT>我就知道这么多！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>你好。我叫{0}。我是{1}的。你知道发生了什么吗？</TEXT>
+            <TEXT>不，抱歉。我只是想知道这里发生了什么事。</TEXT>
+            <TEXT>好的。请远离现场...</TEXT>
+            <TEXT>好的。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>嘿，你好，{0}。你能告诉我这里发生了什么吗？</TEXT>
+            <TEXT>好的。我们当时在海滩这里训练，然后我注意到沙子里有具尸体。我们试着跟他说话，但他没回答，所以我打了911。</TEXT>
+            <TEXT>还有别的吗？</TEXT>
+            <TEXT>没了。抱歉。</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>你好。你是那个打911的工作人员吗？</TEXT>
+            <TEXT>是的警官。是我。</TEXT>
+            <TEXT>好的。你能描述一下你看到的情况吗？</TEXT>
+            <TEXT>有艘~w~摩托艇撞了那个冲浪的人。我觉得他们没看到他，但他们撞了他之后继续开走了！</TEXT>
+            <TEXT>你知道那艘船去了哪里吗？</TEXT>
+            <TEXT>你很幸运，伙计。昨天我在城里看到过一模一样的船。是在</TEXT>
+            <TEXT>谢谢。这会让我们的工作轻松很多。</TEXT>
+            <TEXT>很高兴能帮到你！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>一位码头工人报告了一起肇事逃逸，与你现场的位置相符。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="19">
+        <CONTACTID ID="1">
+            <TEXT>嘿，警官。这里发生了什么？</TEXT>
+            <TEXT>嘿，搭档，谢谢你能来。我刚到，但看起来是肇事逃逸。</TEXT>
+            <TEXT>我们有目击者吗？</TEXT>
+            <TEXT>试着跟那边的那位女士谈谈。她可能知道些什么。</TEXT>
+            <TEXT>我这就去。谢谢帮忙。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嘿，女士。是你叫的救护车吗？</TEXT>
+            <TEXT>是的，是我叫的，警官！</TEXT>
+            <TEXT>谢谢你这么做。你能告诉我发生了什么吗？</TEXT>
+            <TEXT>有辆车~w~冲上了路缘，撞到了那个正试图过马路的男人！</TEXT>
+            <TEXT>好的。你看到那辆车的车牌了吗？</TEXT>
+            <TEXT>我看到了... 但我只记得最后3位数字。是~y~</TEXT>
+            <TEXT>好的。谢谢你的帮助。给这位警官做个笔录你就可以继续上路了。</TEXT>
+            <TEXT>谢谢警官。我会的。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="20">
+        <CONTACTID ID="1">
+            <TEXT>嘿，警官。这里发生了什么？</TEXT>
+            <TEXT>嘿，搭档，谢谢你能来。我刚到，但看起来是肇事逃逸。</TEXT>
+            <TEXT>我们有目击者吗？</TEXT>
+            <TEXT>试着跟那边的那位女士谈谈。她可能知道些什么。</TEXT>
+            <TEXT>我这就去。谢谢帮忙。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嘿，女士。是你叫的救护车吗？</TEXT>
+            <TEXT>是的，是我叫的，警官！</TEXT>
+            <TEXT>谢谢你这么做。你能告诉我发生了什么吗？</TEXT>
+            <TEXT>~w~有辆车冲上了路缘，撞到了那个正试图过马路的男人！</TEXT>
+            <TEXT>好的。你看到那辆车的车牌了吗？</TEXT>
+            <TEXT>我看到了... 但我只记得最后3位数字。是~y~</TEXT>
+            <TEXT>好的。谢谢你的帮助。给这位警官做个笔录你就可以继续上路了。</TEXT>
+            <TEXT>谢谢警官。我会的。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>
