@@ -1,0 +1,9 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>需要协助</CALLOUTMESSAGE>
+    <TEXT>按{0}与警官和目击者交谈，获取事故信息。</TEXT>
+    <TEXT>嫌疑人听到了你的警笛声，正逃离其住所。</TEXT>
+    <TEXT>一辆</TEXT>
+    <TEXT>你看到那辆{0}的车牌了吗？</TEXT>
+    <TEXT>是的，我看到了。是{0}</TEXT>
+    <TEXT>车牌号是</TEXT> <!--... 车辆名称，车牌号是 车牌号码。-->
+</TRANSLATION>

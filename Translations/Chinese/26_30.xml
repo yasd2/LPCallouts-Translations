@@ -1,0 +1,107 @@
+<TRANSLATION>
+    <CALLOUTID ID="26">
+        <CONTACTID ID="1">
+            <TEXT>你好警官，有什么需要帮忙的？</TEXT>
+            <TEXT>嗨，感谢你的响应。看起来是肇事逃逸。</TEXT>
+            <TEXT>你怎么知道的？</TEXT>
+            <TEXT>我和受害者简单聊了一下。但可能有目击者。和酒类商店门前的那位女士谈谈。</TEXT>
+            <TEXT>好的。我会试着了解更多关于事故的情况。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>小姐你好。我是{1}的{0}警官。你知道关于这起事故的任何情况吗？</TEXT>
+            <TEXT>是的，警官，我知道。我是这家店的老板，我看到一辆车撞了这个人，就跑了出去！</TEXT>
+            <TEXT>你能告诉我这是怎么发生的吗？</TEXT>
+            <TEXT>~w~有辆车正沿着约书亚路行驶，突然冲上了人行道，撞了那个人！</TEXT>
+            <TEXT>嗯，你也许看到了那辆车的车牌？</TEXT>
+            <TEXT>一切发生得太快了，所以我只记得最后3位数字。是~y~</TEXT>
+            <TEXT>这已经足够了。这肯定有助于找到司机。你现在可以离开了。</TEXT>
+            <TEXT>谢谢你，警官。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="27">
+        <CONTACTID ID="1">
+            <TEXT>嘿，我能怎么帮忙？</TEXT>
+            <TEXT>哦，嗨，{0}。我以为你在休假？</TEXT>
+            <TEXT>嗯，有人生病了，所以我取消了。这里发生了什么？</TEXT>
+            <TEXT>听你这么说很难过。这里的游客被车撞了。这个地方的厨师可以告诉你更多。</TEXT>
+            <TEXT>好的。我去问问他。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>先生你好。我是{1}的{0}。你能告诉我发生了什么吗？</TEXT>
+            <TEXT>当然，{0}警官。我看到了事故，并打了911。</TEXT>
+            <TEXT>谢谢。那么你们的游客发生了什么？</TEXT>
+            <TEXT>有辆车~w~撞了他。那辆车是从这个停车场开出来的。</TEXT>
+            <TEXT>你有监控摄像头也许能拍到车牌吗？</TEXT>
+            <TEXT>有的，但是坏了。但我记得那辆车的最后3位数字。是~y~</TEXT>
+            <TEXT>请修好你的摄像头。这会让我的工作轻松些，但至少我们有3个数字。就这些了，谢谢。</TEXT>
+            <TEXT>我会的，警官。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="28">
+        <CONTACTID ID="1">
+            <TEXT>你好。发生什么事了？</TEXT>
+            <TEXT>嗨。我一分钟前刚到，所以我也说不清。</TEXT>
+            <TEXT>好的。你和任何人谈过了吗？</TEXT>
+            <TEXT>我刚想这么做。但现在你来了。那你能接手吗？</TEXT>
+            <TEXT>当然，我来接手。也许你可以做些现场记录。</TEXT>
+            <TEXT>我正在记录一些现场情况！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>先生你好。我是{0}的。你看到这个人是怎么受伤的吗？</TEXT>
+            <TEXT>你好警官！是的，我看到了。我用电话亭打了911。</TEXT>
+            <TEXT>好的。那请描述一下这是怎么发生的。</TEXT>
+            <TEXT>有辆车~w~从加油站开过来。那个人正穿过出口，那辆车撞了他。车没停。我立刻离开了那个地方。</TEXT>
+            <TEXT>你还记得那辆车的车牌吗？</TEXT>
+            <TEXT>天哪，不记得了。也许是最后3位数字。可能是~y~</TEXT>
+            <TEXT>好的。我会试着在我们的系统里查一下。也许我们能找到线索。谢谢你的配合。</TEXT>
+            <TEXT>没问题，随时效劳。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="29">
+        <CONTACTID ID="1">
+            <TEXT>嘿，护林员。我能为你做什么？</TEXT>
+            <TEXT>你好警官，感谢你的响应。我正回站点的时候发现他们在这儿。</TEXT>
+            <TEXT>你知道发生了什么吗？</TEXT>
+            <TEXT>说实话，我没问。这是你的辖区，而且我刚才忙着让急救人员过来并提供急救。</TEXT>
+            <TEXT>有道理。我去问那个人一些问题。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嘿，先生。我叫{0}。你能告诉我发生了什么吗？</TEXT>
+            <TEXT>嗨，警官。我很高兴护林员路过并叫了急救。</TEXT>
+            <TEXT>好的。请专注于我的问题。发生了什么？</TEXT>
+            <TEXT>有辆车~w~在这里疯狂地开。我们正想去徒步旅行，然后它突然出现，撞了我的女朋友！</TEXT>
+            <TEXT>你看到那辆车的车牌了吗？</TEXT>
+            <TEXT>我试着看了。但只看到了最后3位数字。是~y~</TEXT>
+            <TEXT>谢谢。目前这就够了。也许{0}稍后会联系你。</TEXT>
+            <TEXT>好的。谢谢你，警官。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="30">
+        <CONTACTID ID="1">
+            <TEXT>嘿，伙计。这里发生了什么？</TEXT>
+            <TEXT>嗨。看起来是肇事逃逸。医护人员告诉我的。</TEXT>
+            <TEXT>我们有目击者吗？</TEXT>
+            <TEXT>有，是加油站老板。他告诉医护人员这是一起肇事逃逸。</TEXT>
+            <TEXT>好的，那我去问问他。</TEXT>
+            <TEXT>我只能告诉你这些！</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>嘿，先生。是你报的警吗？</TEXT>
+            <TEXT>不是，警官，是我的一个顾客报的。但他已经走了。</TEXT>
+            <TEXT>那不太妙。你也许看到了发生了什么？</TEXT>
+            <TEXT>有辆车~w~离开加油站，撞了那个人。我没看到，但有人告诉我了！</TEXT>
+            <TEXT>嗯。那个顾客看到车牌了吗？</TEXT>
+            <TEXT>没有。但我确实看到了最后3位数字。是~y~</TEXT>
+            <TEXT>好的，那很好。谢谢你的帮助。请给这位警官做个笔录存档。</TEXT>
+            <TEXT>好的。</TEXT>
+            <TEXT>抱歉，我只能告诉你这些。</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

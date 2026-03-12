@@ -1,0 +1,14 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>噪音扰民</CALLOUTMESSAGE>
+    <TEXT>报案人正在等候，位置在</TEXT> <!--报案人正在等候，位置在 街道-->
+    <TEXT>位置 {0}。应该就是之前那个派对。</TEXT> <!--{0}=街道名称-->
+    <TEXT>收到。我会处理此事。</TEXT>
+    <TEXT>收到。</TEXT>
+    <TEXT>按 {0} 与报案人交谈以获取信息。</TEXT>
+    <TEXT>走进标记区域并按 {0} 来按门铃。</TEXT>
+    <TEXT>没人听到门铃。检查这处房产的后院！</TEXT>
+    <TEXT>去后院并走进标记区域。按 {0} 进行交谈。</TEXT>
+    <TEXT>收到。继续巡逻。</TEXT>
+    <TEXT>离开该区域。</TEXT>
+    <TEXT>走进标记区域并按 {0} 来逮捕屋主并关掉音乐。</TEXT>
+</TRANSLATION>
