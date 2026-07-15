@@ -1,0 +1,28 @@
+<TRANSLATION>
+    <TEXT>Arresta il Sospetto</TEXT>
+<TEXT>Centrale, posso avere un 10-28?</TEXT>
+<TEXT>Il veicolo è un {0}, targa {1}</TEXT>
+<TEXT>10-12</TEXT>
+<TEXT>Ho una corrispondenza del veicolo. Il proprietario è ~y~</TEXT>
+<TEXT>~w~, e vive a ~y~</TEXT>
+<TEXT>:~w~ 10-4. Segnami 10-76 Codice 2.</TEXT>
+<TEXT>10-4. Ti segno 10-76. Rispondi a ~y~</TEXT>
+<TEXT>~w~ Codice 2.</TEXT>
+<TEXT>:~w~ Centrale, posso avere un 10-28?</TEXT>
+<TEXT>:~w~ Il veicolo è un ~y~</TEXT>
+<TEXT>~w~, targa ~y~</TEXT>
+<TEXT>Attenzione! Il veicolo risulta: ~r~ RUBATO</TEXT>
+<TEXT>:~w~ 10-4. Posso avere un BOLO su quel veicolo?</TEXT>
+<TEXT>10-4. Informando tutte le unità.</TEXT>
+<TEXT>:~w~ Perlustro l’area circostante.</TEXT>
+<TEXT>Perlustra l’area circostante alla ricerca del veicolo sospetto</TEXT>
+<TEXT>:~w~ Centrale, ho bisogno di un 10-28 su una targa parziale.</TEXT>
+<TEXT>10-4, procedi.</TEXT>
+<TEXT>:~w~ Il veicolo è un ~y~</TEXT>
+<TEXT>~w~, la targa contiene ~y~</TEXT>
+<TEXT>10-12, in elaborazione...</TEXT>
+<TEXT>"Ho 3 possibili corrispondenze dal sistema. ~n~ ~g~1. {1},~n~ ~p~2. {2},~n~ ~y~3. {3}</TEXT>
+ <!--{1,2,3} are different possible streetnames-->
+  <TEXT>Guarda la mappa e individua le aree. ~n~Premi 'NumPad1' per controllare ~g~ {1}~w~,~n~Premi 'NumPad2' per controllare ~p~ {2}~w~,~n~Premi 'NumPad3' per controllare ~y~ {3}</TEXT>
+
+</TRANSLATION>

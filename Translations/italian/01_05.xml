@@ -1,0 +1,126 @@
+<TRANSLATION>
+    <CALLOUTID ID="1">
+        <CONTACTID ID="1">
+        <TEXT>Ehi socio. Cos'è successo qui?</TEXT>
+        <TEXT>Ehi agente, grazie per essere venuto. Un tizio ha ribaltato la sua auto. Ha detto che un altro conducente ha sbandato dietro l'angolo, ha colpito il suo veicolo e alla fine lo ha fatto ribaltare.</TEXT>
+        <TEXT>Ahia. Ha qualche informazione su un possibile sospetto o sul veicolo del sospettato?</TEXT>
+        <TEXT>Non saprei dirle. Ho dovuto far venire qui i soccorsi e il carro attrezzi. Provi a parlare con la ~y~Vittima~w~ laggiù vicino al mio veicolo. Probabilmente saprà dirle ciò che le serve sapere.</TEXT>
+        <TEXT>Va bene. Grazie per le informazioni.</TEXT>
+        <TEXT>Questo è tutto quello che posso dirle.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+        <TEXT>Ehi amico. Vengo dal {0}. Stai bene?</TEXT>
+        <TEXT>Sì, agente. Per fortuna non mi sono fatto male! Quel cazzo di drifter...</TEXT>
+        <TEXT>Va bene. Può dirmi cosa è successo? Sa che tipo di veicolo fosse?</TEXT>
+        <TEXT> ~w~ ha sbandato dietro l'angolo e si trovava in mezzo alla strada. Mentre stavo arrivando, mi ha colpito, ha fatto ribaltare il mio veicolo ed è sfrecciato via.</TEXT>
+        <TEXT>Ha visto il ~y~</TEXT>
+        <TEXT>Altroché se l'ho visto! Era ~y~</TEXT>
+        <TEXT>Grazie per il suo aiuto. È estremamente utile per questa indagine.</TEXT>
+        <TEXT>Meno male che mi sono ricordato la targa! Prenda quel figlio di puttana...</TEXT>
+        <TEXT>Mi dispiace, ma questo è tutto quello che posso dirle.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="2">
+        <CONTACTID ID="1">
+           <TEXT>Ehi. Hai chiesto rinforzi. Come posso aiutare?</TEXT>
+            <TEXT>Ciao {0}, questo incidente sembra essere un caso di pirateria stradale. Ci sono segni di frenata in mezzo alla strada.</TEXT>
+            <TEXT>Quindi un altro veicolo ha causato l'incidente?</TEXT>
+            <TEXT>Secondo la vittima, sembra di sì. La cosa migliore è che tu glielo chieda di persona. Probabilmente saprà darti più informazioni.</TEXT>
+            <TEXT>OK. Parlerò con lui.</TEXT>
+            <TEXT>Questo è tutto quello che posso dirti</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>"Ciao, sono {0} del {1}. Va tutto bene?</TEXT>
+            <TEXT>Salve agente. Sì, sto bene ma sono piuttosto incazzato.</TEXT>
+            <TEXT>Posso immaginarlo. Può dirmi cosa è successo?</TEXT>
+            <TEXT>~w~ ha sbandato dietro l'angolo e si trovava in mezzo alla strada mentre stavo arrivando. Ho subito un impatto, ho perso il controllo della mia auto e mi sono schiantato.</TEXT>
+            <TEXT>Ha visto il ~y~</TEXT>
+            <TEXT>Per fortuna sì. Era ~y~</TEXT>
+            <TEXT>Perfetto. Grazie. Con il suo aiuto potremo identificare facilmente questa persona.</TEXT>
+            <TEXT>Merito giustizia per questo. Spero che questo tizio finisca in prigione</TEXT>
+            <TEXT>Mi dispiace, ma questo è tutto quello che posso dirle.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="3">
+        <CONTACTID ID="1">
+            <TEXT>Ehi. Cos'è successo al tassista?</TEXT>
+            <TEXT>Ehi, felice di vederti. Beh, il tizio non ha molta voglia di parlare con la polizia. Quindi non ho molto in mano.</TEXT>
+            <TEXT>Hm. Ha un mandato di cattura attivo? Dimmi cosa hai scoperto</TEXT>
+            <TEXT>L'ho già controllato, è pulito. Sembra essere un caso di pirateria stradale. Però prova a parlarci tu stesso. È stato davvero difficile tirargli fuori qualcosa.</TEXT>
+            <TEXT>Ok. Grazie per le informazioni.</TEXT>
+            <TEXT>Questo è tutto quello che posso dirti.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Salve signore, vengo dal {0}. Va tutto bene?</TEXT>
+            <TEXT>Ehi, sì, sto bene.</TEXT>
+            <TEXT>Signore, le sarebbe possibile descrivere cosa è successo?</TEXT>
+            <TEXT>~w~ mi ha colpito.</TEXT>
+            <TEXT>Ha visto il ~y~</TEXT>
+            <TEXT>Non dovrei dirtelo... odio i poliziotti... fanno schifo. Però... era ~y~</TEXT>
+            <TEXT>Grazie. Come mai odia la polizia?</TEXT>
+            <TEXT>Questo non sono affari suoi. Prenda questo stronzo e mi lasci in pace.</TEXT>
+            <TEXT>Mi lasci in pace.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="4">
+        <CONTACTID ID="1">
+        <TEXT>Ehi agente. Cos'è successo qui?</TEXT>
+        <TEXT>Salve agente. Grazie per essere intervenuto. L'unica cosa che so è che abbiamo un pirata della strada che ha investito un ciclista.</TEXT>
+        <TEXT>Ok. Ha informazioni su un possibile veicolo o sospetto?</TEXT>
+        <TEXT>No, mi stavo concentrando nel far venire qui i paramedici e nel cercare di salvare la vittima. Può provare a parlare con i ~y~testimoni~w~ mentre io controllo la scena?</TEXT>
+        <TEXT>Sicuro.</TEXT>
+        <TEXT>Questo è tutto quello che ho per lei!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Salve signore, sta bene?</TEXT>
+<TEXT>Salve Agente. Sì, sto bene. Quel poveretto, spero stia bene!</TEXT>
+<TEXT>Ha visto come è successo questo incidente?</TEXT>
+<TEXT>No, purtroppo. Sono arrivato per secondo. Quella donna laggiù è stata la prima ad arrivare sul posto.</TEXT>
+<TEXT>Okay, grazie per il suo aiuto.</TEXT>
+<TEXT>Felice di essere stato d'aiuto, agente.</TEXT>
+<TEXT>Mi dispiace, ma non so altro.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Salve. È lei che ha chiamato il 911?</TEXT>
+            <TEXT>Sì, agente. Ho visto l'incidente e ho deciso di accostare e chiamare un'ambulanza!</TEXT>
+            <TEXT>Può dirmi cosa è successo?</TEXT>
+            <TEXT>~w~ è sfrecciato dietro questa curva e ha investito il ciclista, e non si è nemmeno fermato! Ha continuato ad andare!</TEXT>
+            <TEXT>PLACEHOLDER</TEXT>
+            <TEXT>PLACEHOLDER</TEXT>
+            <TEXT>Grazie per le informazioni. Il suo aiuto è estremamente utile per questa indagine.</TEXT>
+            <TEXT>Nessun problema! Felice di aiutare la polizia in qualsiasi giorno della settimana.</TEXT>
+            <TEXT>Mi dispiace, ma questo è tutto ciò che posso dirle.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="5">
+        <CONTACTID ID="1">
+<TEXT>Ehi socio. Cos'è successo qui?</TEXT>
+            <TEXT>Ciao. Grazie per essere intervenuto. Sembra essere un pirata della strada.</TEXT>
+            <TEXT>Okay. Hai qualche informazione su un possibile veicolo o sospettato?</TEXT>
+            <TEXT>Non saprei dirti. I paramedici stavano già praticando la rianimazione cardiopolmonare quando siamo arrivati. Parla con questa persona qui. Forse ne sa di più.</TEXT>
+            <TEXT>Grazie, lo farò.</TEXT>
+            <TEXT>Questo è tutto quello che ho per te!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+            <TEXT>Salve signore, sta bene?</TEXT>
+            <TEXT>Salve Agente. Sì, sto bene. Il ciclista sta bene?</TEXT>
+            <TEXT>Non ho informazioni sulle sue condizioni. Ha visto come è successo questo incidente?</TEXT>
+            <TEXT>Sì, è per questo che ho dovuto accostare sull'erba. Un'auto mi ha sorpassato sul ponte.</TEXT>
+            <TEXT>Ha una descrizione o il numero di targa dell'auto?</TEXT>
+            <TEXT>Mi dispiace, è successo tutto così in fretta, non riesco a ricordare né l'auto né la targa.</TEXT>
+            <TEXT>Provi a parlare con la donna. Si è fermata e ha chiamato i soccorsi, forse lei ne sa di più.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+<TEXT>Ciao. Sei tu quello che ha chiamato il 112?</TEXT>
+<TEXT>Sì agente. Ho visto l’incidente e ho deciso di accostare e chiamare un’ambulanza!</TEXT>
+<TEXT>Puoi dirmi cosa è successo?</TEXT>
+<TEXT>~w~ ha sorpassato l’auto sul ponte! Il motociclista ha dovuto sterzare per evitare di colpire questo idiota ed è uscito di strada.</TEXT>
+<TEXT>PLACEHOLDER</TEXT>
+<TEXT>PLACEHOLDER</TEXT>
+<TEXT>Grazie per le informazioni. Il tuo aiuto è estremamente utile per questa indagine.</TEXT>
+<TEXT>Nessun problema! Felice di aiutare la polizia in qualsiasi giorno della settimana.</TEXT>
+<TEXT>Mi dispiace, ma è tutto ciò che posso dirti.</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

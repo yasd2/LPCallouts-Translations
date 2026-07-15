@@ -1,0 +1,171 @@
+<TRANSLATION>
+    <CALLOUTID ID="16">
+        <CONTACTID ID="1">
+<TEXT>Ciao, come posso essere di aiuto?</TEXT>
+<TEXT>Ciao {0}, la centrale ti ha informato?</TEXT>
+<TEXT>No, mi hanno solo mandato qui. Quindi cosa è successo?</TEXT>
+<TEXT>È un investimento con fuga. Ma ho parlato solo brevemente con i testimoni. Aggiornati parlando con le persone coinvolte.</TEXT>
+<TEXT>Okay, lo farò.</TEXT>
+<TEXT>Mi assicurerò che non si crei un ingorgo qui.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Ciao, sono l’agente {0} del {1}. Può dirmi cosa è successo?</TEXT>
+<TEXT>Merda... mi fa male la testa... dov’è la mia ragazza..?</TEXT>
+<TEXT>È partita con l’elicottero. Deve arrivare in ospedale il più rapidamente possibile.</TEXT>
+<TEXT>Cazzo, dov’è quel fottuto bastardo..</TEXT>
+<TEXT>Quale bastardo? Per favore mi dica cosa è successo.</TEXT>
+<TEXT>Un’auto mi ha spinto fuori strada. Credo fosse una</TEXT>
+<TEXT>Farò diramare un BOLO per quel modello di auto. Mi dia un secondo.</TEXT>
+<TEXT>No, aspetti... non lo so. Forse era un’altra. Qualcuno degli altri lo sa?</TEXT>
+<TEXT>Lo chiederò a loro. Per ora resti qui, i paramedici le daranno un’occhiata.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+<TEXT>Ciao, {0}. Hai qualche ferita?</TEXT>
+<TEXT>Solo qualche piccolo livido. Niente di davvero rilevante.</TEXT>
+<TEXT>L’altra persona coinvolta mi ha detto che è stata costretta fuori strada da un’altra auto. È vero?</TEXT>
+<TEXT>Sì. Ero proprio dietro di lui, forse un po’ troppo vicino... ah, comunque.</TEXT>
+<TEXT>Per ora non mi interessa questo. Ricordi una targa, il tipo di auto o magari il colore?</TEXT>
+<TEXT>Mi dispiace. No.</TEXT>
+<TEXT>Okay grazie, {0} ti contatterà più tardi.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Ciao, mi chiamo {0} del {1}. Sta bene?</TEXT>
+<TEXT>Salve agente, sì sto bene e per fortuna non ho alcun danno perché sono riuscito a fermarmi in tempo.</TEXT>
+<TEXT>Gli altri due mi hanno detto che qualcuno li ha spinti fuori strada. Il tipo di auto è una</TEXT>
+<TEXT>È vero. Stavo guidando dietro di loro. Ma l’auto non era una</TEXT>
+<TEXT>Bene... allora per favore me lo dica.</TEXT>
+<TEXT>Era una</TEXT>
+<TEXT>Grazie per il suo aiuto. Può andare ora.</TEXT>
+<TEXT>Okay. Ciao</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="17">
+        <CONTACTID ID="1">
+<TEXT>Ciao. Come posso aiutare?</TEXT>
+<TEXT>Ciao agente. In realtà non sappiamo cosa sia successo al momento.</TEXT>
+<TEXT>Okay... strano. Qualcuno ha visto qualcosa?</TEXT>
+<TEXT>No. I bagnini lo hanno trovato circa 10 minuti fa, appena trascinato qui dall’acqua.</TEXT>
+<TEXT>Okay. Farò qualche domanda alle persone qui e vedrò se sanno qualcosa.</TEXT>
+<TEXT>È tutto ciò che posso dirti!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Ehi, hai visto cosa è successo?</TEXT>
+<TEXT>No. Ho visto che si stava formando una folla e volevo capire cosa stesse succedendo.</TEXT>
+<TEXT>Oh. Okay allora...</TEXT>
+<TEXT>Mi dispiace.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+<TEXT>Ehi. Sai cosa è successo?</TEXT>
+<TEXT>Purtroppo non ne ho idea. Stavo solo camminando e l’ho visto sdraiato lì. Ho provato a chiedergli se stava bene, ma non ha risposto, così ho chiamato il 1-1-2.</TEXT>
+<TEXT>Okay allora. Perché non sgomberate la zona tu e i tuoi amici. Da qui ce ne occupiamo noi.</TEXT>
+<TEXT>Okay... Dannazione, spero che ce la faccia.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Salve. Lei è la persona che ha chiamato il 1-1-2, corretto?</TEXT>
+<TEXT>Sì agente. Mi scusi per aver chiamato così tardi, vengo dall’Europa e non sono abituato al sistema di emergenza americano.</TEXT>
+<TEXT>Va bene. Può dirmi cosa ha visto?</TEXT>
+<TEXT>~w~ una motoscafo che ha colpito il surfista. Non si sono nemmeno fermati. L’hanno colpito e hanno continuato ad andare!</TEXT>
+<TEXT>Sa in quale direzione stava andando la barca?</TEXT>
+<TEXT>Credo che la barca stesse andando verso </TEXT>
+<TEXT>Okay. Grazie per le informazioni. C’è qualcos’altro che può dirci?</TEXT>
+<TEXT>No... purtroppo è tutto. Mi dispiace!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="5">
+         <TEXT>Un turista ha segnalato un crimine che potrebbe essere collegato al tuo surfista ferito.</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="18">
+        <CONTACTID ID="1">
+<TEXT>Ciao. È tutto sotto controllo qui?</TEXT>
+<TEXT>Ciao agente. Siamo impegnati a tenere la folla lontana dalla scena.</TEXT>
+<TEXT>Cosa è successo qui?</TEXT>
+<TEXT>I civili lo hanno trovato 10 minuti fa e hanno chiamato i bagnini. Non ho altro da dirti.</TEXT>
+<TEXT>Okay. Grazie per l’informazione. Cercherò di capire se qualcuno sa qualcosa.</TEXT>
+<TEXT>È tutto ciò che so!</TEXT>
+
+        <CONTACTID ID="2">
+<TEXT>Ciao. Mi chiamo {0}. Sono del {1}. Sai cosa è successo?</TEXT>
+<TEXT>No mi dispiace. Volevo solo capire cosa stesse succedendo qui.</TEXT>
+<TEXT>Okay. Per favore stai lontano dalla scena...</TEXT>
+<TEXT>Okay.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+ <TEXT>Ehi, {0}. Puoi dirmi cosa è successo qui?</TEXT>
+<TEXT>Sì. Stavamo facendo allenamento qui sulla spiaggia quando ho notato il corpo sulla sabbia. Abbiamo provato a parlargli ma non rispondeva, così ho chiamato il 1-1-2.</TEXT>
+<TEXT>Altro?</TEXT>
+<TEXT>No. Mi dispiace.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Salve. È lei il lavoratore che ha chiamato il 1-1-2?</TEXT>
+<TEXT>Sì agente. Sono io.</TEXT>
+<TEXT>Bene. Può descrivere ciò che ha visto?</TEXT>
+<TEXT>~w~ un motoscafo che ha colpito il surfista. Penso che non l’abbiano visto, ma l’hanno colpito e hanno continuato ad andare!</TEXT>
+<TEXT>Ha idea di dove sia andata la barca?</TEXT>
+<TEXT>Sei fortunato, amico. Ieri ho visto esattamente la stessa barca in città. Era in</TEXT>
+<TEXT>Grazie. Questo renderà il nostro lavoro molto più semplice.</TEXT>
+<TEXT>Bello sapere di essere stato d’aiuto!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="5">
+       <TEXT>Un lavoratore del molo ha segnalato un incidente con fuga che corrisponde alla posizione della tua scena.</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="19">
+        <CONTACTID ID="1">
+<TEXT>Ehi agente. Cosa è successo qui?</TEXT>
+<TEXT>Ehi collega, grazie per essere venuto. Sono appena arrivato, ma sembra essere un investimento con fuga.</TEXT>
+<TEXT>Abbiamo un testimone?</TEXT>
+<TEXT>Prova a parlare con la signora laggiù. Potrebbe sapere qualcosa.</TEXT>
+<TEXT>Lo farò. Grazie per il supporto.</TEXT>
+<TEXT>È tutto ciò che ho per te!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Ehi signora. Ha chiamato l’ambulanza?</TEXT>
+<TEXT>Sì, agente. L’ho chiamata io!</TEXT>
+<TEXT>Grazie per questo. Può dirmi cosa è successo?</TEXT>
+<TEXT>~w~ è salito sul marciapiede e ha colpito l’uomo mentre cercava di attraversare la strada!</TEXT>
+<TEXT>Okay. Ha visto la targa del veicolo?</TEXT>
+<TEXT>Sì… ma ricordo solo le ultime 3 cifre. Sono ~y~</TEXT>
+<TEXT>Okay. Grazie per il suo aiuto. Dia una dichiarazione a questo agente e poi potrà andare.</TEXT>
+<TEXT>Grazie agente. Lo farò.</TEXT>
+<TEXT>Mi dispiace, ma è tutto ciò che posso dirle.</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="20">
+        <CONTACTID ID="1">
+<TEXT>Ehi signora agente. Cosa è successo qui?</TEXT>
+<TEXT>Ehi collega, grazie per essere venuto. Sono appena arrivato, ma sembra essere un investimento con fuga.</TEXT>
+<TEXT>Abbiamo un testimone?</TEXT>
+<TEXT>Prova a parlare con la signora laggiù. Potrebbe sapere qualcosa.</TEXT>
+<TEXT>Lo farò. Grazie per il supporto.</TEXT>
+<TEXT>È tutto ciò che ho per te!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Ehi signora. Ha chiamato l’ambulanza?</TEXT>
+<TEXT>Sì, agente! L’ho chiamata io.</TEXT>
+<TEXT>Grazie per questo. Può dirmi cosa è successo?</TEXT>
+<TEXT>~w~ è salito sul marciapiede e ha colpito l’uomo mentre cercava di attraversare la strada!</TEXT>
+<TEXT>Okay. Ha visto la targa del veicolo?</TEXT>
+<TEXT>Sì… ma ricordo solo le ultime 3 cifre. Sono ~y~</TEXT>
+<TEXT>Okay. Grazie per il suo aiuto. Dia una dichiarazione a questo agente e poi potrà andare.</TEXT>
+<TEXT>Grazie agente. Lo farò.</TEXT>
+<TEXT>Mi dispiace, ma è tutto ciò che posso dirle.</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

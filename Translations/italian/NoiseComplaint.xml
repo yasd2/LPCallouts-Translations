@@ -1,0 +1,17 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>Disturbo segnalato</CALLOUTMESSAGE>
+   <TEXT>Il chiamante sta aspettando presso...</TEXT>
+ <!--Caller is waiting at STREET-->
+    <TEXT><TEXT>Località {0}. Dovrebbe essere la festa di prima.</TEXT>
+</TEXT> <!--{0}=STREETNAME-->
+   <TEXT>10-4. Me ne occuperò.</TEXT>
+<TEXT>10-4.</TEXT>
+<TEXT>Parla con il chiamante premendo {0} per ottenere informazioni.</TEXT>
+<TEXT>Entra nel marker e premi {0} per suonare il campanello.</TEXT>
+<TEXT>Nessuno ha sentito il campanello. Controlla il giardino sul retro della proprietà!</TEXT>
+<TEXT>Vai nel giardino sul retro ed entra nel marker. Premi {0} per parlare.</TEXT>
+<TEXT>10-4. Procedi con la pattuglia.</TEXT>
+<TEXT>Lascia la zona.</TEXT>
+<TEXT>Arresta il proprietario e spegni la musica entrando nel marker e premendo {0}.</TEXT>
+
+</TRANSLATION>

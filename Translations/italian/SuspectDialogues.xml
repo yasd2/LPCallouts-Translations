@@ -1,0 +1,173 @@
+<TRANSLATION>
+    <DIALOGID ID="1">
+       <TEXT>Ciao. È lei il proprietario del veicolo parcheggiato nel vialetto?</TEXT>
+<TEXT>Sì, agente, lo è.</TEXT>
+<TEXT>Va bene. Può dirmi dove si trovava circa 15 minuti fa?</TEXT>
+<TEXT>Sono in stato di fermo, agente?</TEXT>
+<TEXT>Le sto solo chiedendo dove si trovava. Può dirmelo, oppure devo tornare con un mandato?</TEXT>
+<TEXT>Be’, cosa sta succedendo? C’è qualche problema con il mio veicolo?</TEXT>
+<TEXT>Sì. Corrisponde alla descrizione di un veicolo coinvolto in un incidente con fuga.</TEXT>
+<TEXT>Be’, sono stato a casa tutto il giorno. La sua fonte deve essersi sbagliata o qualcosa del genere.</TEXT>
+<TEXT>Posso dare un’occhiata più da vicino al suo veicolo?</TEXT>
+<TEXT>Ugh, mi ha beccato. Ho investito quella persona e sono scappato, non sapevo cosa fare. Mi dispiace, la prego, non mi arresti!</TEXT>
+<TEXT>Va bene, devo portarla alla centrale. Metta le mani dove posso vederle, per favore.</TEXT>
+<TEXT>Al diavolo! Non torno in prigione.</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="2">
+        <TEXT>Ehi. È suo il veicolo nel vialetto?</TEXT>
+<TEXT>Sì, è mio. Va tutto bene?</TEXT>
+<TEXT>Può dirmi dove si trovava circa 15 minuti fa?</TEXT>
+<TEXT>Può dirmi cosa sta succedendo? Ho bisogno di un avvocato?</TEXT>
+<TEXT>Il suo veicolo corrisponde alla descrizione di un’auto coinvolta in un incidente con fuga.</TEXT>
+<TEXT>Stronzate! Sono stato a casa tutto il giorno!</TEXT>
+<TEXT>Va bene. Possiamo chiarire tutto alla centrale. Al momento è in stato di fermo e dovrà venire con me.</TEXT>
+<TEXT>No! Non lo farò!</TEXT>
+<TEXT>Purtroppo, a questo punto, non ha scelta.</TEXT>
+<TEXT>Stupidi sbirri, stupido sistema giudiziario. Andate a farvi fottere!</TEXT>
+<TEXT>Va bene. Metta le mani dove posso vederle.</TEXT>
+<TEXT>Al diavolo! Provate a prendermi, porci!</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="3">
+        <TEXT>È suo il veicolo parcheggiato nel vialetto?</TEXT>
+<TEXT>Salve agente. Sì, è mio.</TEXT>
+<TEXT>C’è qualche motivo per tutti questi danni al veicolo?</TEXT>
+<TEXT>Ho avuto un incidente qualche giorno fa. È in fase di riparazione, agente.</TEXT>
+<TEXT>Capisco. Per caso ha avuto un incidente oggi?</TEXT>
+<TEXT>No, non sono stato coinvolto in nessun incidente oggi. Perché lo chiede?</TEXT>
+<TEXT>Questo veicolo corrisponde alla descrizione di un’auto coinvolta in un incidente con fuga. E dal modo in cui parla, posso dire che è nervoso. Vuole confessare?</TEXT>
+<TEXT>Sono pulito. Non ho avuto nessun incidente. Se ne vada, per favore. Non è il benvenuto a casa mia.</TEXT>
+<TEXT>L’accusa non è così grave. Se confessa, potrebbe ottenere una pena minore. Ultima possibilità: vuole confessare?</TEXT>
+<TEXT>Ugh, va bene! Quella persona mi è finita davanti. Non sono riuscito a frenare in tempo. Non è stata colpa mia, agente, è stata colpa sua...</TEXT>
+<TEXT>Va bene. Possiamo chiarire tutto alla centrale. Al momento è in stato di fermo. Metta le mani dove posso vederle.</TEXT>
+<TEXT>Non torno in prigione! Maledetto sbirro!</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="4">
+      <TEXT>Salve. Ha un minuto? Vorrei farle alcune domande.</TEXT>
+<TEXT>No, mi dispiace. Ho fretta!</TEXT>
+<TEXT>Immagino sappia perché sono qui. Può dirmi perché il suo veicolo ha così tanti danni nella parte anteriore?</TEXT>
+<TEXT>Le ho detto che non ho tempo! Se ne vada!</TEXT>
+<TEXT>Non me ne vado finché non risponde alla mia domanda. Perché ci sono così tanti danni al suo veicolo?</TEXT>
+<TEXT>Perché qualche bastardo mi ha colpito, e ora lei vuole arrestare me, quando è stata colpa loro!</TEXT>
+<TEXT>Bene, visto che ha appena ammesso di essere stato coinvolto in un incidente con fuga, dovrà venire alla centrale per ulteriori accertamenti.</TEXT>
+<TEXT>No, io resto qui.</TEXT>
+<TEXT>No, non può. La prego, non mi costringa a usare la forza. Metta le mani dove posso vederle.</TEXT>
+<TEXT>Non è giusto!</TEXT>
+<TEXT>Ultima possibilità. Metta le mani dove posso vederle.</TEXT>
+<TEXT>No! Ho detto che non è giusto!</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="5">
+       <TEXT>Mi faccia un favore e tenga le mani dove posso vederle. È suo il veicolo parcheggiato laggiù?</TEXT>
+<TEXT>...Sì agente, è mio. Va tutto bene?</TEXT>
+<TEXT>Può dirmi dove si trovava circa 20 minuti fa?</TEXT>
+<TEXT>Può dirmi perché si comporta da idiota?</TEXT>
+<TEXT>Va bene. Vuole dirmi dove si trovava, oppure preferisce venire alla centrale finché l’indagine non sarà conclusa?</TEXT>
+<TEXT>Stavo girando! Mi godevo il mio giorno libero e sono appena rientrato. Che diavolo sta succedendo?!</TEXT>
+<TEXT>Per caso ha investito qualcuno mentre era fuori?</TEXT>
+<TEXT>Cosa?</TEXT>
+<TEXT>Non faccia finta di niente. Ultima possibilità: ha investito una persona?</TEXT>
+<TEXT>Forse. Vorrei parlare con il mio avvocato.</TEXT>
+<TEXT>Potrà farlo, alla centrale. Al momento è in arresto per incidente con fuga. Tenga le mani dove posso vederle.</TEXT>
+<TEXT>Vaffanculo, stronza. Prendimi se ci riesci!</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="6">
+        <TEXT>Salve. È lei il proprietario della barca ancorata laggiù?</TEXT>
+<TEXT>Sì, agente, lo è.</TEXT>
+<TEXT>Va bene. Può dirmi dove si trovava circa 15 minuti fa?</TEXT>
+<TEXT>Sono in stato di fermo, agente?</TEXT>
+<TEXT>Le sto solo chiedendo dove si trovava. Può dirmelo, oppure devo tornare con un mandato?</TEXT>
+<TEXT>Be’, cosa sta succedendo? C’è qualche problema con la mia barca?</TEXT>
+<TEXT>Sì. Corrisponde alla descrizione di un natante coinvolto in un incidente con fuga.</TEXT>
+<TEXT>Be’, sono stato a casa tutto il giorno. La sua fonte deve essersi sbagliata o qualcosa del genere.</TEXT>
+<TEXT>Posso dare un’occhiata più da vicino alla sua barca?</TEXT>
+<TEXT>Ugh, mi ha beccato. Ho investito quella persona e sono scappato, non sapevo cosa fare. Mi dispiace, la prego, non mi arresti!</TEXT>
+<TEXT>Va bene, devo portarla alla centrale. Metta le mani dove posso vederle, per favore.</TEXT>
+<TEXT>Al diavolo! Non torno in prigione.</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="7">
+       <TEXT>Ehi. È sua la barca ancorata laggiù?</TEXT>
+<TEXT>Sì, è mia. Va tutto bene?</TEXT>
+<TEXT>Può dirmi dove si trovava circa 15 minuti fa?</TEXT>
+<TEXT>Può dirmi cosa sta succedendo? Ho bisogno di un avvocato?</TEXT>
+<TEXT>La sua barca corrisponde alla descrizione di un natante coinvolto in un incidente con fuga.</TEXT>
+<TEXT>Stronzate! Sono stato a casa tutto il giorno!</TEXT>
+<TEXT>Va bene. Possiamo chiarire tutto alla centrale. Al momento è in stato di fermo e dovrà venire con me.</TEXT>
+<TEXT>No! Non ci vengo!</TEXT>
+<TEXT>Purtroppo, a questo punto, non ha scelta.</TEXT>
+<TEXT>Stupidi sbirri, stupido sistema giudiziario. Andate a farvi fottere!</TEXT>
+<TEXT>Va bene. Metta le mani dove posso vederle.</TEXT>
+<TEXT>Al diavolo! Provate a prendermi, porci!</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="8">
+        <TEXT>È sua la barca ancorata laggiù?</TEXT>
+<TEXT>Salve agente. Sì, è mia.</TEXT>
+<TEXT>C’è qualche motivo per tutti questi danni alla sua barca?</TEXT>
+<TEXT>Ho avuto un incidente qualche giorno fa. È in fase di riparazione, agente.</TEXT>
+<TEXT>Capisco. Per caso ha avuto un incidente oggi?</TEXT>
+<TEXT>No, non sono stato coinvolto in nessun incidente oggi. Perché lo chiede?</TEXT>
+<TEXT>La sua barca corrisponde alla descrizione di un natante coinvolto in un incidente con fuga. E dal modo in cui parla, posso dire che è nervoso. Vuole confessare?</TEXT>
+<TEXT>Sono pulito. Non ho avuto nessun incidente. Se ne vada, per favore. Non voglio rispondere ad altre domande.</TEXT>
+<TEXT>L’accusa non è così grave. Se confessa, potrebbe ottenere una pena minore. Ultima possibilità: vuole confessare?</TEXT>
+<TEXT>Ugh, va bene! Quella persona mi è finita davanti. Non sono riuscito a fermarmi in tempo. Non è stata colpa mia, agente, è stata colpa sua...</TEXT>
+<TEXT>Va bene. Possiamo chiarire tutto alla centrale. Al momento è in stato di fermo. Metta le mani dove posso vederle.</TEXT>
+<TEXT>Non torno in prigione! Maledetto sbirro!</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="9">
+        <TEXT>Salve. Ha un minuto? Vorrei farle alcune domande.</TEXT>
+<TEXT>No, mi dispiace. Ho fretta!</TEXT>
+<TEXT>Immagino sappia perché sono qui. Può dirmi perché la sua barca ha così tanti danni sulla parte anteriore?</TEXT>
+<TEXT>Le ho detto che non ho tempo! Se ne vada!</TEXT>
+<TEXT>Non me ne vado finché non risponde alla mia domanda. Perché ci sono così tanti danni alla sua barca?</TEXT>
+<TEXT>Perché qualche bastardo mi è finito davanti, e ora lei vuole arrestare me quando è stata colpa loro!</TEXT>
+<TEXT>Bene, visto che ha appena ammesso di essere stato coinvolto in un incidente con fuga, dovrà venire alla centrale per ulteriori accertamenti.</TEXT>
+<TEXT>No, io resto qui.</TEXT>
+<TEXT>No, non può. La prego, non mi costringa a usare la forza. Metta le mani dove posso vederle.</TEXT>
+<TEXT>Non è giusto!</TEXT>
+<TEXT>Ultima possibilità. Metta le mani dove posso vederle.</TEXT>
+<TEXT>No! Ho detto che non è giusto!</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="10">
+        <TEXT>Mi faccia un favore e tenga le mani dove posso vederle. È sua la barca laggiù?</TEXT>
+<TEXT>...Sì agente, è mia. Va tutto bene?</TEXT>
+<TEXT>Può dirmi dove si trovava circa 20 minuti fa?</TEXT>
+<TEXT>Può dirmi perché si comporta da idiota?</TEXT>
+<TEXT>Va bene. Vuole dirmi dove si trovava, oppure preferisce venire alla centrale finché l’indagine non sarà conclusa?</TEXT>
+<TEXT>Stavo navigando! Mi godevo il mio giorno libero e ho appena finito di attraccare. Che diavolo sta succedendo?!</TEXT>
+<TEXT>Per caso ha investito qualcuno mentre era fuori?</TEXT>
+<TEXT>Cosa?</TEXT>
+<TEXT>Non faccia finta di niente. Ultima possibilità: ha investito una persona?</TEXT>
+<TEXT>Forse. Vorrei parlare con il mio avvocato.</TEXT>
+<TEXT>Potrà farlo alla centrale. Al momento è in arresto per incidente con fuga. Tenga le mani dove posso vederle.</TEXT>
+<TEXT>Vaffanculo, stronza. Prendimi se ci riesci!</TEXT>
+
+    </DIALOGID>
+    <DIALOGID ID="11">
+<TEXT>Ehi partner, sembra che tu abbia trovato l’auto che stavo cercando.</TEXT>
+<TEXT>Ciao, sì. Stavo facendo il mio giro di pattuglia quando l’ho vista lì.</TEXT>
+<TEXT>Qualcosa che possa portarci a un sospetto?</TEXT>
+<TEXT>Mi dispiace, no. Non c’era nessuno lungo la strada e niente dentro l’auto.</TEXT>
+<TEXT>Dannazione. Va bene, puoi andare. Mi occupo io del resto.</TEXT>
+<TEXT>Okay, grazie. A presto.</TEXT>
+    </DIALOGID>
+    <DIALOGID ID="12">
+<TEXT>Ehi partner, sembra che il BOLO abbia funzionato.</TEXT>
+<TEXT>Ciao, sì. Ho fermato l’auto per i danni alla ruota anteriore e poi ho visto l’APB.</TEXT>
+<TEXT>Perfetto. Da qui prendo io, okay?</TEXT>
+<TEXT>Certo, ti copro le spalle.</TEXT>
+<TEXT>Grazie, andiamo.</TEXT>
+<TEXT>Prego, scenda dal veicolo.</TEXT>
+<TEXT>No, cosa ho fatto? Perché mi avete fermato?</TEXT>
+<TEXT>La sua auto è gravemente danneggiata. Non può continuare a guidare. Scenda, per favore!</TEXT>
+<TEXT>Il veicolo che sta guidando è stato rubato ed è coinvolto in un incidente con fuga. È in arresto. Mostri le mani!</TEXT>
+<TEXT>Vorrei parlare con il mio avvocato.</TEXT>
+<TEXT>A presto, idioti!</TEXT> 
+    </DIALOGID>
+</TRANSLATION>

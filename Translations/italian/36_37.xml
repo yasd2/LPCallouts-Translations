@@ -1,0 +1,91 @@
+<TRANSLATION>
+    <CALLOUTID ID="36">
+        <CONTACTID ID="1">
+           <TEXT>Salve signore. Ha chiamato il 9-1-1 per la musica troppo alta?</TEXT>
+<TEXT>Salve agente, sì, ho chiamato la polizia perché stanno suonando la musica troppo forte.</TEXT>
+<TEXT>Ha provato a parlare con il proprietario per chiedere di abbassare il volume?</TEXT>
+<TEXT>No, non l’ho fatto. È quella casa laggiù.</TEXT>
+<TEXT>La prossima volta provi lei per prima, per favore. Questa volta parlerò io con il proprietario.</TEXT>
+<TEXT>Ok, grazie.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+           <TEXT>Salve? Posso parlare con il proprietario di questa proprietà?</TEXT>
+<TEXT>Certo, sono il nuovo proprietario della casa. In cosa posso aiutarla, agente?</TEXT>
+<TEXT>Abbiamo ricevuto una lamentela riguardo alla sua festa. Potrebbe per favore abbassare il volume?</TEXT>
+<TEXT>Amico, dev’essere stato quel cretino accanto a me. Che cosa ha detto?</TEXT>
+<TEXT>Non posso darle dettagli sulla lamentela. Per favore, abbassi semplicemente il volume, ok?</TEXT>
+<TEXT>Sì, certo, non voglio creare problemi.</TEXT>
+<TEXT>È soddisfatto del livello del volume?</TEXT>
+<TEXT>Sì signore, grazie per la comprensione. Buona festa.</TEXT>
+<TEXT>Arrivederci agente.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+           <TEXT>Va bene, signore, devo parlarle!</TEXT>
+<TEXT>Oh, assolutamente no. Qual è il problema adesso?</TEXT>
+<TEXT>Le ho chiesto gentilmente di abbassare il volume. Sembra che non abbia avuto alcun effetto. Ora deve spegnere la musica!</TEXT>
+<TEXT>Cosa? Sa quanto costa organizzare una festa così? La musica è essenziale per me. Quindi rimane accesa!</TEXT>
+<TEXT>Mi dispiace, ma non ha altre possibilità. Ha avuto la sua occasione.</TEXT>
+<TEXT>Sa che guadagno più soldi in un giorno di quanti lei ne faccia in un anno?</TEXT>
+<TEXT>Non mi interessa della sua situazione finanziaria, signore.</TEXT>
+<TEXT>Niente giri di parole. Spenga la musica adesso o lo farò io!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Qualunque cosa, ma questo avrà conseguenze per lei!</TEXT>
+<TEXT>Mi dia nome e numero di distintivo così posso fare un reclamo al dipartimento.</TEXT>
+<TEXT>Può ottenere queste informazioni direttamente al dipartimento in centro. Le auguro una buona giornata, signore.</TEXT>
+<TEXT>Non la passerai liscia. Ci saranno ripercussioni.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+            <TEXT>La mia risposta è semplice. NO. Non spengo la musica!</TEXT>
+<TEXT>Allora non ho altra scelta che portarla in centrale. Mostri le mani, per favore.</TEXT>
+<TEXT>Non posso credere a questa stronzata.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="37">
+        <CONTACTID ID="1">
+<TEXT>Salve signore. Ha chiamato il 9-1-1. Come posso aiutarla?</TEXT>
+<TEXT>Sì, salve. Voglio che andiate dall’altra parte della strada e spegniate la musica. È fastidiosa.</TEXT>
+<TEXT>Si calmi, signore. Da quanto tempo stanno suonando a quel volume?</TEXT>
+<TEXT>Non ricordo. Basta che andiate lì e stacchiate la spina.</TEXT>
+<TEXT>Va bene signore, per favore rientri in casa. Contatterò il proprietario e gli chiederò di abbassare il volume.</TEXT>
+<TEXT>No, non abbassare. Deve essere spenta! Capito?...</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+
+<TEXT>Mi scusi. Chi è il responsabile di questa festa?</TEXT>
+<TEXT>Oh, la polizia. Sì, sono io agente. Qual è il problema?</TEXT>
+<TEXT>I suoi vicini si stanno lamentando del livello del rumore.</TEXT>
+<TEXT>Ma dai, quei vecchi stronzi dovrebbero tornare nelle loro bare!</TEXT>
+<TEXT>Per favore, non insulti nessuno. Abbassi solo il volume.</TEXT>
+<TEXT>Sono davvero irritato. Ok, lo abbasso.</TEXT>
+<TEXT>Va bene così?</TEXT>
+<TEXT>Sì, perfetto. Per favore mantenga il volume basso, ok? Arrivederci.</TEXT>
+<TEXT>Aha, vedremo…</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+           <TEXT>Signore, venga qui!</TEXT>
+<TEXT>Di nuovo la polizia?... Oh uomo, e adesso cosa c’è?</TEXT>
+<TEXT>La mia ultima visita sembra non aver avuto effetto, quindi ora spenga la musica.</TEXT>
+<TEXT>Cosa? Ma dai, abbasso il volume e lo tengo basso, lo prometto.</TEXT>
+<TEXT>Signore, ha già avuto la sua occasione. Mi dispiace, ma stavolta deve spegnerla.</TEXT>
+<TEXT>Qual è il tuo fottuto problema? Ho detto che prometto di tenerla bassa.</TEXT>
+<TEXT>La sua promessa non basta.</TEXT>
+<TEXT>La spenga subito o lo farò io e potrà spiegare tutto in centrale.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Sempre la stessa merda con quei vecchi bastardi!</TEXT>
+<TEXT>Felice ora?</TEXT>
+<TEXT>Sì, e lo tenga spento, chiaro?</TEXT>
+<TEXT>Vattene e basta.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+<TEXT>Non credo di volerlo fare. Mi piace così.</TEXT>
+<TEXT>Allora facciamo due chiacchiere in centrale. Fammi vedere le mani.</TEXT>
+<TEXT>È tutta una stronzata.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

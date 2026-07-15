@@ -1,0 +1,16 @@
+<TRANSLATION>
+    <CALLOUTMESSAGE>Richiesta di assistenza</CALLOUTMESSAGE>
+<TEXT>Parla con l’agente premendo {0} per ottenere informazioni sull’incidente.</TEXT>
+<TEXT>10-4, proceda.</TEXT>
+<TEXT>10-4. Può fornirmi la posizione del chiamante?</TEXT>
+<TEXT>10-4. Le mostro il 10-76. Risponda a {0} in Codice 2.</TEXT>
+<TEXT>Centrale, possibile sospettato identificato.</TEXT>
+<TEXT>10-4.</TEXT>
+<TEXT>Il sospettato ha sentito le sirene e sta fuggendo dalla sua abitazione.</TEXT>
+
+   <TEXT>Credo che fosse una...</TEXT>
+ <!--full sentence: I believe it was a COLOR VEHICLENAME-->
+    <TEXT>Centrale, in direzione di...</TEXT>
+ <!--Dispatch, heading to location-->
+    <TEXT>10-4.</TEXT>
+</TRANSLATION>

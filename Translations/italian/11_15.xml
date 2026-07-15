@@ -1,0 +1,184 @@
+<TRANSLATION>
+    <CALLOUTID ID="11">
+        <CONTACTID ID="1">
+<TEXT>Ehi Frank, è da un po’ che non ci vediamo. Cosa è successo qui?</TEXT>
+<TEXT>Ehi {0}, sembra un caso di investimento con fuga.</TEXT>
+<TEXT>C’è qualcuno ferito?</TEXT>
+<TEXT>Temo di sì. L’autista del camion ha ribaltato il veicolo e si è ferito. I paramedici si stanno occupando di lui nell’ambulanza. Verrà mandato in ospedale.</TEXT>
+<TEXT>È passato un po’ da quando ho visto un incidente del genere. Sappiamo la causa?</TEXT>
+<TEXT>L’operaio qui mi ha detto che un veicolo è entrato nella corsia del camion e lo ha costretto a sterzare per evitare l’auto in arrivo, comunque puoi parlarne direttamente con lui.</TEXT>
+<TEXT>Certo, vedrò cosa mi dice.</TEXT>
+<TEXT>Questo è tutto ciò che posso dirti!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Salve signore. Il mio collega mi ha detto che sa cosa è successo.</TEXT>
+<TEXT>Sì, agente. Un idiota mi ha sorpassato e il camion ha sbandato finendo nel bosco. Ho chiamato subito il 911.</TEXT>
+<TEXT>Grazie per questo. Ricorda qualcosa riguardo il veicolo o il conducente?</TEXT>
+<TEXT>Sì, in realtà possiedo lo stesso veicolo. Era un ~y~</TEXT>
+<TEXT>Okay. Ha visto la targa?</TEXT>
+<TEXT>Credo fosse ~y~</TEXT>
+<TEXT>Grazie per il suo aiuto. Dia a questo agente una dichiarazione dettagliata e sarà libero di andare.</TEXT>
+<TEXT>Okay agente. Grazie.</TEXT>
+<TEXT>Mi dispiace, ma è tutto ciò che posso dirle.</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="12">
+        <CONTACTID ID="1">
+<TEXT>Ciao partner. Wow. È una caduta bella profonda! Fammi indovinare: guidatore ubriaco.</TEXT>
+<TEXT>Ehi {0}, no. In realtà è un investimento con fuga.</TEXT>
+<TEXT>Davvero. Su questa strada? Cosa è successo?</TEXT>
+<TEXT>Il conducente del camion di tronchi ha ribaltato il veicolo e si è ferito mentre evitava un’auto che andava a velocità elevata. Verrà mandato in ospedale.</TEXT>
+<TEXT>Sappiamo qualcosa riguardo questa auto?</TEXT>
+<TEXT>Il suo co‑autista mi ha detto che quel veicolo ha quasi perso il controllo, comunque puoi parlarne direttamente con lui.</TEXT>
+<TEXT>Sì. Mi occupo io della situazione, okay?</TEXT>
+<TEXT>Certo, grazie. È tutta tua.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+ <TEXT>Ehi. Può ripetere ciò che ha detto al mio collega?</TEXT>
+<TEXT>Sì, agente. Un idiota è sceso dalla collina a una velocità folle. Il mio amico ha dovuto uscire di strada per non colpirlo.</TEXT>
+<TEXT>Ricorda quell’auto?</TEXT>
+<TEXT>Sì, certo. Era un ~y~</TEXT>
+<TEXT>Okay. Ha visto la targa?</TEXT>
+<TEXT>Sì, ricordo anche questo. Era ~y~</TEXT>
+<TEXT>Grazie per il suo aiuto. Per favore resti qui finché non arriva la gru di recupero.</TEXT>
+<TEXT>Okay agente. Grazie.</TEXT>
+<TEXT>Mi dispiace, ma è tutto ciò che posso dirle.</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="13">
+        <CONTACTID ID="1">
+<TEXT>Ciao, cosa diavolo è successo qui?</TEXT>
+<TEXT>Ehi agente {0}, grazie per la risposta veloce. Secondo le prime informazioni che ho, sembra essere un investimento con fuga.</TEXT>
+<TEXT>Hai già parlato con vittime e testimoni?</TEXT>
+<TEXT>No, mi dispiace, stavo aiutando a mettere in sicurezza la scena e a mantenere il flusso del traffico.</TEXT>
+<TEXT>Okay, allora parlerò con le persone coinvolte per ottenere informazioni su un possibile sospetto.</TEXT>
+<TEXT>Grazie, nel frattempo mi occuperò del traffico, ci vediamo dopo.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Ciao, mi chiamo {0} del {1}. Può dirmi cosa è successo?</TEXT>
+<TEXT>Oh mio Dio, spero che stia bene, l’hanno appena portata in ospedale.</TEXT>
+<TEXT>Calmati, andrà tutto bene. Ho bisogno che tu mi dica cosa è successo. Puoi farlo per me?</TEXT>
+<TEXT>Penso di sì, ma è successo tutto così in fretta... non è stata colpa mia.. ho dovuto sterzare...</TEXT>
+<TEXT>Da cosa hai dovuto sterzare? Un’auto ti ha tagliato la strada? Per favore, sii più preciso.</TEXT>
+<TEXT>Sì, è entrata nella mia corsia senza accorgersi di me. Credo fosse una </TEXT>
+<TEXT>Sei sicuro di questo?</TEXT>
+<TEXT>No, non lo sono.. per favore chiedi agli altri.. magari possono dirti di più.</TEXT>
+<TEXT>Okay, grazie ancora. Stai calmo, starà bene.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+<TEXT>Ciao, {0}. Va tutto bene? Posso farti qualche domanda?</TEXT>
+<TEXT>Ciao, sì certo, vai pure</TEXT>
+<TEXT>Il tizio che ha ribaltato l’auto mi ha detto che è stato tagliato da un’auto che ha cambiato corsia, è corretto?</TEXT>
+<TEXT>Sì. Ho dovuto frenare forte per fermare la mia auto. Ma ho comunque toccato le barriere. Ora guarda la mia macchina</TEXT>
+<TEXT>Mi dispiace per questo. Riesci a ricordare una targa, il tipo di auto o magari il colore?</TEXT>
+<TEXT>Non proprio, stavo cercando di non schiantarmi.</TEXT>
+<TEXT>Grazie per il tuo tempo, se hai bisogno di qualcosa contatta {0}.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Ehi. Sono l’agente {0}. Sembra che la tua auto stia bene. Perché sei qui?</TEXT>
+<TEXT>Ciao, sono io che ho chiamato il 1-1-2. E ho deciso di restare perché ho scritto la targa dell’auto che ha causato questo caos.</TEXT>
+<TEXT>Perfetto. Quindi puoi dirmi la targa del</TEXT>
+<TEXT>Sì, posso dirtela, ma non era un </TEXT>
+<TEXT>Ok, allora che auto era?</TEXT>
+<TEXT>Era una </TEXT>
+<TEXT>Grazie per l’aiuto, servirà a identificare questo guidatore spericolato. Puoi andare ora.</TEXT>
+<TEXT>Okay. Ciao</TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="14">
+        <CONTACTID ID="1">
+<TEXT>Ehi partner. Questo incidente sembra serio. Sai cosa è successo?</TEXT>
+<TEXT>Ciao {0}, sì, è un miracolo che non ci siano più danni. Sembra un investimento con fuga, ma non ne sono sicuro</TEXT>
+<TEXT>Come lo sai? Hai già parlato con le persone coinvolte?</TEXT>
+<TEXT>Purtroppo no. Mi sono occupato di far arrivare i soccorsi e la squadra dei vigili del fuoco.</TEXT>
+<TEXT>Okay, allora inizierò a fare domande per vedere se otteniamo una causa o magari un sospetto.</TEXT>
+<TEXT>Nel frattempo contatterò la centrale operativa e darò loro un aggiornamento sulla situazione qui.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Salve, sono l’agente {0} del {1}. È in grado di rispondere a qualche domanda?</TEXT>
+<TEXT>Oh ciao, ehm... sì forse... hanno appena portato mia moglie in ospedale con l’elicottero. Hanno detto che ha lesioni interne al torace.</TEXT>
+<TEXT>Accidenti, mi dispiace sentirlo. Ma è in buone mani. Può dirmi cosa è successo?</TEXT>
+<TEXT>Stavo guidando nella seconda corsia e all’improvviso il tizio nella prima ha sterzato verso di me. Ho reagito e l’auto si è ribaltata.</TEXT>
+<TEXT>Ricorda il tipo di auto o la targa di quel veicolo?</TEXT>
+<TEXT>Non ne sono davvero sicuro. Forse era una </TEXT>
+<TEXT>La persona ha messo la freccia o ha semplicemente sterzato verso la sua corsia?</TEXT>
+<TEXT>No. Ha sterzato nella mia corsia senza alcun preavviso.</TEXT>
+<TEXT>Grazie per le informazioni. Forse {0} la contatterà di nuovo.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+<TEXT>Ciao, {0}. Sei la seconda persona coinvolta in questo incidente?</TEXT>
+<TEXT>Ciao sì, stavo guidando dietro l’auto che si è ribaltata.</TEXT>
+<TEXT>Quindi puoi descrivere la situazione che ha causato questo incidente?</TEXT>
+<TEXT>Certo. Un veicolo è entrato nella corsia del tizio senza alcun preavviso.. Una cosa ha portato all’altra e BAAM.</TEXT>
+<TEXT>Ricordi una targa, il tipo di auto o magari il colore?</TEXT>
+<TEXT>No mi dispiace.</TEXT>
+<TEXT>Grazie per il tuo tempo, se hai bisogno di qualcosa contatta {0}.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Ciao, {0}. Sei la seconda persona coinvolta in questo incidente?</TEXT>
+<TEXT>Ciao sì, stavo guidando dietro l’auto che si è ribaltata.</TEXT>
+<TEXT>Quindi puoi descrivere la situazione che ha causato questo incidente?</TEXT>
+<TEXT>Certo. Un veicolo è entrato nella corsia del tizio senza alcun preavviso.. Una cosa ha portato all’altra e BAAM.</TEXT>
+<TEXT>Ricordi una targa, il tipo di auto o magari il colore?</TEXT>
+<TEXT>No mi dispiace.</TEXT>
+<TEXT>Grazie per il tuo tempo, se hai bisogno di qualcosa contatta {0}.</TEXT>
+>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="15">
+        <CONTACTID ID="1">
+<TEXT>Wow. È passato un po’ di tempo dall’ultimo incidente qui. Che sta succedendo?</TEXT>
+<TEXT>Ehi {0}. Hai ragione. Nessun problema qui da molto tempo.</TEXT>
+<TEXT>Hai già preso contatto con le persone coinvolte?</TEXT>
+<TEXT>No. Sei tu il poliziotto di grado più alto qui. Per favore occupatene tu.</TEXT>
+<TEXT>Sempre la stessa scusa. Sta diventando vecchia. Va bene, lo farò.</TEXT>
+<TEXT>Grazie mille. Terrò il traffico lontano da te.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Ehi, mi chiamo {0} del {1}. Sta bene?</TEXT>
+<TEXT>Sì, sto bene, solo qualche livido. Ma mia figlia è ferita. I soccorritori la stanno portando in ospedale.</TEXT>
+<TEXT>Mi dispiace sentirlo. Le è possibile rispondere ad alcune domande riguardo l’incidente?</TEXT>
+<TEXT>Beh, spero di ricordare qualcosa. È tutto un po’ confuso per via dell’impatto. Ci proverò.</TEXT>
+<TEXT>Come è successo? Un altro veicolo è stato coinvolto in questo incidente?</TEXT>
+<TEXT>Sì, un’altra auto è passata nella mia corsia e ho dovuto frenare forte. Ma non è bastato. Credo fosse una </TEXT>
+<TEXT>Per favore si prenda un momento e pensi bene alla sua risposta.</TEXT>
+<TEXT>Beh mi dispiace. Non posso dire se la mia risposta sia corretta.. per favore interroghi gli altri.. forse loro sanno.</TEXT>
+<TEXT>Okay, grazie comunque.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+<TEXT>Ciao, {0}. Posso parlarti un secondo?</TEXT>
+<TEXT>Ciao, certo, vai pure</TEXT>
+<TEXT>Il tizio che ha ribaltato la sua auto mi ha detto che l’incidente è stato causato da una terza auto, è corretto?</TEXT>
+<TEXT>Sì. Come puoi vedere, ho cercato di fermarmi ma non ci sono riuscito.</TEXT>
+<TEXT>Ricordi una targa, il tipo di auto o magari il colore?</TEXT>
+<TEXT>No mi dispiace. I miei occhi erano concentrati sull’auto davanti a me... scusa</TEXT>
+<TEXT>Okay, se hai bisogno di qualcosa contatta {0}.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Ehi, sono l’agente {0}. Sei tu che hai chiamato il 1-1-2?</TEXT>
+<TEXT>Sì, ho chiamato la polizia. Stavo guidando un po’ dietro quei due quando è successo l’incidente.</TEXT>
+<TEXT>Sembra che ci sia una terza auto che ha causato l’incidente. Hai visto la targa del </TEXT>
+<TEXT>Sì, ma l’auto non era un </TEXT>
+<TEXT>Allora gli altri devono essersi sbagliati. Che tipo di auto era?</TEXT>
+<TEXT>Era una </TEXT>
+<TEXT>Grazie per il tuo aiuto, lo apprezzo. Puoi andare ora.</TEXT>
+<TEXT>Okay. Arrivederci</TEXT>
+<TEXT></TEXT>
+
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>

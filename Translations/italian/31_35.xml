@@ -1,0 +1,222 @@
+<TRANSLATION>
+    <CALLOUTID ID="31">
+        <CONTACTID ID="1">
+<TEXT>Salve signora, è stata lei a segnalare il disturbo?</TEXT>
+<TEXT>Salve agente. Sì, sono stata io. Riesce a sentire quella musica assordante?</TEXT>
+<TEXT>Sì. Da quanto tempo la stanno suonando così forte?</TEXT>
+<TEXT>Va avanti da almeno quattro ore. Può per favore farla smettere? Proviene da quella casa.</TEXT>
+<TEXT>Farò del mio meglio per farla spegnere. Grazie per avercelo segnalato.</TEXT>
+<TEXT>Grazie agente.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Salve a tutti. Chi è il proprietario di questa casa?</TEXT>
+<TEXT>Salve agente. Questa è casa mia… c’è qualche problema?</TEXT>
+<TEXT>Ciao, abbiamo ricevuto una lamentela da un suo vicino riguardo alla musica ad alto volume. Come si chiama, signore?</TEXT>
+<TEXT>Non ho intenzione di dirglielo! Stiamo facendo una festa, è normale che ci sentano!</TEXT>
+<TEXT>Capisco, signore, ma ho bisogno che abbassi il volume.</TEXT>
+<TEXT>Va bene… se lo dice lei. Mi dia un secondo…</TEXT>
+<TEXT>Meglio ora?</TEXT>
+<TEXT>Sì, grazie per la collaborazione. Buon proseguimento della festa.</TEXT>
+<TEXT>Uff… rovina feste…</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+<TEXT>Signore, pensa sia necessario che debba tornare di nuovo?</TEXT>
+<TEXT>Oh, salve agente. Mi dispiace, credo che uno dei miei amici abbia alzato il volume. Vado ad abbassarlo.</TEXT>
+<TEXT>Beh, questa è la seconda volta che vengo qui. Non mi interessano le scuse. Spegni la musica.</TEXT>
+<TEXT>Perché? Non si divertiva quando era adolescente? Smetta di lamentarsi, ci stiamo divertendo!</TEXT>
+<TEXT>La ho già avvisata. Spegnerla adesso.</TEXT>
+<TEXT>No. Non può obbligarmi. Sono stufo di lei che cerca di rovinare la mia festa.</TEXT>
+<TEXT>Ci sono due modi in cui questo può finire. Primo: spegne la musica e continua la festa.</TEXT>
+<TEXT>Secondo: se rifiuta di collaborare, la festa finisce e la porterò via per disturbo della quiete pubblica. Scelga lei.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Va bene allora… spegnerò la musica.</TEXT>
+<TEXT>Contento ora?</TEXT>
+<TEXT>Saggia decisione, amico mio. A prescindere da questo, le auguro una buona giornata.</TEXT>
+<TEXT>Lasci la mia proprietà. La gente qui attorno fa schifo…</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+<TEXT>Maiale schifoso!</TEXT>
+<TEXT>Okay amico, mani dove posso vederle. Vai in arresto per disturbo della quiete pubblica.</TEXT>
+<TEXT>Wow, non ci posso credere. Qualcuno chiaramente non sa divertirsi!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="32">
+        <CONTACTID ID="1">
+<TEXT>Salve signore, è stato lei a chiamare riguardo alla musica ad alto volume?</TEXT>
+<TEXT>Salve agente. Sì, sono stato io a chiamare la polizia.</TEXT>
+<TEXT>Immagino che stia parlando della musica che sento in sottofondo?</TEXT>
+<TEXT>Sì. Quelli che fanno festa sono sempre lì a festeggiare, e noi vicini ne paghiamo le conseguenze! Può farla spegnere, per favore?</TEXT>
+<TEXT>Certo. Parlerò con il proprietario e gli chiederò di abbassare il volume.</TEXT>
+<TEXT>Grazie mille agente.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Ciao. Sono l’agente {0}. Chi è il responsabile di questa festa?</TEXT>
+<TEXT>Sono io. Michael De Santa. C’è qualche problema, agente?</TEXT>
+<TEXT>Sì, signor De Santa. Mi dispiace interrompere, ma i suoi vicini si stanno lamentando della musica troppo alta.</TEXT>
+<TEXT>Oh andiamo, questa è una festa per mia figlia Tracy. Finalmente ha ottenuto un lavoro in TV.</TEXT>
+<TEXT>È bello sentirlo, Michael, ma ho bisogno che abbassi il volume.</TEXT>
+<TEXT>Va bene allora, mi dia un secondo…</TEXT>
+<TEXT>Ora va bene?</TEXT>
+<TEXT>Grazie signor De Santa. Apprezzo la sua collaborazione. Buona festa.</TEXT>
+<TEXT>Non sarà divertente come prima…</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="3">
+           <TEXT>Signor De Santa, posso parlarle di nuovo?</TEXT>
+<TEXT>E adesso cosa?</TEXT>
+<TEXT>Perché la musica è di nuovo così alta?</TEXT>
+<TEXT>Vuole davvero una risposta?</TEXT>
+<TEXT>In realtà non mi interessa. Spenga la musica, oppure la porterò in centrale.</TEXT>
+<TEXT>Ma che diavolo? Perché si comporta come un poveraccio?</TEXT>
+<TEXT>Le ho chiesto gentilmente di spegnere la musica, e ora non ha più scelta.</TEXT>
+<TEXT>Spenga la musica prima che la porti via.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Okay okay, non agitarti.</TEXT>
+<TEXT>Contento ora?</TEXT>
+<TEXT>Se devo tornare un’altra volta, andrai dritto in centrale. Arrivederci signor De Santa.</TEXT>
+<TEXT>Qualunque cosa, amico. Torna alla tua terapia di gruppo… testa di legno.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+<TEXT>Col cavolo che lo farò!</TEXT>
+<TEXT>Allora ti porto in centrale per disturbo della quiete pubblica. Fammi vedere le mani.</TEXT>
+<TEXT>È una stupidaggine. Chiamerò il mio avvocato, figlio di…!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="33">
+        <CONTACTID ID="1">
+<TEXT>Salve. Ha chiamato il 911 per la musica ad alto volume?</TEXT>
+<TEXT>Salve agente. Sì. La stanno suonando da alcune ore. Basta, non se ne può più!</TEXT>
+<TEXT>Capisco. Il volume è sempre stato così alto?</TEXT>
+<TEXT>Ci sono stati alcuni minuti di silenzio, ma per il resto è stato così per ore.</TEXT>
+<TEXT>Okay. Contatterò il proprietario della casa e gli chiederò di abbassare il volume.</TEXT>
+<TEXT>Grazie per prendere la cosa seriamente.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+           <TEXT>Salve. Posso parlare un momento con il proprietario della casa?</TEXT>
+<TEXT>Ehi fratello, sono Franklin Clinton. Questa è casa mia, che succede?</TEXT>
+<TEXT>Salve signor Clinton, abbiamo ricevuto una lamentela riguardo alla musica troppo alta.</TEXT>
+<TEXT>Cosa? Non è così forte. La gente riesce ancora a parlare tra loro…</TEXT>
+<TEXT>Comunque sia, la prego di abbassare il volume.</TEXT>
+<TEXT>Va bene, se proprio devo…</TEXT>
+<TEXT>Così va bene per il mio amico agente?</TEXT>
+<TEXT>Sì, va bene. Grazie per la collaborazione.</TEXT>
+<TEXT>Grazie agente!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+ <TEXT>Ehi signor Clinton, torni qui un momento per favore.</TEXT>
+<TEXT>Ehi yo. Che ci fai di nuovo qui?</TEXT>
+<TEXT>Sono tornato perché la musica è di nuovo troppo alta.</TEXT>
+<TEXT>Secondo me è allo stesso volume di prima. Quello che si lamenta deve avere le orecchie rovinate.</TEXT>
+<TEXT>Signore, deve spegnere la musica adesso.</TEXT>
+<TEXT>Cosa? No, la abbasso soltanto. Non deve essere spenta!</TEXT>
+<TEXT>Signore, non renda la situazione più difficile del necessario.</TEXT>
+<TEXT>Spenga la musica, prima che la porti in centrale per disturbo della quiete pubblica.</T
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Eh, se il poliziotto dice di spegnerla, immagino che devo spegnerla…</TEXT>
+<TEXT>Il silenzio è arrivato. Contento?</TEXT>
+<TEXT>Spero che rimanga così. Grazie.</TEXT>
+<TEXT>Scusi per il disturbo, agente.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+           <TEXT>Sai che ti dico, vai a succhiare un bel…</TEXT>
+<TEXT>Okay, mani dove posso vederle. Lei è in arresto per disturbo della quiete pubblica.</TEXT>
+<TEXT>La prigione non mi farà niente, maiale!</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="34">
+        <CONTACTID ID="1">
+<TEXT>Salve signora. Ha chiamato il 911 per un rumore molesto?</TEXT>
+<TEXT>Salve agente. Sì, ho chiamato la polizia. La festa è troppo fuori controllo. Stanno lanciando bottiglie di birra e facendo altre cose assurde...</TEXT>
+<TEXT>Hanno lanciato qualcosa in strada o verso le case?</TEXT>
+<TEXT>Per fortuna no. È quella casa laggiù, con il furgone dei Lost.</TEXT>
+<TEXT>Sembra una festa di motociclisti. Perché non rientra in casa mentre noi ci occupiamo della situazione.</TEXT>
+
+            <TEXT>Grazie.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="2">
+<TEXT>Salve a tutti. Chi è il proprietario qui?</TEXT>
+<TEXT>Sono io. Che cosa vuole il maiale in uniforme?</TEXT>
+<TEXT>La vostra musica è troppo alta. Devo chiedervi di abbassarla.</TEXT>
+<TEXT>Nah, io non sento nessuna musica.</TEXT>
+<TEXT>Vuole collaborare, o devo portarla in centrale per disturbo della quiete pubblica?</TEXT>
+<TEXT>Se è così che vuole fare, vado ad abbassarla.</TEXT>
+<TEXT>Non pensare di aver vinto.</TEXT>
+<TEXT>Va bene amico, grazie per la collaborazione. Non costringermi a tornare.</TEXT>
+<TEXT>A presto, maiale in uniforme!</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+           <TEXT>Signore, venga qui un momento.</TEXT>
+<TEXT>Cosa succede, maiale in uniforme? Vuoi unirti alla festa?</TEXT>
+<TEXT>No. Deve spegnere la musica e interrompere la festa.</TEXT>
+<TEXT>Nah! Io non sento nessuna musica, e nemmeno i miei fratelli o sorelle.</TEXT>
+<TEXT>Mi ci vorrà un po’ per annotare tutte le violazioni che vedo qui. Sarà una bella multa, a meno che non voglia collaborare.</TEXT>
+<TEXT>Qual è il tuo fottuto problema, maiale in uniforme?</TEXT>
+<TEXT>Il mio problema è che lei si ostina a non ascoltare.</TEXT>
+<TEXT>Ultima possibilità. Spenga la musica, oppure andrà in centrale per disturbo della quiete pubblica.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+<TEXT>Questa volta ascolterò.</TEXT>
+<TEXT>La prossima volta no.</TEXT>
+<TEXT>La prossima volta finirà in centrale se non collabora. Le auguro una buona giornata.</TEXT>
+<TEXT>Fottuti maiali in uniforme. Non avete vinto questa battaglia.</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+
+<TEXT>Maiale in uniforme del cazzo. Non farò nulla di quello che dici!</TEXT>
+<TEXT>Mostri le mani. È in arresto per disturbo della quiete pubblica.</TEXT>
+<TEXT>Ecco perché odio i poliziotti.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+    <CALLOUTID ID="35">
+        <CONTACTID ID="1">
+           <TEXT>Salve signora. Ha chiamato la polizia per una festa rumorosa?</TEXT>
+<TEXT>Salve agente. Sì, ha sentito la musica? È la terza volta che quella lì fa una festa del genere.</TEXT>
+<TEXT>Non c’è bisogno di insultare la sua vicina. Ha provato a parlarle?</TEXT>
+<TEXT>No, non parlerò con lei. La casa è laggiù. Provi la porta a sinistra, altrimenti li trova sulla terrazza superiore.</TEXT>
+<TEXT>Ok, grazie per l’informazione. Per favore rientri in casa. Mi occuperò io della situazione.</TEXT>
+<TEXT>Spero che finisca in prigione, arrivederci.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="2">
+           <TEXT>Salve a tutti. Devo parlare con il proprietario di questa casa.</TEXT>
+<TEXT>Salve agente, sono io. In cosa posso aiutarla?</TEXT>
+<TEXT>Abbiamo ricevuto una segnalazione di disturbo della quiete a causa della musica troppo alta.</TEXT>
+<TEXT>È sicuro che sia la mia festa?</TEXT>
+<TEXT>Sì, ne sono certo. Per favore, mi faccia un favore e abbassi il volume a un livello adeguato.</TEXT>
+<TEXT>Va bene allora, aspetti qui.</TEXT>
+<TEXT>Questo è il minimo che voglio abbassarla. Va bene così?</TEXT>
+<TEXT>Sì signorina, grazie e buona giornata.</TEXT>
+<TEXT>Arrivederci.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="3">
+            <TEXT>Signorina, venga qui un momento per favore!</TEXT>
+<TEXT>Ahm ok? Che cosa ho fatto di sbagliato stavolta?</TEXT>
+<TEXT>Il livello del rumore è tornato com’era prima. Può dirmi perché?</TEXT>
+<TEXT>No, è ancora allo stesso livello di quando è andato via. Deve avere qualche problema alle orecchie.</TEXT>
+<TEXT>Le mie orecchie stanno benissimo, ma sembra che la sua memoria no. Spenga immediatamente la musica!</TEXT>
+<TEXT>Perché è così scortese? Non mi piace.</TEXT>
+<TEXT>Beh, non mi piace che mi stia mentendo.</TEXT>
+<TEXT>Lo dirò una sola volta. Spenga la musica adesso o stacco la corrente e la porto in centrale.</TEXT>
+
+        </CONTACTID>
+        <CONTACTID ID="4">
+            <TEXT>Va bene, mi dispiace. Lo spengo.</TEXT>
+<TEXT>Non voglio avere problemi.</TEXT>
+<TEXT>La prossima volta ci pensi due volte prima di mentire alla polizia. Arrivederci.</TEXT>
+<TEXT>Che idiota!</TEXT>
+        </CONTACTID>
+        <CONTACTID ID="5">
+ <TEXT>Sai una cosa? NO. Penso che tu stia esagerando. Il livello del rumore è perfetto.</TEXT>
+<TEXT>Ne ho abbastanza. Spiegherai tutto in centrale. Fammi vedere le mani.</TEXT>
+<TEXT>Quella stupida là sotto. È lei che dovrebbe essere arrestata.</TEXT>
+        </CONTACTID>
+    </CALLOUTID>
+</TRANSLATION>
